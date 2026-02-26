@@ -1,0 +1,37 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "label": {
+      "names": [
+        "ENFJ",
+        "ENFP",
+        "ENTJ",
+        "ENTP",
+        "ESFJ",
+        "ESFP",
+        "ESTJ",
+        "ESTP",
+        "INFJ",
+        "INFP",
+        "INTJ",
+        "INTP",
+        "ISFJ",
+        "ISFP",
+        "ISTJ",
+        "ISTP"
+      ],
+      "_type": "ClassLabel"
+    },
+    "post": {
+      "dtype": "large_string",
+      "_type": "Value"
+    },
+    "__index_level_0__": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
