@@ -3,3 +3,9 @@
 env/
 .venv/
 ENV/
+
+
+notbooks/oldnotebooks
+scripts/oldscripts
+data/unused_data
+figs/oldfigs
