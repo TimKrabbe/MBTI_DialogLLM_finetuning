@@ -5,7 +5,7 @@ env/
 ENV/
 
 
-notbooks/oldnotebooks
+notebooks/oldnotebooks
 scripts/oldscripts
 data/unused_data
 figs/oldfigs
