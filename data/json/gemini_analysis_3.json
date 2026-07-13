@@ -1,0 +1,764 @@
+{
+    "dialogues": [
+        {
+            "global_id": 13,
+            "codings": [
+                {
+                    "text_segment": "But that's no excuse for not following orders.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic and adhering to orders."
+                },
+                {
+                    "text_segment": "It makes sense. But still... What if someone else gets sick?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable ('It makes sense')."
+                },
+                {
+                    "text_segment": "So now that I know how serious this disease is, I feel like I need to take extra precautions to protect myself against it.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of planful and systematic ('take extra precautions to protect myself')."
+                },
+                {
+                    "text_segment": "He\u2019s pretty stupid. I hope they fire him immediately. If anyone deserves losing their job, it\u2019d be him. He doesn\u2019t care about himself enough to follow basic safety guidelines. That shows me that he\u2019s careless and irresponsible.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of critical and objective judgment based on rules and consequences."
+                },
+                {
+                    "text_segment": "People nowadays seem to be lazy. They\u2019re unwilling to listen carefully to instructions, which results in misunderstandings.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of critical and objective analysis of behavior and its logical consequences."
+                },
+                {
+                    "text_segment": "As long as we continue practicing social distancing measures, hopefully cases will decrease rapidly. I think once hospitals become less crowded, doctors will have better chances to save patients\u2019 lives.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic and methodical, outlining a plan with expected outcomes."
+                },
+                {
+                    "text_segment": "That\u2019s why it\u2019s crucial to cooperate with authorities whenever necessary. If we all try to protect ourselves first, nobody will survive. But if we prioritize helping others, eventually we\u2019ll overcome this crisis together. Only united, can we defeat evil.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of prioritizing helping others and focusing on unity for the greater good, which is values-driven."
+                },
+                {
+                    "text_segment": "That\u2019s precisely reason why democracy exists\u2014to ensure that majority rule prevails without compromising freedoms enjoyed individually by members comprising entire population.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable, analyzing abstract societal structures and their purpose."
+                },
+                {
+                    "text_segment": "Oh, come on! That'll never happen again! They were only doing their job! And besides, even though masks aren't 100% effective, at least something will prevent them from spreading germs. So why not comply? Just put it over your nose and mouth, and everything will be okay.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and dismissive of potential future problems ('That'll never happen again!')."
+                },
+                {
+                    "text_segment": "Well anyway\u2026 Let\u2019s talk about something else then. Did you hear about the guy who got fired because he refused to wear his mask while working?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of gregarious and actively shifting the conversation to a new, external topic."
+                },
+                {
+                    "text_segment": "I agree. It\u2019s very unfortunate that people sometimes act selfishly instead of thinking about those around us. In fact, I heard another person being fined today for refusing to stay six feet away from others. I thought that was ridiculous. She claimed she couldn\u2019t understand English properly, so she didn\u2019t realize what sign meant. I wonder if the police officer believed her or not. I hope he did",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and compassionate, expressing concern for others' understanding and hoping for leniency."
+                },
+                {
+                    "text_segment": "I hope more and more people learn valuable lessons from mistakes made recently. I truly hope things settle down soon. Right now, everyone seems stressed out. Nobody feels safe anymore.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and compassionate, focusing on the emotional state and well-being of the collective."
+                },
+                {
+                    "text_segment": "When there aren\u2019t as many patients needing treatment simultaneously, medical professionals can focus on each individual case separately. This way, doctors will be able to provide quality healthcare services faster than usual.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable, analyzing system efficiency and objective outcomes."
+                },
+                {
+                    "text_segment": "Therefore, it\u2019s important to support leaders who make sound decisions based on facts rather than emotions. We shouldn\u2019t blindly follow rules set forth arbitrarily without questioning whether they actually benefit humanity as whole.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and objective, emphasizing decisions based on facts and critical questioning."
+                },
+                {
+                    "text_segment": "However, I worry about the potential negative effects associated with authoritarian regimes. For example, North Korea has strict control over its populace, yet it suffers economically due to isolationist policies implemented decades ago. South Korea, however, thrives thanks largely to economic liberalization allowing free trade agreements beneficial to global markets. Hence, excessive government interference tends discourage entrepreneurship essential for prosperity.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptual and theoretical, discussing abstract political and economic systems and their long-term implications."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "INTJ",
+                    "type (best guess)": "INTJ",
+                    "summary": "Person A demonstrates a preference for logical analysis, systematic planning, and a contained, reflective approach, with a focus on objective principles."
+                },
+                "person_B": {
+                    "type": "ENTP",
+                    "type (best guess)": "ENTP",
+                    "summary": "Person B exhibits extraverted engagement, a preference for conceptual thinking, and a flexible, open-ended approach, often shifting between empathetic and logical viewpoints."
+                }
+            }
+        },
+        {
+            "global_id": 14,
+            "codings": [
+                {
+                    "text_segment": "What's wrong if I take my mask off for just one second? It isn't like anyone will notice!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and dismissive of rules or potential consequences."
+                },
+                {
+                    "text_segment": "I've been here all day long without having anything happen to me. This virus has only affected a small number of people anyway. I doubt it'll come around here. Besides, nobody knows if this virus even exists at all. We probably won't ever catch something anyway. So relax! Don't worry about little things! It doesn't matter! It's okay!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and dismissive of rules or potential risks, preferring an open-ended approach to safety."
+                },
+                {
+                    "text_segment": "What did you mean when you said that? Why would you threaten me like that?! How dare you?! I'm going to call security! You're acting ridiculous! Just put your mask on already! I really don't care anymore! Go ahead! Take it off! That's exactly what you wanted, wasn't it? Well, you got it! Here, take it off! Have fun catching",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal feelings and outrage."
+                },
+                {
+                    "text_segment": "I'm going to call security!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of action-oriented and expressive, taking external action."
+                },
+                {
+                    "text_segment": "Wait. Wait. I\u2019m getting angry again. No way am I letting you walk away. You\u2019ve insulted me once more today. You can\u2019t just pretend nothing happened. I demand an apology. Tell me where you stand. Apologize or I swear I\u2019ll beat you up! I don\u2019t give a damn whether I die or not! I\u2019m not afraid of dying! I\u2019m",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal feelings, a sense of insult, and demanding an apology based on personal values."
+                },
+                {
+                    "text_segment": "I\u2019m warning you\u2026 I\u2019m warning everybody in this store\u2026 Everyone\u2019s gonna hear you talk about me like that. I can see all those eyes over there staring at us\u2026",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of expressive and action-oriented, focusing on external reactions and public declaration."
+                },
+                {
+                    "text_segment": "You haven\u2019t heard everything yet! I still haven\u2019t finished what I wanted to say! You\u2019re not getting rid of me that easy! You\u2019re gonna pay for what you said about me! I\u2019m gonna make sure you never forget about this! I\u2019m telling you\u2026 I promise you\u2026 You are not getting away with this\u2026 You\u2019re gonna regret it\u2026 You\u2019re not",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of expressive and action-oriented, asserting presence and intent to ensure external consequences."
+                },
+                {
+                    "text_segment": "I hope you're aware of how dangerous viruses can spread easily without wearing masks. They can travel up to three feet away from someone who is infected... And they could get into your lungs pretty fast... And then you might start feeling sick. So please, put your mask back on immediately, before you cause yourself harm. Please. Put it back",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and compassionate, expressing concern for the other person's well-being ('before you cause yourself harm')."
+                },
+                {
+                    "text_segment": "So please, put your mask back on immediately, before you cause yourself harm. Please. Put it back",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic and demanding closure/immediate action."
+                },
+                {
+                    "text_segment": "You're not being responsible! You need to put it back on! Now! Before it gets too late! Put it back on, or else!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic and demanding immediate compliance with rules and responsibility."
+                },
+                {
+                    "text_segment": "Hey, hey calm down. Look, man. I\u2019m not trying to fight with you. I\u2019ve had enough with these stupid rules myself. You\u2019re free to go ahead and remove your mask whenever you want to. Nobody\u2019s stopping you. But honestly, dude, if you take another step forward, I\u2019ll punch you in the face. You\u2019ve made your point. Now let\u2019s both leave",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, allowing the other person freedom ('You\u2019re free to go ahead and remove your mask whenever you want to')."
+                },
+                {
+                    "text_segment": "You know what? Forget it. I quit. Let\u2019s go.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent, making an abrupt decision to disengage."
+                },
+                {
+                    "text_segment": "I don\u2019t see why I gotta listen to you! Just go ahead and take your mask off if you wanna risk it. I\u2019m done talking to you. I\u2019m gonna leave. I hate you. You\u2019re such a jerk. You don\u2019t deserve respect. People like you don\u2019t belong anywhere. I hope the virus finds you soon. You\u2019re asking for it! Bye bye",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal feelings of hatred and disrespect."
+                },
+                {
+                    "text_segment": "I\u2019m done talking to you. I\u2019m gonna leave.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent, making an abrupt decision to disengage."
+                },
+                {
+                    "text_segment": "Okay, cool. Whatever. Happy? Then shut up! Leave me alone! You\u2019re wasting my time!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended ('Whatever')."
+                },
+                {
+                    "text_segment": "Shut up, man. You sound crazy. I don\u2019t want to hear anymore. I\u2019m gone. I\u2019m outta here. I\u2019m tired of listening to you. Get lost. You\u2019re giving me a headache. I\u2019m leaving. I\u2019m quitting. I\u2019m walking away. I\u2019m checking out. Bye-bye. See ya later.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent, making a series of abrupt decisions to disengage and leave."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person A displays strong extraverted expression, subjective emotional reactions, and a casual, open-ended approach to rules and situations."
+                },
+                "person_B": {
+                    "type": "ISFP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B shows a preference for subjective emotional responses and spontaneous, open-ended actions, initially attempting to enforce rules but quickly giving way to personal feelings and disengagement."
+                }
+            }
+        },
+        {
+            "global_id": 15,
+            "codings": [
+                {
+                    "text_segment": "Well... I just think that if we're going to go out into the world anyway, then there's no point to wearing masks. Besides, they make me feel like I can\u2019t breathe!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, dismissing rules as having 'no point'."
+                },
+                {
+                    "text_segment": "they make me feel like I can\u2019t breathe!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective, expressing personal discomfort and feelings."
+                },
+                {
+                    "text_segment": "Oh, okay. Sorry, man. That wasn't very nice of me. Here\u2019s mine. Put yours on, will ya? We gotta look out for each other during these times.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accommodating, apologizing and expressing concern for mutual well-being."
+                },
+                {
+                    "text_segment": "I dunno. I guess everybody has his own opinion on stuff like that. Personally, I\u2019d rather take care of myself than worry about what others might decide to do. I try hard never to judge anyone unless I absolutely have to. Most folks aren\u2019t bad guys. I believe most people are actually pretty decent once you talk to them. There\u2019s nothing wrong with trusting strangers.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accepting and tender-hearted, expressing a non-judgmental and trusting view of others."
+                },
+                {
+                    "text_segment": "I bet they\u2019re not really doing it to hurt anybody. Maybe they just don\u2019t realize how dangerous it is. Or maybe they\u2019re not aware that they\u2019re breaking the rules.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accepting, seeking to understand others' motivations in a positive light."
+                },
+                {
+                    "text_segment": "We have to learn to let people be themselves. We shouldn\u2019t jump to conclusions based on stereotypes.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accepting and accommodating, emphasizing understanding and non-judgment."
+                },
+                {
+                    "text_segment": "No kidding! Oh, wow, you sound just like me! It\u2019s amazing how alike we are. No wonder we hit it off so quickly. Maybe it\u2019s karma or destiny or something. It sure feels like fate brought us together somehow.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of expressive and enthusiastic, openly sharing excitement and personal connection."
+                },
+                {
+                    "text_segment": "Maybe it\u2019s karma or destiny or something. It sure feels like fate brought us together somehow.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of imaginative and conceptual, discussing abstract ideas like karma, destiny, and fate."
+                },
+                {
+                    "text_segment": "Well, I'm sorry about that. But my doctor told me that I have to do everything possible to prevent myself from catching anything right now. And for me, that means wearing a mask. So I really need you to please put one back on. It would mean a lot to me. I know it doesn't seem important to you, but it does matter to me. Can you at least",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accommodating, appealing to personal feelings and values ('it would mean a lot to me', 'it does matter to me')."
+                },
+                {
+                    "text_segment": "Let\u2019s get our shopping done, shall we?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and moving towards a planned activity."
+                },
+                {
+                    "text_segment": "I\u2019ve heard all kinds of rumors lately about people taking off their masks while walking around outside, especially when nobody else is nearby. People say it happens quite often, even though it\u2019s against the law. I hope it isn\u2019t true. I hate those kind of stories. They make me nervous.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing personal feelings of dislike and nervousness about external events."
+                },
+                {
+                    "text_segment": "We evolved over millions of years to survive and thrive together. If we didn\u2019t trust one another, humanity wouldn\u2019t exist anymore. It\u2019s just human nature to help each other out whenever we can.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptual and theoretical, discussing broad evolutionary and philosophical ideas about human nature."
+                },
+                {
+                    "text_segment": "When we first moved next door to each other, we both kept to ourselves because neither of us knew exactly what to expect from the other person. I remember feeling kind of wary of her.",
+                    "speaker": "Person B",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Matches the definition of private and contained, describing a preference for keeping to oneself initially."
+                },
+                {
+                    "text_segment": "I know she likes you, and I want her to be happy. I wish I had the courage to ask her out sometime soon. It would be fun having two people interested in me.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and empathetic, expressing concern for another's happiness and personal desires for connection."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Person A demonstrates strong extraverted enthusiasm, a preference for imaginative and conceptual thinking, and a highly empathetic, accepting, and open-ended approach to life."
+                },
+                "person_B": {
+                    "type": "INFJ",
+                    "type (best guess)": "INFJ",
+                    "summary": "Person B exhibits a preference for introverted reflection, conceptual understanding, and a consistently empathetic and values-driven approach, with a tendency towards closure."
+                }
+            }
+        },
+        {
+            "global_id": 16,
+            "codings": [
+                {
+                    "text_segment": "I'm just worried about my health. I have asthma. If something bad happens here, I'll probably die. And then there will be no one left to take care of you. So... can we please go back home?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing personal fears and concern for the well-being of others."
+                },
+                {
+                    "text_segment": "Well, fine. We\u2019ll stay at home for now. I guess you win. But if anyone comes over while we\u2019re gone, tell them that we\u2019re not available right now. They won\u2019t understand why though. Because we were going to leave anyway. But yeah, I think maybe we\u2019ll go somewhere else. Maybe we could find someplace outside where people aren\u2019t wearing masks anymore.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, suggesting flexible and spontaneous alternatives ('maybe we\u2019ll go somewhere else')."
+                },
+                {
+                    "text_segment": "We\u2019ve been seeing each other secretly since last week. But I\u2019m still trying to figure her out.",
+                    "speaker": "Person A",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Matches the definition of private and contemplative, engaging in a secret relationship and reflecting internally to 'figure her out'."
+                },
+                {
+                    "text_segment": "What does that mean? Are you two planning on doing something more serious than just having sex behind his back? Is that what this whole thing is about? Is she thinking about leaving her family forever? Oh God, this isn\u2019t good. This can\u2019t be happening. Not to me. I haven\u2019t even met her family yet. How am I supposed to live with her without meeting them first?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal distress and values-based concerns ('Oh God, this isn\u2019t good. This can\u2019t be happening. Not to me.')."
+                },
+                {
+                    "text_segment": "You\u2019re telling me that she wants to leave her husband and children behind for you? What kind of person would do such a thing?! And why didn\u2019t she ever mention anything to me before? Does she even consider me as part of her life? No wonder she acts so distant towards me lately. She\u2019s been playing both sides against each other all along. That\u2019s so unfair",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal values, a sense of injustice, and feelings of being disregarded."
+                },
+                {
+                    "text_segment": "Yeah, but she shouldn\u2019t make decisions based only on feelings. She needs to think logically. Especially when it involves her kids. If she leaves, she\u2019s abandoning them. They\u2019re already growing up without their father around. It wouldn\u2019t be fair to put them under additional stress by moving across town. They deserve stability.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable, advocating for decisions based on logic rather than feelings and outlining objective consequences."
+                },
+                {
+                    "text_segment": "I wish she\u2019d listen to me for once. I feel like I\u2019m being ignored completely. I don\u2019T think I can handle living with secrets like this. I need honesty and transparency. Otherwise, I\u2019ll lose faith in her completely. I\u2019m afraid I\u2019ll wake up tomorrow morning feeling lonely and betrayed.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal needs for honesty and fear of betrayal."
+                },
+                {
+                    "text_segment": "But when we get home, you're taking off all those masks! I swear! You\u2019re gonna have to take them off before I even give you a hug. That\u2019s how much I hate these things! It\u2019s like they\u2019re trying to kill us, man. They\u2019re suffocating me. Seriously,",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal feelings of hatred and discomfort."
+                },
+                {
+                    "text_segment": "Well, alright, let's do whatever you want. Just get outta here.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, being flexible and accommodating to the other person's wishes."
+                },
+                {
+                    "text_segment": "Why did you decide to come visit today anyways? Did anything happen between you and your wife recently? Or maybe she found out about your secret life and decided to break up with you?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of gregarious and active, initiating conversation with personal questions."
+                },
+                {
+                    "text_segment": "I thought she meant her husband. But she denied it. I don\u2019t believe her. She\u2019s lying again. And she knows very well that I\u2019m suspicious. But instead of talking to me honestly, she keeps pretending everything is okay. It makes me mad because I love her too much. But she\u2019s making it hard for me to show it. I need to talk to her tonight.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal feelings of anger, love, and a desire for emotional honesty."
+                },
+                {
+                    "text_segment": "I saw her sitting alone on a park bench looking upset. I went over to comfort her and then kissed her. She kissed me back, and from then on everything became clear. I knew she loved me.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, focusing on emotional connection, comfort, and understanding feelings."
+                },
+                {
+                    "text_segment": "Listen, you have to trust me. She wouldn\u2019t do something like that unless she had a really solid reason for it. Believe me. I\u2019d never ask her to do something that would hurt others. I promise you. She loves you deeply. She\u2019s just confused about whether staying with him is better or running away is better.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and compassionate, defending the other person's motivations and expressing understanding of their emotional state."
+                },
+                {
+                    "text_segment": "But she believes that being with me is worth risking it. She thinks it\u2019ll help bring her family closer together eventually. She\u2019s convinced that he\u2019ll change if she sticks around long enough. She hopes he\u2019ll become more responsible and stop drinking alcohol all the time.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, focusing on beliefs, hopes, and desired emotional outcomes for relationships."
+                },
+                {
+                    "text_segment": "Oh, honey. Don\u2019t worry about it. I\u2019ll try my best to convince her to open up to you again. I\u2019ll remind her how important it is for friends to communicate openly. I\u2019ll encourage her to share her problems with you rather than keeping quiet about them. Please forgive me for not saying anything sooner. I tried my hardest to protect your relationship.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic, compassionate, and accommodating, focusing on emotional support, open communication, and protecting relationships."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "INFP",
+                    "type (best guess)": "INFP",
+                    "summary": "Person A demonstrates a preference for introverted reflection, strong subjective emotional responses, and a flexible, open-ended approach, often driven by personal values and concerns."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B exhibits extraverted engagement, strong subjective emotional expressions, and a casual, open-ended approach, prioritizing personal feelings and relational harmony."
+                }
+            }
+        },
+        {
+            "global_id": 17,
+            "codings": [
+                {
+                    "text_segment": "I'm just trying to stay healthy, that's all. I mean... look at yourself! You're coughing up a lung right there! Don't tell me you didn't catch anything from your last trip out? What if you gave it to me?! I wouldn't have a job anymore, man! I'd lose my pay check for sure. So please, just do us both a",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of present and realistic, observing immediate physical symptoms ('coughing up a lung')."
+                },
+                {
+                    "text_segment": "What if you gave it to me?! I wouldn't have a job anymore, man! I'd lose my pay check for sure. So please, just do us both a",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing personal fears and concern for mutual well-being."
+                },
+                {
+                    "text_segment": "Just put that damn thing back over your face before someone gets sick off of you. We can't let this spread further than necessary. That's why they made this rule in the first place.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic and planful, emphasizing rules and preventing spread."
+                },
+                {
+                    "text_segment": "That's why they made this rule in the first place.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable, explaining the rationale behind a rule."
+                },
+                {
+                    "text_segment": "Just make sure nobody catches anything from you while you\u2019re at it. Otherwise, you might have to call in sick again.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic, emphasizing adherence to a rule for a specific outcome."
+                },
+                {
+                    "text_segment": "No, no, hold on. Just let me finish talking about the subject. Okay? So anyway, I think it\u2019d actually be better to just stick with this one instead of getting a different kind. Because if you change your mind halfway through, then you may never get used to whatever alternative version of this item you chose. Instead, just tough it out and try to adapt.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of methodical and preferring closure, advocating for sticking to a decision and adapting rather than seeking alternatives."
+                },
+                {
+                    "text_segment": "Because if you change your mind halfway through, then you may never get used to whatever alternative version of this item you chose. Instead, just tough it out and try to adapt.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable, explaining the practical consequences of changing plans."
+                },
+                {
+                    "text_segment": "I think that\u2019s part of what makes humanity so resilient as a species. We learn from past mistakes and use that knowledge to avoid making similar errors in the future",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptual and theoretical, discussing abstract ideas about human resilience and learning from patterns."
+                },
+                {
+                    "text_segment": "And speaking of that, isn\u2019t that the whole reason behind social distancing measures like quarantining ourselves indoors whenever possible? To prevent the spread of germs among crowds of people?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and questioning, seeking to understand the underlying rationale and purpose."
+                },
+                {
+                    "text_segment": "This one just feels too tight around here. Can't breathe. It's suffocating. Maybe give me some time to adjust. Or maybe find something else I can wear. Something less restrictive. Please, no more",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, expressing strong personal discomfort and feelings."
+                },
+                {
+                    "text_segment": "Maybe give me some time to adjust. Or maybe find something else I can wear. Something less restrictive.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of open-ended and seeking options, preferring flexibility over immediate compliance."
+                },
+                {
+                    "text_segment": "If I still feel uncomfortable afterwards, then okay, I will comply. But otherwise, I\u2019m sticking with this one. It\u2019s fine.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of open-ended and spontaneous, showing conditional compliance and keeping options open based on personal comfort."
+                },
+                {
+                    "text_segment": "Yeah, well. It depends. If I start feeling bad later tonight, then I probably won\u2019t come into work tomorrow. Then again though, if I just got over an illness recently and already recovered, then chances are pretty slim that I would pass anything along. Either way, it shouldn\u2019t affect much because even when people do get sick, most folks only miss two or three days tops.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, considering multiple possibilities and being flexible with plans based on emergent circumstances."
+                },
+                {
+                    "text_segment": "If I want to continue living comfortably, without having to worry about catching colds constantly, then I need to suck it up and deal with things.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating, adapting to external reality for personal comfort and well-being."
+                },
+                {
+                    "text_segment": "It definitely helps remind myself to practice good hygiene habits. Like washing hands regularly and covering mouths when sneezing or coughing.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of practical and experiential, focusing on concrete actions and habits."
+                },
+                {
+                    "text_segment": "I also wanted to save money. I didn\u2019t buy anything today except for some toilet paper. Seriously, I didn\u2019t bring any cash with me either. I had to rely solely on my debit card. So obviously, I couldn\u2019t afford very many items due to limited funds.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete and realistic, focusing on tangible details and practical financial constraints."
+                },
+                {
+                    "text_segment": "I believe you proved once-and-for-all that it\u2019s important to listen to other perspectives and respect differences between individuals. After all, everyone responds differently to external stimuli, especially when faced with unfamiliar situations like pandemic",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accepting and accommodating, emphasizing the importance of respecting individual differences and perspectives."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "INTJ",
+                    "type (best guess)": "INTJ",
+                    "summary": "Person A demonstrates a preference for introverted reflection, conceptual understanding, logical reasoning, and a systematic, planful approach."
+                },
+                "person_B": {
+                    "type": "ISFP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B exhibits a preference for introverted reflection, concrete and practical details, subjective emotional responses, and a flexible, open-ended approach."
+                }
+            }
+        },
+        {
+            "global_id": 18,
+            "codings": [
+                {
+                    "text_segment": "I'm not really feeling well today. I think I've caught something from one of my coworkers. I just wanted to come out for some fresh air. Besides, masks aren't that great. They're uncomfortable and they make talking difficult. I'd rather take my chances without them. I'll probably go back home soon anyway.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective, expressing personal feelings of discomfort and preference."
+                },
+                {
+                    "text_segment": "I'd rather take my chances without them. I'll probably go back home soon anyway.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, showing a flexible approach to rules and plans."
+                },
+                {
+                    "text_segment": "Thanks for asking about me, but no need to worry about getting medical help right now. I can wait until tomorrow before going to see the doctor if necessary. I doubt anything serious will happen unless there's already been an epidemic where I work. In fact, most people who catch colds only stay sick for three or four days tops. That's why I thought it might be okay to skip masking",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of casual and open-ended, dismissing urgency and showing flexibility in seeking medical attention."
+                },
+                {
+                    "text_segment": "most people who catch colds only stay sick for three or four days tops.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of realistic and experiential, relying on common, concrete observations."
+                },
+                {
+                    "text_segment": "Oh, hi there. Yeah, I brought a couple of packages of cookies along with me as usual. I got some chocolate chip ones and some oatmeal raisin ones. Both are pretty good treats. Why don't you grab yourself some while I finish paying for these groceries?",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of gregarious and active, initiating interaction and offering items."
+                },
+                {
+                    "text_segment": "Hey hey, watch where you step! You almost stepped on me! I didn't realize anyone else came through the door behind us. Oopsie. Sorry. How are you holding up? Still feeling better? I hope so. Here\u2019s another package of cookies for you. Have fun munching!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of expressive and active, engaging with the environment and the other person."
+                },
+                {
+                    "text_segment": "How are you holding up? Still feeling better? I hope so.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and compassionate, expressing concern for the other person's well-being."
+                },
+                {
+                    "text_segment": "Honestly, I enjoy having company while I shop around here. It keeps me awake and alert. Plus, we both like cookies so we usually end up eating quite a bit of them together. So you weren\u2019t actually a bother at all. Just a pleasure to have you with me. Don\u2019t stress yourself about it. It doesn\u2019t matter.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of gregarious, enjoying company and external interaction."
+                },
+                {
+                    "text_segment": "So you weren\u2019t actually a bother at all. Just a pleasure to have you with me. Don\u2019t stress yourself about it. It doesn\u2019t matter.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and accepting, reassuring the other person and prioritizing harmony."
+                },
+                {
+                    "text_segment": "No problem. No worries. Just tell me anytime you\u2019d like to join me. We\u2019ll share whatever we bought between us and split the bill 50/50. Happy shopping!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of open and inviting, actively encouraging future social interaction."
+                },
+                {
+                    "text_segment": "I know how you feel! I hate wearing those things too... It's hard enough to talk when we have a face full of food. But seriously though, do you want me to call an ambulance? Or maybe we could go get you checked up at our local hospital? We shouldn't ignore signs of illness. That would be unwise.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and compassionate, expressing understanding and concern for the other person's health."
+                },
+                {
+                    "text_segment": "We shouldn't ignore signs of illness. That would be unwise.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of planful and systematic, advocating for proactive and responsible action."
+                },
+                {
+                    "text_segment": "What did you bring with you today? Anything delicious? I heard the smell of baked goods wafting over into my direction earlier. Did someone buy cookies again? Oh, I love cookies. Especially chocolate chip ones. And raisin walnut ones. Those are fantastic. Mmm... raisins... yummy...",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of expressive and enthusiastic, engaging with external stimuli and sharing excitement."
+                },
+                {
+                    "text_segment": "Thanks for letting me tag along with you shopping. This makes the time pass much more quickly than otherwise. If I were alone doing all of this stuff, it wouldn't even cross my mind to try some tasty snacks",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of gregarious, appreciating company and external interaction."
+                },
+                {
+                    "text_segment": "I\u2019m sorry for being such a burden to you during the whole trip. I guess it wasn\u2019t worth bringing me along since you\u2019ve already done so much for me already. I promise to be less trouble next time. I\u2019ll definitely pay attention to you more closely in the future.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accommodating, expressing self-reproach and a desire to maintain relational harmony."
+                },
+                {
+                    "text_segment": "I really appreciate you saying that. I know you mean it sincerely. It means a lot to hear that kind of encouragement from others. You made my day. Now that I know you care, I won\u2019t hesitate to ask you for favors whenever I run short on cash or if I ever get hungry.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and emotional, focusing on the emotional impact of words and the importance of caring relationships."
+                },
+                {
+                    "text_segment": "Okay, thanks. I will. Bye now. Nice meeting you. See ya later!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of expressive and engaging in social pleasantries."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person A demonstrates strong extraverted engagement, a preference for concrete details, subjective emotional responses, and a flexible, open-ended approach."
+                },
+                "person_B": {
+                    "type": "EFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Person B exhibits strong extraverted expression, a consistent preference for empathetic and accommodating responses, and a tendency towards planful and responsible action."
+                }
+            }
+        }
+    ]
+}

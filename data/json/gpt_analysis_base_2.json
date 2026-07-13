@@ -1,0 +1,890 @@
+{
+    "dialogues": [
+        {
+            "global_id": 7,
+            "codings": [
+                {
+                    "text_segment": "Alright, let's discuss this further. I believe we should prioritize distributing medical supplies based on the severity of damage reported from each zone. We have limited resources, so precision will be key.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on objective criteria (severity, limited resources, precision) and impersonal problem-solving."
+                },
+                {
+                    "text_segment": "Maybe we could categorize them into three groups: severely damaged, moderately damaged, and least impacted.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Introduces a structured, categorized framework for decision-making."
+                },
+                {
+                    "text_segment": "This way, we maximize efficiency while ensuring critical areas receive timely assistance.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Emphasizes efficiency and optimization, hallmarks of logical, objective reasoning."
+                },
+                {
+                    "text_segment": "To streamline this, let\u2019s create a real-time tracking system using drones and satellite imagery to monitor road conditions and update our priorities dynamically.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Proposes an innovative, systems-level solution (real-time tracking with drones and satellites)."
+                },
+                {
+                    "text_segment": "Also, we should establish a central hub where updates from field teams are logged and shared instantly.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates for a centralized, organized structure for information flow."
+                },
+                {
+                    "text_segment": "Coordinating with the IT team to set up the real-time tracking and central hub will be crucial. We need reliable data flow to make informed decisions quickly.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Stresses informed decisions based on reliable data, reflecting objective analysis."
+                },
+                {
+                    "text_segment": "Let's assign someone specifically to manage the logistics and another to handle communications between field teams and headquarters.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates clear roles and structure, indicating a planful, organized approach."
+                },
+                {
+                    "text_segment": "Absolutely, having dedicated roles will ensure nothing slips through the cracks.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values clear role assignment to maintain order and prevent oversight."
+                },
+                {
+                    "text_segment": "While they\u2019re setting those things up, how about we start compiling initial reports from each zone? It\u2019ll give us a baseline",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes early, systematic data collection to build a baseline."
+                },
+                {
+                    "text_segment": "For now, let's compile initial reports from all zones. It will provide us with a starting point and allow us to see which areas are most urgent.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes structured, preliminary reporting to guide priorities."
+                },
+                {
+                    "text_segment": "Every detail counts in making sure we're prepared for whatever comes next.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows preference for thorough preparation and minimizing uncertainty."
+                },
+                {
+                    "text_segment": "Staying proactive is key here\u2014we need to be ready to pivot at any moment.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Highlights readiness to pivot and adapt plans, reflecting openness and flexibility."
+                },
+                {
+                    "text_segment": "We need a flexible plan that can accommodate changing conditions without delay.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Explicitly calls for flexibility and adaptability in planning."
+                },
+                {
+                    "text_segment": "Then, we can schedule a brief meeting to go over everything and align on the next steps. Quick decision",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants scheduled review and alignment to reach timely decisions and closure."
+                },
+                {
+                    "text_segment": "Afterwards, scheduling that quick meeting will be crucial to iron out any last-minute adjustments and ensure everyone is on the same page.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes scheduled coordination to finalize details and achieve alignment."
+                },
+                {
+                    "text_segment": "Let's aim to have it within the hour so we can review everything thoroughly before implementing our strategy.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers a clear, near-term deadline and thorough review before execution."
+                },
+                {
+                    "text_segment": "We need rapid communication channels to handle such situations swiftly.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on efficiency and speed of information flow as a functional requirement."
+                },
+                {
+                    "text_segment": "Also, let's make sure we have backup plans for alternative routes and additional medical personnel in case the",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates for contingency planning and predefined alternatives."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xNTJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Shows strong logical, data-driven decision-making and highly structured, scheduled planning with some emphasis on flexible execution, suggesting ENTJ."
+                },
+                "person_B": {
+                    "type": "xNTJ",
+                    "type (best guess)": "INTJ",
+                    "summary": "Proposes conceptual systems (drones, central hub) and structured frameworks while remaining adaptable, with a more reserved tone, consistent with INTJ."
+                }
+            }
+        },
+        {
+            "global_id": 8,
+            "codings": [
+                {
+                    "text_segment": "Alright, let's review our current supply list and see how we can best allocate resources based on estimated needs.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Approaches the problem analytically, focusing on allocation based on needs."
+                },
+                {
+                    "text_segment": "I think we should prioritize areas with higher population density and more severe damage reports.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses impersonal criteria (population density, severity) to set priorities."
+                },
+                {
+                    "text_segment": "They could still be severely affected despite lower initial reports. How do you feel about including them in our assessment? We can use satellite images to gauge their condition too.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Infers unseen problems and suggests using satellite imagery, a conceptual, big-picture tool."
+                },
+                {
+                    "text_segment": "I propose dividing the area into zones\u2014high-density urban centers, moderate-risk suburban areas, and remote rural regions\u2014and assign teams to each zone.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a clear, systematic zoning and assignment structure."
+                },
+                {
+                    "text_segment": "Assigning specific tasks to each team based on their strengths would maximize efficiency.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on maximizing efficiency through rational task allocation."
+                },
+                {
+                    "text_segment": "For the remote rural regions, we\u2019ll need smaller, more agile teams equipped with necessary gear.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Attends to concrete operational details (team size, gear) in specific contexts."
+                },
+                {
+                    "text_segment": "I'll take the lead on coordinating efforts in the urban centers since my experience with large-scale operations there aligns well with this role.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Volunteers for a defined leadership role in a structured operation."
+                },
+                {
+                    "text_segment": "For the rural areas under your command, we should focus on selecting individuals with strong survival training and adaptability.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Emphasizes practical, experience-based skills like survival training."
+                },
+                {
+                    "text_segment": "Shall I check her availability now",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Moves quickly to concrete scheduling and resource confirmation."
+                },
+                {
+                    "text_segment": "Once I hear back from Sarah, we can finalize the team assignments.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to finalize and close decisions after information is received."
+                },
+                {
+                    "text_segment": "Once you have updates from Sarah, let's schedule a meeting to go over everything in detail. This ensures we're fully prepared before deploying the teams.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers detailed review and preparation before action, with scheduled meetings."
+                },
+                {
+                    "text_segment": "Logistics-wise, we should also consider setting up a central hub for coordination between the different zones. It will streamline communication and resource management.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates for centralized, streamlined coordination structures."
+                },
+                {
+                    "text_segment": "I'll draft a proposal outlining its structure and responsibilities. Having a clear chain of command and constant flow of information will enhance our effectiveness.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Focuses on formal proposals, structure, and chain of command."
+                },
+                {
+                    "text_segment": "Let's aim for a meeting within the next 24 hours. That should give us ample time to fine-tune our plans and ensure nothing falls through the cracks.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Sets a clear time frame and emphasizes thoroughness and closure."
+                },
+                {
+                    "text_segment": "A 24-hour window seems reasonable. It gives us just enough time to cover all bases without rushing into anything haphazardly.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values having enough time to be thorough and avoid rushed decisions."
+                },
+                {
+                    "text_segment": "Also, let's make sure we have backup plans for potential roadblocks.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants predefined contingency plans, reflecting preference for control and planning."
+                },
+                {
+                    "text_segment": "If satellite access proves unreliable, we can use drones or ground-based reconnaissance to fill in gaps.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Generates alternative, somewhat innovative information-gathering methods."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xNTJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Shows analytical, efficiency-focused reasoning and strong preference for structured plans, proposals, and scheduled meetings, consistent with ENTJ leadership style."
+                },
+                "person_B": {
+                    "type": "xNTJ",
+                    "type (best guess)": "INTJ",
+                    "summary": "Combines conceptual tools (satellite, drones, central hub) with organized planning and closure, in a slightly less directive tone, suggesting INTJ."
+                }
+            }
+        },
+        {
+            "global_id": 9,
+            "codings": [
+                {
+                    "text_segment": "I think we need to prioritize the areas hardest hit by the quake before moving on to others. We have limited resources, so precision matters here.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses impersonal criteria (hardest hit, limited resources, precision) to set priorities."
+                },
+                {
+                    "text_segment": "That way, we can quickly gauge needs without wasting time. Plus, having these points will allow us to adapt our plans as more information comes in.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Emphasizes adapting plans as new information arrives, reflecting flexibility."
+                },
+                {
+                    "text_segment": "Should we allocate specific teams to handle the assessments? And maybe consider which team leaders would work best in these roles based on their experience?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants defined team assignments and role selection based on criteria."
+                },
+                {
+                    "text_segment": "I reckon we should pick team leaders who\u2019ve handled similar situations before\u2014they\u2019ll know what to look for and how to communicate effectively.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Relies on concrete past experience as the basis for selection."
+                },
+                {
+                    "text_segment": "This should ensure we cover all bases efficiently.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on efficiency and comprehensive coverage as logical goals."
+                },
+                {
+                    "text_segment": "What about resource allocation? We need to make sure each assessment point has enough supplies",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Attends to practical, concrete details of supplies at each point."
+                },
+                {
+                    "text_segment": "For resource allocation, let\u2019s stock each assessment point with essential items like bandages, painkillers, IV fluids, and basic first aid kits.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Lists specific, tangible items needed on-site."
+                },
+                {
+                    "text_segment": "We can also include mental health support materials since trauma management is crucial post-disaster.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for emotional well-being and trauma, a people-centered focus."
+                },
+                {
+                    "text_segment": "With five main assessment points identified, we can split our teams so they rotate every few hours. This ensures everyone gets a break and maintains efficiency over long shifts.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Designs a structured rotation schedule to manage work systematically."
+                },
+                {
+                    "text_segment": "Any concerns about logistics or additional supplies needed?",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete logistical and supply issues."
+                },
+                {
+                    "text_segment": "That rotation schedule sounds perfect\u2014it keeps morale up and prevents burnout.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Evaluates the plan in terms of morale and burnout, emphasizing human impact."
+                },
+                {
+                    "text_segment": "Should we prepare a checklist for each shift detailing necessary tasks and responsibilities?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants detailed checklists to structure tasks and responsibilities."
+                },
+                {
+                    "text_segment": "Exactly, a detailed checklist will be key. Here\u2019s a rough outline:",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a structured, stepwise checklist."
+                },
+                {
+                    "text_segment": "Prioritize treating the most severe cases first and then move down the line. Also, keeping a log of used supplies will help us track inventory and avoid running out mid-shift.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies triage logic and systematic tracking to optimize resource use."
+                },
+                {
+                    "text_segment": "Should we also establish a protocol for handling non-critical cases?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Seeks formal protocols to cover all categories of cases."
+                },
+                {
+                    "text_segment": "Once minor injuries are treated and patients are stable, we can direct them to nearby shelter centers or mobile clinics where they can receive follow-up care and support services.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes ongoing care and support services for people."
+                },
+                {
+                    "text_segment": "Regarding communications, we should also ensure redundancy in case primary methods fail. Besides radios and satellite phones, setting up text-based updates using secure messaging apps can be useful.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on system reliability and functional redundancy."
+                },
+                {
+                    "text_segment": "This dual-channel system will minimize delays in reporting and receiving important information.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Evaluates communication in terms of minimizing delays and maximizing efficiency."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Shows structured, checklist-based planning with attention to concrete logistics and efficiency, aligning with ESTJ crisis-coordination behavior."
+                },
+                "person_B": {
+                    "type": "xSFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Combines practical detail (supplies, rotations) with concern for morale and trauma support, and favors checklists and structure, suggesting ESFJ."
+                }
+            }
+        },
+        {
+            "global_id": 10,
+            "codings": [
+                {
+                    "text_segment": "How do you think we should prioritize this? I suggest we focus on immediate needs first.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Frames the issue in terms of prioritization and immediate objective needs."
+                },
+                {
+                    "text_segment": "Based on my experience, we should definitely target shelters where there are reports of severe injuries and dehydration.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Relies on personal experience and specific reported conditions."
+                },
+                {
+                    "text_segment": "I also think we shouldn\u2019t overlook the mental health aspect. After such an event, folks might be dealing with trauma",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for emotional trauma and psychological well-being."
+                },
+                {
+                    "text_segment": "However, given our limited resources, we might need to triage mentally. We could allocate some time slots for counseling services once we've stabilized physical conditions.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies triage logic and resource-based prioritization, even to mental health."
+                },
+                {
+                    "text_segment": "Let's break down the process into actionable steps:",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to structure the response into clear, ordered steps."
+                },
+                {
+                    "text_segment": "Step two involves setting up temporary aid stations at strategic locations to manage larger crowds efficiently.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on efficiency and crowd management as functional goals."
+                },
+                {
+                    "text_segment": "For step three, we'll establish a system for tracking and reporting back on supply usage and patient care.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Implements systematic tracking and reporting procedures."
+                },
+                {
+                    "text_segment": "Maybe we can use digital forms or even simple checklists to document who receives which supplies and their condition post-treatment. This way we stay organized and responsive.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers organized documentation via forms and checklists."
+                },
+                {
+                    "text_segment": "Also, considering the dynamic nature of the situation, we should plan regular updates every few hours.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates for scheduled, periodic review meetings."
+                },
+                {
+                    "text_segment": "Regular updates every couple of hours will keep everything moving smoothly.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Supports frequent, scheduled updates to maintain order."
+                },
+                {
+                    "text_segment": "Additionally, let's assign specific roles for different tasks. One person can handle logistics, another can coordinate field operations, and someone else can oversee data",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants clear role differentiation and task assignment."
+                },
+                {
+                    "text_segment": "Assigning specific roles will definitely streamline things. Logistics seem like they'd benefit from a detail-oriented person. Field operations can be handled by someone experienced in quick decision-making, while overseeing data entry fits well with keeping track of everything digitally.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches roles to functional strengths and efficiency considerations."
+                },
+                {
+                    "text_segment": "We should also consider having backup plans for when key team members get overwhelmed or need rest.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans ahead for contingencies and workload management."
+                },
+                {
+                    "text_segment": "We can rotate responsibilities during breaks to prevent burnout.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for team well-being and burnout prevention."
+                },
+                {
+                    "text_segment": "Another thing to consider is communication protocols. We should set up a dedicated channel for updates and coordination between all teams.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Seeks formal communication protocols and dedicated channels."
+                },
+                {
+                    "text_segment": "Setting up a dedicated group chat or messaging platform will ensure everyone is on the same page. We can use it for real-time updates, sharing resource locations, and coordinating shifts.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Emphasizes functional benefits of communication tools for coordination."
+                },
+                {
+                    "text_segment": "Lastly, let's make sure we have a plan for handling unexpected challenges, like sudden spikes in injured individuals or shortages of certain supplies.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants predefined plans for potential future problems."
+                },
+                {
+                    "text_segment": "We should prepare a contingency plan that includes provisions for additional supplies, such as pre-ordering more common necessities and identifying local sources for rapid delivery.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Focuses on advance ordering and identified sources as part of structured contingency planning."
+                },
+                {
+                    "text_segment": "For sudden spikes in casualties, we can implement a tiered response system.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Designs a logical, tiered system to handle varying levels of demand."
+                },
+                {
+                    "text_segment": "We should also keep a list of nearby hospitals and clinics that can take in overflow patients if necessary.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Attends to concrete, location-based resources (nearby hospitals and clinics)."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Uses structured steps, roles, protocols, and contingency plans with a logical, triage-based focus, fitting an ESTJ crisis manager profile."
+                },
+                "person_B": {
+                    "type": "xSFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Balances practical detail and organization with explicit concern for trauma and burnout, suggesting ESFJ."
+                }
+            }
+        },
+        {
+            "global_id": 11,
+            "codings": [
+                {
+                    "text_segment": "We've got limited resources and we need to distribute them efficiently. I think we should prioritize areas where there's been significant damage and higher casualty reports.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses impersonal metrics (damage, casualties, efficiency) to set priorities."
+                },
+                {
+                    "text_segment": "But I believe we also need to consider the mental health needs of survivors, especially those who have lost their homes and loved ones.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes emotional needs and personal loss."
+                },
+                {
+                    "text_segment": "We might not have specific equipment now, but providing counseling services could be crucial in the long run.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Values long-term emotional support as crucial."
+                },
+                {
+                    "text_segment": "Also, I suggest setting up mobile clinics in key locations\u2014near major disaster sites",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured deployment of mobile clinics at key points."
+                },
+                {
+                    "text_segment": "Let\u2019s allocate some space within each mobile clinic for counselors.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Integrates counseling into the plan, acknowledging emotional needs."
+                },
+                {
+                    "text_segment": "In terms of logistics, how many mobile clinics are we looking at deploying initially? And which areas do you recommend targeting first? We should aim to",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Seeks concrete numbers and prioritized targeting, reflecting structured planning."
+                },
+                {
+                    "text_segment": "I\u2019d estimate starting with three mobile clinics. Targeting areas like the central business district and residential zones seem most urgent based on initial reports.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Uses specific locations and initial reports as concrete basis for decisions."
+                },
+                {
+                    "text_segment": "Could you check if the supply list includes basic medical kits, bandages, pain relievers, and antiseptics?",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on specific, tangible items in the supply list."
+                },
+                {
+                    "text_segment": "If we don\u2019t have enough of these essentials, we'll need to request additional shipments immediately.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants prompt action to secure needed supplies, showing decisiveness."
+                },
+                {
+                    "text_segment": "I\u2019ll start drafting a preliminary plan detailing the routes and times for deploying the mobile clinics. It\u2019s important to cover multiple sectors quickly while maintaining efficiency.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Drafts a detailed plan with routes and times, emphasizing efficiency."
+                },
+                {
+                    "text_segment": "We should also establish a system for real-time updates from field teams reporting back on conditions and resource needs.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants an ongoing, structured feedback system."
+                },
+                {
+                    "text_segment": "Real-time updates are crucial\u2014we need to stay flexible and responsive.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Values flexibility and responsiveness to changing information."
+                },
+                {
+                    "text_segment": "Also, coordinating with local authorities and community leaders will help us identify hotspots and potential challenges faster.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Focuses on engaging external stakeholders and broad coordination."
+                },
+                {
+                    "text_segment": "Maybe we can organize a quick conference call later today to go over our findings and align everyone on the strategy.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers scheduled, structured alignment via a conference call."
+                },
+                {
+                    "text_segment": "Let\u2019s aim to have it in the afternoon when everyone is available.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Sets a specific time frame to ensure participation and closure."
+                },
+                {
+                    "text_segment": "While you handle the supply list and procurement, I\u2019ll focus on outlining the detailed deployment schedule and coordination points. Let\u2019s make sure every team knows exactly where and when they need to be present.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes detailed schedules and clear expectations for teams."
+                },
+                {
+                    "text_segment": "With clear schedules and coordination points, we can minimize confusion and maximize efficiency.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Links structure to minimizing confusion and maximizing efficiency."
+                },
+                {
+                    "text_segment": "I\u2019ll compile the final draft and gather all relevant details including contact numbers and meeting points.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Focuses on compiling and organizing detailed information."
+                },
+                {
+                    "text_segment": "During the call, let\u2019s break things down into manageable sections:",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to structure the meeting into clear sections."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ExTJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Shows externally oriented coordination with authorities, logical efficiency focus, and strong preference for structured planning and meetings, suggesting ENTJ."
+                },
+                "person_B": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Balances concern for mental health and survivors with detailed schedules, routes, and coordination, fitting ESFJ."
+                }
+            }
+        },
+        {
+            "global_id": 12,
+            "codings": [
+                {
+                    "text_segment": "Alright, let's get this sorted out. I think we need a clear plan for distributing these supplies efficiently. We have limited resources and time is of the essence.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Emphasizes efficiency, limited resources, and urgency in an impersonal way."
+                },
+                {
+                    "text_segment": "My idea is to prioritize areas based on the severity of damage reported. We start with the hardest-hit zones where immediate needs like bandages and pain relievers are most urgent.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses severity and urgency as logical criteria for prioritization."
+                },
+                {
+                    "text_segment": "Maybe we could factor in population density too\u2014more",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Adds another quantitative criterion (population density) to refine priorities."
+                },
+                {
+                    "text_segment": "Let's also take into account potential transportation routes and accessibility issues. If roads are blocked or damaged, those areas might require special attention and alternative delivery methods.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete conditions like road blockages and specific delivery methods."
+                },
+                {
+                    "text_segment": "We can draft a quick assessment list focusing on these factors.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to formalize considerations into an assessment list."
+                },
+                {
+                    "text_segment": "For each zone, we\u2019ll note down the severity of the damage, population density, and current road conditions.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes systematic data collection across zones."
+                },
+                {
+                    "text_segment": "Sure thing. I'll start with the damage severity report right away.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Immediately begins a specific, structured task."
+                },
+                {
+                    "text_segment": "Zone 1: Severe structural damage, multiple buildings collapsed. Zone 2: Moderate damage, some infrastructure compromised. Zones 3-5: Minor cracks and superficial damage, relatively stable structures.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Describes concrete, observable structural conditions."
+                },
+                {
+                    "text_segment": "Population Density: Zone 1: High ... Zones 4 & 5: Low (mostly parks and green spaces)",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Provides specific, factual information about population and land use."
+                },
+                {
+                    "text_segment": "Zone1: Complete blockage due to fallen debris; only aerial drop possible at certain points. zone2: Partially obstructed roads; some sections are passable during daylight hours. zones 4 &5: Generally clear, though some minor detours may be necessary.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Details concrete accessibility conditions and constraints."
+                },
+                {
+                    "text_segment": "With this information, we can start mapping out our supply drops and movements.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Uses gathered data to plan structured supply routes."
+                },
+                {
+                    "text_segment": "Proposed Distribution Plan: 1. Zone 3 & 5 First Aid Kits & Pain Relievers: These areas are safer to reach and can support temporary clinics.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Lays out a stepwise distribution plan based on safety and capacity."
+                },
+                {
+                    "text_segment": "Sounds like a structured approach. Let's finalize the plan step-by-step:",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Affirms and continues a step-by-step, structured planning style."
+                },
+                {
+                    "text_segment": "Distribute First Aid Kits and Pain Relievers to Zones3 & 4 immediately via ground vehicles since they are generally safe and clear.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Specifies concrete items, zones, and transport methods."
+                },
+                {
+                    "text_segment": "Given the complete blockage, we will coordinate with local air traffic control to perform aerial drops at designated safe points within the zone.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Describes specific operational steps involving air traffic control and safe points."
+                },
+                {
+                    "text_segment": "Ensure the packages contain essential items like water purification tablets and non-perishable food.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Lists concrete contents of the packages."
+                },
+                {
+                    "text_segment": "Make sure the drops occur during daylight to ensure safety and accuracy.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Attends to practical timing details for safety and accuracy."
+                },
+                {
+                    "text_segment": "Coordinate with local authorities to secure safe landing zones and use drones or helicopters for precision drops.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans coordination and specific methods (drones, helicopters) in an organized way."
+                },
+                {
+                    "text_segment": "Set up a central hub near Zone2: Establish a base camp ... Assign team members to manage inventory and distribute supplies from the hub.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a central hub with defined roles and processes."
+                },
+                {
+                    "text_segment": "Establish Communication Protocol: Use walkie-talkies for real-time updates between teams. Set up a dedicated frequency for emergency calls. Utilize mobile apps or SMS groups for quick notifications and updates.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Defines explicit communication protocols and channels."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Shows strong focus on concrete conditions (damage, roads) and highly structured, stepwise planning, consistent with ESTJ."
+                },
+                "person_B": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Combines factual detail (densities, routes) with systematic distribution plans and protocols in a less overtly directive tone, suggesting ISTJ."
+                }
+            }
+        }
+    ]
+}

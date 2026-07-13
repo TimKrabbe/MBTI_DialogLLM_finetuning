@@ -1,0 +1,491 @@
+{
+    "dialogues": [
+        {
+            "global_id": 13,
+            "codings": [
+                {
+                    "text_segment": "my tone calm yet firm, 'I noticed that you're not wearing your mask. It's important for everyone's safety right now.'",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A addresses the issue directly and objectively, focusing on safety logic rather than emotional appeal \u2014 matches 'logical' and 'objective'."
+                },
+                {
+                    "text_segment": "have you considered using a different kind of mask? Maybe one made of a more breathable material could help?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A offers a practical, reasoned solution to the problem, consistent with 'logical' and 'reasonable' thinking."
+                },
+                {
+                    "text_segment": "There are some masks designed specifically for comfort. Look for ones with adjustable nose wires and good filtration without being too dense.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A provides concrete, specific, practical product details \u2014 matches 'concrete', 'practical', and 'experiential'."
+                },
+                {
+                    "text_segment": "it's all about finding something that works best for you. If you try a couple of options, you might find exactly what you need.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A steers toward a definitive solution and closure, consistent with 'closure' and 'methodical'."
+                },
+                {
+                    "text_segment": "feeling satisfied that I helped address the issue constructively",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Satisfaction from resolving the issue reflects a preference for closure and systematic resolution."
+                },
+                {
+                    "text_segment": "I just find it hard to breathe with it on. I try to take quick breaks when I need to catch my breath.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B focuses on immediate, physical, present-moment experience \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "I hadn't thought about trying a different mask. What do you recommend? Something lightweight maybe?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B is open to new options and spontaneously adapts \u2014 matches 'open-ended' and 'options'."
+                },
+                {
+                    "text_segment": "Can you believe they even make masks that fit well? Feels like such a small thing, but it could really change how I feel.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B focuses on personal emotional impact ('how I feel'), consistent with 'subjective' and 'tender-hearted'."
+                },
+                {
+                    "text_segment": "Thanks again for the advice! It means a lot. Hope we see each other soon in here.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expressing gratitude warmly and valuing the interpersonal connection matches 'empathetic' and 'accepting'."
+                },
+                {
+                    "text_segment": "Hope everything goes smoothly for you too.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Showing care for the other person's wellbeing reflects 'compassionate' and 'tender-hearted'."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A is calm, methodical, and solution-oriented, providing concrete practical advice and seeking closure \u2014 strongly suggesting S, T, and J preferences. The contained, firm tone suggests Introversion."
+                },
+                "person_B": {
+                    "type": "xSFP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B focuses on present physical sensations, expresses warm personal feelings, and remains open and flexible to new options \u2014 suggesting S, F, and P preferences with a quieter, more private tone indicating Introversion."
+                }
+            }
+        },
+        {
+            "global_id": 14,
+            "codings": [
+                {
+                    "text_segment": "I noticed you've taken off your mask. I understand if you're uncomfortable, but given the current health guidelines, we all need to do our part to stay safe. Have you considered the risks involved?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A frames the issue in terms of guidelines and risk \u2014 logical, objective, and questioning, matching 'logical' and 'critical'."
+                },
+                {
+                    "text_segment": "Personally, I've found saline sprays help a lot with keeping nasal passages clear. They're non-invasive and effective. Also, staying hydrated helps too.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A offers concrete, practical, experiential remedies \u2014 matches 'concrete', 'practical', and 'experiential'."
+                },
+                {
+                    "text_segment": "the effectiveness of masks has been well-documented in preventing the spread of viruses. Maybe we could find a compromise",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A appeals to documented evidence and reasoned compromise \u2014 matches 'logical' and 'reasonable'."
+                },
+                {
+                    "text_segment": "Sounds like a practical solution. We can take brief breaks in designated outdoor areas to catch some fresh air and stretch. Let's stick to the rules as much as possible to ensure safety for everyone.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A moves toward a structured, rule-based plan \u2014 matches 'systematic', 'scheduled', and 'methodical'."
+                },
+                {
+                    "text_segment": "my nose feels stuffy when it's on. It's just hard for me to breathe comfortably.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B focuses on immediate, concrete physical sensations \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "I trust science, and there are safer ways to manage stuffiness without taking off masks entirely.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person B appeals to scientific reasoning and logical alternatives \u2014 matches 'logical' and 'reasonable'."
+                },
+                {
+                    "text_segment": "How about we both keep our masks on except maybe for short breaks where we can step outside into an open area if needed? That way, we're still being cautious yet comfortable.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B proposes a flexible, open-ended compromise rather than a rigid rule \u2014 matches 'casual', 'open-ended', and 'options'."
+                },
+                {
+                    "text_segment": "Thanks for understanding and finding this balance together. Let's look out for each other and the community around us.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B emphasizes mutual care and community wellbeing \u2014 matches 'empathetic' and 'compassionate'."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A consistently applies logical reasoning, concrete practical advice, and rule-based structure, pointing to S, T, and J. The measured, contained tone suggests Introversion."
+                },
+                "person_B": {
+                    "type": "xSTP",
+                    "type (best guess)": "ISTP",
+                    "summary": "Person B combines concrete sensory focus with logical appeals to science and flexible, open-ended compromise-seeking, suggesting S, T, and P. The relatively private, measured tone suggests Introversion."
+                }
+            }
+        },
+        {
+            "global_id": 15,
+            "codings": [
+                {
+                    "text_segment": "Excuse me, I noticed you took off your mask just now. It's important for all of us to follow the guidelines and wear masks inside the store to help prevent the spread of illness. How about we both put ours back on? Safety first, right?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A appeals to guidelines and collective safety logic \u2014 matches 'logical', 'objective', and 'reasonable'."
+                },
+                {
+                    "text_segment": "Let's go towards the checkout area where it's usually less crowded. That way, you can take it easier without compromising our safety.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A proposes a concrete, practical, present-focused spatial solution \u2014 matches 'concrete', 'practical', and 'present'."
+                },
+                {
+                    "text_segment": "Let's move efficiently. This way please. Once we're done, we can both ensure we maintain proper precautions.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A emphasizes efficiency, order, and maintaining precautions \u2014 matches 'systematic' and 'methodical'."
+                },
+                {
+                    "text_segment": "my nose gets really stuffy when I have the mask over my mouth like that.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B focuses on immediate physical discomfort \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "Maybe if we could find somewhere less crowded, I can take it off there while still being careful around others. What do you think? We could grab our items quickly and get out fast.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B proposes a spontaneous, flexible workaround rather than a fixed plan \u2014 matches 'spontaneous', 'casual', and 'options'."
+                },
+                {
+                    "text_segment": "Thanks for understanding. Lead the way, and let's move quick once we get there.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B expresses gratitude and appreciation for being understood \u2014 matches 'empathetic' and 'accepting'."
+                },
+                {
+                    "text_segment": "anything else you need from the store?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B shows consideration for the other person's needs \u2014 matches 'compassionate' and 'accommodating'."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A is direct, action-oriented, and rule-focused, applying concrete practical logic and systematic efficiency \u2014 suggesting E, S, T, J. The proactive, assertive engagement suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xSFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B is responsive, physically present-focused, warm, and spontaneously flexible \u2014 suggesting S, F, and P. The enthusiastic, socially engaged tone suggests Extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 16,
+            "codings": [
+                {
+                    "text_segment": "With everything going on, it's really important we all follow the guidelines to stay safe, especially here in close quarters like a supermarket. It's better for us all if we can prevent the spread of whatever might be around.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A reasons from guidelines and collective risk logic \u2014 matches 'logical', 'objective', and 'reasonable'."
+                },
+                {
+                    "text_segment": "masks provide an extra layer of protection. Especially since there might still be unknowns about how this virus spreads. It only takes a moment to put it back on, and think about the people who might be more vulnerable than us.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A appeals to empathy for vulnerable people \u2014 matches 'empathetic' and 'compassionate'."
+                },
+                {
+                    "text_segment": "That sounds like a reasonable compromise. Putting the mask back on once you're done shopping and stepping outside periodically will help balance comfort and safety. Thanks for being flexible and understanding.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A moves toward a structured, agreed-upon plan \u2014 matches 'systematic', 'closure', and 'methodical'."
+                },
+                {
+                    "text_segment": "wearing that thing makes my head spin and my ears hurt.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B describes concrete, immediate physical sensations \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "I trust the precautions they have in place here\u2014they've got plenty of sanitizers and good airflow. I'm being careful too\u2014washed hands, kept distance from others when possible.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B references concrete, observable safety measures already in place \u2014 matches 'concrete', 'realistic', and 'practical'."
+                },
+                {
+                    "text_segment": "Maybe we could compromise? How about I put mine back on once we finish shopping and step out into the fresh air every now and then? That way, I get some relief while still doing my part.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B seeks a flexible, open-ended arrangement \u2014 matches 'casual', 'open-ended', and 'options'."
+                },
+                {
+                    "text_segment": "I appreciate the thoughtfulness.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B acknowledges and values the emotional consideration shown \u2014 matches 'empathetic' and 'accepting'."
+                },
+                {
+                    "text_segment": "Appreciate you sticking with this, it means a lot.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B expresses warm personal appreciation \u2014 matches 'tender-hearted' and 'compassionate'."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xxTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A combines logical rule-based reasoning with occasional empathetic appeals and moves toward structured closure \u2014 suggesting T and J. The measured, contained approach suggests Introversion."
+                },
+                "person_B": {
+                    "type": "xSFP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B is grounded in concrete physical experience, warm and appreciative in tone, and seeks flexible compromise \u2014 strongly suggesting S, F, and P. The quieter, more private style suggests Introversion."
+                }
+            }
+        },
+        {
+            "global_id": 17,
+            "codings": [
+                {
+                    "text_segment": "It's important we all follow the guidelines to protect ourselves and others. How do you feel about that?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A appeals to collective guidelines and logical safety reasoning \u2014 matches 'logical' and 'objective'."
+                },
+                {
+                    "text_segment": "The mask helps prevent droplets from spreading when we talk or cough. If we can find quieter sections of the store with better airflow, perhaps we could remove our masks there temporarily.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A provides concrete, practical, present-focused reasoning about physical droplet spread and spatial solutions \u2014 matches 'concrete', 'practical', and 'present'."
+                },
+                {
+                    "text_segment": "Setting up designated areas would help a lot. We could also suggest using hand sanitizer before entering those zones if anyone needs to remove their mask.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A proposes a structured, systematic plan with designated zones and protocols \u2014 matches 'systematic', 'planful', and 'methodical'."
+                },
+                {
+                    "text_segment": "Let's go over to one of those quiet spots and test it out.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A moves toward implementation of the plan \u2014 matches 'closure' and 'early starting'."
+                },
+                {
+                    "text_segment": "wearing the mask makes me feel uncomfortable and it's hard for me to breathe properly. That's why I take it down sometimes\u2014just for a bit.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B focuses on immediate physical discomfort \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "Maybe there's another way to ensure safety without making us all so stuffy? Like maybe some well-ventilated areas where masks aren't necessary?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B explores open-ended alternatives rather than committing to a fixed rule \u2014 matches 'open-ended' and 'options'."
+                },
+                {
+                    "text_segment": "we could even set up signs indicating these areas so everyone knows they're safer zones. It's about finding a compromise that keeps us all safe while still being comfortable.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Person B generates a creative, conceptual system-level idea (signage for safe zones) \u2014 matches 'conceptual' and 'original'."
+                },
+                {
+                    "text_segment": "Thanks for working with me on this; it shows we both care about following the rules but also ensuring everyone feels okay.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A acknowledges the emotional dimension of mutual care \u2014 matches 'empathetic' and 'accepting'."
+                },
+                {
+                    "text_segment": "maybe we can encourage others to join us if they need a break too. Comfort and safety should go hand in hand here.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B shows concern for others' comfort and wellbeing \u2014 matches 'compassionate' and 'accommodating'."
+                },
+                {
+                    "text_segment": "Let's set a positive example and make it easy for others to join in.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person B is oriented toward influencing and engaging the broader group \u2014 matches 'active', 'expressive', and 'gregarious'."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A is concrete, rule-following, systematic, and moves toward structured closure with occasional empathetic acknowledgment \u2014 strongly suggesting S, T, and J. The measured tone suggests Introversion."
+                },
+                "person_B": {
+                    "type": "xNFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Person B generates creative conceptual ideas, shows warm concern for others, seeks flexible open-ended solutions, and is oriented toward group engagement \u2014 suggesting N, F, and P. The outward-facing, enthusiastic tone suggests Extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 18,
+            "codings": [
+                {
+                    "text_segment": "We just received an update that there's been another case locally, and they're urging us all to stay extra cautious. I think we need to take this seriously for everyone's safety. Can I help you put yours back on? It only takes a moment.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A references factual updates and collective safety logic \u2014 matches 'logical', 'objective', and 'reasonable'."
+                },
+                {
+                    "text_segment": "Let's head over to the produce section\u2014it tends to have more airflow and isn't as busy during these times.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A offers a concrete, practical, spatially specific solution \u2014 matches 'concrete', 'practical', and 'present'."
+                },
+                {
+                    "text_segment": "Safety and comfort are our top priorities today.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A establishes clear priorities and a structured approach \u2014 matches 'systematic' and 'methodical'."
+                },
+                {
+                    "text_segment": "I'm mainly looking for some bread and milk. Starting with the produce section is perfect since it feels open and breezy. Let's gather our items and see how you're doing. If the mask starts to feel better, we can put it back on together.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A organizes the shopping trip with a clear sequential plan \u2014 matches 'planful' and 'scheduled'."
+                },
+                {
+                    "text_segment": "I'll grab the bread and milk while you handle the produce.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A assigns tasks and divides responsibilities in an organized manner \u2014 matches 'systematic' and 'methodical'."
+                },
+                {
+                    "text_segment": "wearing a mask feels really uncomfortable for me right now. My throat gets tight, and I find it hard to breathe properly.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B describes immediate, concrete physical sensations \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "Is there maybe somewhere else in the store we could go where it might be less crowded? Or perhaps a section with better ventilation?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B explores multiple open-ended spatial options rather than committing to a fixed plan \u2014 matches 'open-ended' and 'options'."
+                },
+                {
+                    "text_segment": "Thanks for understanding. Lead the way! Maybe once we get there, my breathing will feel better, and I'll be able to put the mask back on comfortably. Let's do our part while also taking care of ourselves.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B expresses gratitude and frames the situation in terms of mutual care \u2014 matches 'empathetic' and 'accepting'."
+                },
+                {
+                    "text_segment": "I appreciate you being so considerate.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B warmly acknowledges the other's consideration \u2014 matches 'tender-hearted' and 'compassionate'."
+                },
+                {
+                    "text_segment": "Let's support local farmers while we're at it.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B expresses values-based concern for community and local producers \u2014 matches 'compassionate' and 'accommodating'."
+                },
+                {
+                    "text_segment": "The smell of fresh fruit is making my mouth water.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B is attuned to immediate sensory experience \u2014 matches 'present' and 'experiential'."
+                },
+                {
+                    "text_segment": "this place has some delicious apples\u2014maybe we should get a bag for you?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A shows consideration for Person B's enjoyment \u2014 matches 'compassionate' and 'accommodating'."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A is action-oriented, concrete, planful, and systematically organizes the situation with clear priorities and task division \u2014 strongly suggesting S, T, and J. The proactive, directive engagement suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xSFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B is highly attuned to immediate sensory experience, warm and appreciative in tone, and flexibly open to options \u2014 strongly suggesting S, F, and P. The enthusiastic, socially engaged style suggests Extraversion."
+                }
+            }
+        }
+    ]
+}

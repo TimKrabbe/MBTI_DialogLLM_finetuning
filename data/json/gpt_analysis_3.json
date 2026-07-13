@@ -1,0 +1,778 @@
+{
+    "dialogues": [
+        {
+            "global_id": 13,
+            "codings": [
+                {
+                    "text_segment": "If there wasn't an outbreak, people wouldn't have to do anything. It would just go back to normal. We'd all be able to live our lives freely without worrying about getting sick.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical conditions of daily life and health rather than abstract possibilities."
+                },
+                {
+                    "text_segment": "What if someone else gets sick?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for the well-being of others and potential harm to people, indicating a value-oriented perspective."
+                },
+                {
+                    "text_segment": "even though masks aren't 100% effective, at least something will prevent them from spreading germs. So why not comply?",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses a pragmatic, cause\u2013effect rationale to justify compliance based on effectiveness."
+                },
+                {
+                    "text_segment": "Just put it over your nose and mouth, and everything will be okay.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates a clear, simple rule to follow for safety, reflecting a preference for closure and structure."
+                },
+                {
+                    "text_segment": "I feel like I need to take extra precautions to protect myself against it.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes deliberate precaution and planned protective measures."
+                },
+                {
+                    "text_segment": "He\u2019s pretty stupid. I hope they fire him immediately. If anyone deserves losing their job, it\u2019d be him.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies a harsh, critical judgment based on rule-breaking rather than empathy."
+                },
+                {
+                    "text_segment": "He doesn\u2019t care about himself enough to follow basic safety guidelines. That shows me that he\u2019s careless and irresponsible.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Evaluates others against standards of responsibility and rule-following, indicating a structured, judgmental stance."
+                },
+                {
+                    "text_segment": "It\u2019s very unfortunate that people sometimes act selfishly instead of thinking about those around us.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Frames behavior in terms of selfishness vs. consideration for others, emphasizing interpersonal impact."
+                },
+                {
+                    "text_segment": "I hope more and more people learn valuable lessons from mistakes made recently.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants people to learn lessons and improve behavior, reflecting a preference for order and improvement over open-endedness."
+                },
+                {
+                    "text_segment": "I also believe that everybody needs to do whatever they can to help slow the spread of diseases.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Appeals to a shared moral responsibility to help others, focusing on collective welfare."
+                },
+                {
+                    "text_segment": "As long as we continue practicing social distancing measures, hopefully cases will decrease rapidly. I think once hospitals become less crowded, doctors will have better chances to save patients\u2019 lives.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Discusses concrete measures (social distancing, hospital crowding) and their practical outcomes."
+                },
+                {
+                    "text_segment": "When there aren\u2019t as many patients needing treatment simultaneously, medical professionals can focus on each individual case separately. This way, doctors will be able to provide quality healthcare services faster than usual.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Analyzes efficiency and resource allocation in a logical, systems-oriented way."
+                },
+                {
+                    "text_segment": "That\u2019s why it\u2019s crucial to cooperate with authorities whenever necessary.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Stresses the importance of compliance with authority and rules."
+                },
+                {
+                    "text_segment": "If we all try to protect ourselves first, nobody will survive. But if we prioritize helping others, eventually we\u2019ll overcome this crisis together.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Prioritizes helping others and collective overcoming of crisis, emphasizing values and altruism."
+                },
+                {
+                    "text_segment": "Only united, can we defeat evil.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Uses abstract, symbolic language (\u201cdefeat evil\u201d) and a big-picture framing of the situation."
+                },
+                {
+                    "text_segment": "By supporting one another, we create stronger communities capable of surviving disasters.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Focuses on mutual support and community strength as relational values."
+                },
+                {
+                    "text_segment": "support leaders who make sound decisions based on facts rather than emotions.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Explicitly prefers fact-based, unemotional decision-making."
+                },
+                {
+                    "text_segment": "We shouldn\u2019t blindly follow rules set forth arbitrarily without questioning whether they actually benefit humanity as whole.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Questions fixed rules and emphasizes evaluating them, reflecting openness rather than strict closure."
+                },
+                {
+                    "text_segment": "People tend to panic under pressure, leading them to make rash choices detrimental towards themselves and others alike.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Analyzes behavior under pressure in terms of consequences and rational vs. rash choices."
+                },
+                {
+                    "text_segment": "That\u2019s precisely reason why democracy exists\u2014to ensure that majority rule prevails without compromising freedoms enjoyed individually by members comprising entire population.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Discusses abstract political principles and systems-level concepts."
+                },
+                {
+                    "text_segment": "I worry about the potential negative effects associated with authoritarian regimes.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Considers hypothetical systemic consequences of political structures."
+                },
+                {
+                    "text_segment": "Hence, excessive government interference tends discourage entrepreneurship essential for prosperity.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses causal, analytical reasoning about policy effects on economic outcomes."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xNTJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Shows a strong preference for abstract political/systemic thinking, critical and rule-focused judgments, and structured, cooperative action; extraversion is plausible from assertive, outward-focused language."
+                },
+                "person_B": {
+                    "type": "xNTP",
+                    "type (best guess)": "ENTP",
+                    "summary": "Combines abstract, conceptual discussion of regimes and markets with fact-based, critical reasoning and a tendency to question arbitrary rules, suggesting an intuitive, thinking, and more open-ended style; extraversion is likely from energetic engagement."
+                }
+            }
+        },
+        {
+            "global_id": 14,
+            "codings": [
+                {
+                    "text_segment": "But why do we have to? What's wrong if I take my mask off for just one second? It isn't like anyone will notice!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Downplays rules and focuses on flexibility in the moment, resisting strict adherence."
+                },
+                {
+                    "text_segment": "I hope you're aware of how dangerous viruses can spread easily without wearing masks. They can travel up to three feet away from someone who is infected...",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Uses concrete, specific details (three feet) about physical transmission."
+                },
+                {
+                    "text_segment": "So please, put your mask back on immediately, before you cause yourself harm.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Insists on immediate compliance with a safety rule, seeking closure."
+                },
+                {
+                    "text_segment": "This virus has only affected a small number of people anyway. I doubt it'll come around here. Besides, nobody knows if this virus even exists at all.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses skeptical, dismissive reasoning about evidence and probability."
+                },
+                {
+                    "text_segment": "Don't worry about little things! It doesn't matter! It's okay!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Minimizes structure and risk, favoring a relaxed, go-with-the-flow attitude."
+                },
+                {
+                    "text_segment": "You're not being responsible! You need to put it back on! Now!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Frames behavior in terms of responsibility and demands immediate corrective action."
+                },
+                {
+                    "text_segment": "I'm going to call security! You're acting ridiculous!",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Responds with confrontational, critical language rather than seeking harmony."
+                },
+                {
+                    "text_segment": "I\u2019ve had enough with these stupid rules myself. You\u2019re free to go ahead and remove your mask whenever you want to.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Expresses frustration with rules and grants the other freedom of choice, indicating less attachment to structure."
+                },
+                {
+                    "text_segment": "But honestly, dude, if you take another step forward, I\u2019ll punch you in the face.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses blunt, tough-minded confrontation rather than conciliatory language."
+                },
+                {
+                    "text_segment": "I demand an apology. Tell me where you stand. Apologize or I swear I\u2019ll beat you up!",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Seeks clear resolution and restitution, issuing ultimatums."
+                },
+                {
+                    "text_segment": "I don\u2019t give a damn whether I die or not! I\u2019m not afraid of dying!",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Dismisses personal safety and feelings, showing a hard-edged stance."
+                },
+                {
+                    "text_segment": "I\u2019m done talking to you. I\u2019m gonna leave. I hate you. You\u2019re such a jerk. You don\u2019t deserve respect.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses strong personal evaluations in terms of respect and interpersonal sentiment."
+                },
+                {
+                    "text_segment": "Everyone\u2019s gonna hear you talk about me like that. I can see all those eyes over there staring at us\u2026",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Highly attuned to and reactive about the surrounding social audience and external attention."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ExTP",
+                    "type (best guess)": "ESTP",
+                    "summary": "Displays confrontational, tough-minded reasoning, impulsive ultimatums, and strong concern with public perception, suggesting extraverted, thinking, and perceiving preferences with a likely sensing focus in context."
+                },
+                "person_B": {
+                    "type": "xSTP",
+                    "type (best guess)": "ISTP",
+                    "summary": "Uses concrete risk explanations, blunt and sometimes threatening logic, and ultimately rejects ongoing engagement, indicating a reserved, pragmatic, thinking\u2013perceiving style."
+                }
+            }
+        },
+        {
+            "global_id": 15,
+            "codings": [
+                {
+                    "text_segment": "there's no point to wearing masks. Besides, they make me feel like I can\u2019t breathe!",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Bases opinion on immediate physical discomfort and perceived practical pointlessness."
+                },
+                {
+                    "text_segment": "my doctor told me that I have to do everything possible to prevent myself from catching anything right now. And for me, that means wearing a mask.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Follows prescribed guidance systematically as a clear course of action."
+                },
+                {
+                    "text_segment": "It would mean a lot to me. I know it doesn't seem important to you, but it does matter to me.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Appeals to personal importance and emotional impact rather than rules or logic."
+                },
+                {
+                    "text_segment": "We gotta look out for each other during these times.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes mutual care and solidarity as a guiding value."
+                },
+                {
+                    "text_segment": "Just give it some time, and things\u2019ll settle down soon enough.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Takes a relaxed, time-will-fix-it attitude rather than pushing for structured plans."
+                },
+                {
+                    "text_segment": "I\u2019ve heard all kinds of rumors lately about people taking off their masks while walking around outside, especially when nobody else is nearby.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Refers to specific, concrete behaviors and situational details."
+                },
+                {
+                    "text_segment": "They make me nervous.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Frames reaction in terms of emotional response to stories about others."
+                },
+                {
+                    "text_segment": "Personally, I\u2019d rather take care of myself than worry about what others might decide to do.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Prioritizes self-responsibility and separates own choices from others\u2019 actions in a pragmatic way."
+                },
+                {
+                    "text_segment": "I try hard never to judge anyone unless I absolutely have to.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Avoids making judgments about others, favoring acceptance and harmony."
+                },
+                {
+                    "text_segment": "Most folks aren\u2019t bad guys. I believe most people are actually pretty decent once you talk to them. There\u2019s nothing wrong with trusting strangers.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses a positive, trust-based view of people and relationships."
+                },
+                {
+                    "text_segment": "It keeps us",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "In context of trusting and talking to strangers, implies comfort with social engagement and interaction."
+                },
+                {
+                    "text_segment": "We evolved over millions of years to survive and thrive together. If we didn\u2019t trust one another, humanity wouldn\u2019t exist anymore.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Uses a broad, evolutionary and conceptual argument about human nature and cooperation."
+                },
+                {
+                    "text_segment": "It\u2019s just human nature to help each other out whenever we can.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Frames helping others as an inherent, value-laden aspect of human nature."
+                },
+                {
+                    "text_segment": "We have to learn to let people be themselves. We shouldn\u2019t jump to conclusions based on stereotypes. Nobody",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Advocates nonjudgmental acceptance and avoidance of stereotyping, prioritizing respect for individuals."
+                },
+                {
+                    "text_segment": "I wish I had the courage to ask her out sometime soon. It would be fun having two people interested in me.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Focuses on social/romantic engagement and enjoyment of multiple people\u2019s interest."
+                },
+                {
+                    "text_segment": "Maybe it\u2019s karma or destiny or something. It sure feels like fate brought us together somehow.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Uses abstract, symbolic concepts like karma, destiny, and fate to interpret the relationship."
+                },
+                {
+                    "text_segment": "Back then, it looked completely different. Everything seemed bigger, brighter, and fuller of life",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Recalls vivid sensory impressions of the environment from the past."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Shows sociability, people-centered values, trust and nonjudgment, plus talk of fate/karma, indicating extraverted, intuitive, feeling, and flexible (P) tendencies."
+                },
+                "person_B": {
+                    "type": "ENFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Combines concern for others\u2019 feelings, big-picture ideas about human nature and evolution, and willingness to follow structured health advice, suggesting an extraverted, intuitive, feeling, and more judging style."
+                }
+            }
+        },
+        {
+            "global_id": 16,
+            "codings": [
+                {
+                    "text_segment": "I know that, but I'm just worried about my health. I have asthma. If something bad happens here, I'll probably die.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete health condition and immediate physical risk."
+                },
+                {
+                    "text_segment": "So... can we please go back home?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Seeks a clear decision and change of plan to reduce risk."
+                },
+                {
+                    "text_segment": "But when we get home, you're taking off all those masks! I swear!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Expresses strong dislike of constraints and desire to remove them, favoring freedom from structure."
+                },
+                {
+                    "text_segment": "They\u2019re suffocating me. Seriously,",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Describes immediate physical sensation and discomfort."
+                },
+                {
+                    "text_segment": "Maybe we could find someplace outside where people aren\u2019t wearing masks anymore.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Looks for alternative, less restricted options rather than sticking to current rules."
+                },
+                {
+                    "text_segment": "We\u2019ve been seeing each other secretly since last week.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Engages in a secret, less structured relationship outside conventional norms."
+                },
+                {
+                    "text_segment": "I\u2019m still trying to figure her out.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Focuses on understanding underlying motives and personality rather than just observable facts."
+                },
+                {
+                    "text_segment": "It makes me mad because I love her too much. But she\u2019s making it hard for me to show it.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Centers on emotional experience and expression of love and frustration."
+                },
+                {
+                    "text_segment": "Yeah, but she shouldn\u2019t make decisions based only on feelings. She needs to think logically. Especially when it involves her kids.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Explicitly contrasts feelings with logical thinking and advocates rational decision-making."
+                },
+                {
+                    "text_segment": "They deserve stability.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values consistency and stable structure for the children."
+                },
+                {
+                    "text_segment": "She\u2019s convinced that he\u2019ll change if she sticks around long enough. She hopes he\u2019ll become more responsible and stop drinking alcohol all the time.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes hope for personal change and improved responsibility within relationships."
+                },
+                {
+                    "text_segment": "I need honesty and transparency. Otherwise, I\u2019ll lose faith in her completely.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Prioritizes emotional trust and openness as core relational values."
+                },
+                {
+                    "text_segment": "I\u2019ll remind her how important it is for friends to communicate openly. I\u2019ll encourage her to share her problems with you rather than keeping quiet about them.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Focuses on open emotional communication and support between people."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "INTJ",
+                    "type (best guess)": "INTJ",
+                    "summary": "Shows concern for health risk, desire for stability and clear decisions, and emphasis on logical over emotional decision-making, alongside some interest in understanding people, suggesting introverted, intuitive, thinking, judging preferences."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Expresses strong feelings, relational focus, and dislike of restrictive masks, with a more spontaneous, less structured approach, indicating extraverted, sensing, feeling, perceiving tendencies."
+                }
+            }
+        },
+        {
+            "global_id": 17,
+            "codings": [
+                {
+                    "text_segment": "I'm just trying to stay healthy, that's all.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical goal of maintaining health."
+                },
+                {
+                    "text_segment": "What if you gave it to me?!  I wouldn't have a job anymore, man! I'd lose my pay check for sure.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Emphasizes tangible consequences like job and paycheck loss."
+                },
+                {
+                    "text_segment": "So please, just do us both a",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Appeals to mutual benefit and consideration for both parties."
+                },
+                {
+                    "text_segment": "I know we need to take precautions during these times.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Acknowledges the necessity of precautionary measures as a structured response."
+                },
+                {
+                    "text_segment": "This one just feels too tight around here. Can't breathe. It's suffocating.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Describes immediate physical sensations and discomfort."
+                },
+                {
+                    "text_segment": "Maybe give me some time to adjust. Or maybe find something else I can wear. Something less restrictive.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Seeks flexibility and alternative options rather than strict adherence to one solution."
+                },
+                {
+                    "text_segment": "We can't let this spread further than necessary. That's why they made this rule in the first place.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Explains rules in terms of cause\u2013effect and necessity, using logical justification."
+                },
+                {
+                    "text_segment": "And I'll help you find another option if you really hate how it fits. But until then, just wear it. For our own good",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Offers a compromise but insists on a clear interim rule for safety."
+                },
+                {
+                    "text_segment": "If I still feel uncomfortable afterwards, then okay, I will comply. But otherwise, I\u2019m sticking with this one.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Keeps options open based on future feelings, delaying firm commitment."
+                },
+                {
+                    "text_segment": "Either way, it shouldn\u2019t affect much because even when people do get sick, most folks only miss two or three days tops.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Downplays impact using generalized, rational estimation of consequences."
+                },
+                {
+                    "text_segment": "I think it\u2019d actually be better to just stick with this one instead of getting a different kind. Because if you change your mind halfway through, then you may never get used to whatever alternative version of this item you chose.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers consistency and following through rather than switching options mid-way."
+                },
+                {
+                    "text_segment": "Instead, just tough it out and try to adapt.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Advocates a tough-minded, endure-and-adapt approach."
+                },
+                {
+                    "text_segment": "If I want to continue living comfortably, without having to worry about catching colds constantly, then I need to suck it up and deal with things.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses pragmatic reasoning about long-term comfort vs. short-term discomfort."
+                },
+                {
+                    "text_segment": "We learn from past mistakes and use that knowledge to avoid making similar errors in the future",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Abstracts from specific events to general lessons about humanity and the future."
+                },
+                {
+                    "text_segment": "Like washing hands regularly and covering mouths when sneezing or coughing.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Lists concrete, practical hygiene behaviors."
+                },
+                {
+                    "text_segment": "Isn\u2019t that essentially what you were doing today? Wearing a mask and staying away from others until you felt confident enough that you weren\u2019t contagious anymore?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Connects actions to underlying rationale in a logical way."
+                },
+                {
+                    "text_segment": "I also wanted to save money. I didn\u2019t buy anything today except for some toilet paper.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on specific purchases and concrete resource management."
+                },
+                {
+                    "text_segment": "At least you avoided wasting money buying unnecessary stuff.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Evaluates behavior in terms of efficiency and avoiding waste."
+                },
+                {
+                    "text_segment": "it\u2019s important to listen to other perspectives and respect differences between individuals.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Values respect for individual differences and perspective-taking."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Emphasizes rules, consistency, practical health concerns, and logical justifications, indicating extraverted, sensing, thinking, judging preferences."
+                },
+                "person_B": {
+                    "type": "ISTP",
+                    "type (best guess)": "ISTP",
+                    "summary": "Shows concrete focus on bodily comfort and money, flexible approach to rules, and pragmatic reasoning, consistent with introverted, sensing, thinking, perceiving."
+                }
+            }
+        },
+        {
+            "global_id": 18,
+            "codings": [
+                {
+                    "text_segment": "I think I've caught something from one of my coworkers. I just wanted to come out for some fresh air.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Refers to specific, recent exposure and immediate physical need for fresh air."
+                },
+                {
+                    "text_segment": "masks aren't that great. They're uncomfortable and they make talking difficult. I'd rather take my chances without them.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Prioritizes comfort and flexibility over structured precautionary measures."
+                },
+                {
+                    "text_segment": "We shouldn't ignore signs of illness. That would be unwise.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Frames response to illness in terms of wise vs. unwise decisions."
+                },
+                {
+                    "text_segment": "I can wait until tomorrow before going to see the doctor if necessary. I doubt anything serious will happen unless there's already been an epidemic where I work.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses probabilistic reasoning to delay action, weighing likelihood of serious outcomes."
+                },
+                {
+                    "text_segment": "most people who catch colds only stay sick for three or four days tops.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Cites concrete, time-bound experience of typical illness duration."
+                },
+                {
+                    "text_segment": "What did you bring with you today? Anything delicious? I heard the smell of baked goods wafting over into my direction earlier.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on sensory details like smell and specific food items."
+                },
+                {
+                    "text_segment": "I got some chocolate chip ones and some oatmeal raisin ones. Both are pretty good treats.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Describes specific, concrete cookie types as treats."
+                },
+                {
+                    "text_segment": "Thanks for letting me tag along with you shopping. This makes the time pass much more quickly than otherwise.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Appreciates social company to make an activity more enjoyable, indicating outward orientation."
+                },
+                {
+                    "text_segment": "Honestly, I enjoy having company while I shop around here. It keeps me awake and alert.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "States a clear preference for company and external stimulation during tasks."
+                },
+                {
+                    "text_segment": "we both like cookies so we usually end up eating quite a bit of them together.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Highlights shared enjoyment and togetherness around a simple pleasure."
+                },
+                {
+                    "text_segment": "I appreciate you giving me some extra cookies. They\u2019re always welcome.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses gratitude and positive emotional response to a kind gesture."
+                },
+                {
+                    "text_segment": "I promise to be less trouble next time. I\u2019ll definitely pay attention to you more closely in the future.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern about being a burden and intention to be considerate."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTP",
+                    "type (best guess)": "ESTP",
+                    "summary": "Enjoys social company, focuses on concrete sensations and short-term illness expectations, and flexibly downplays mask use, suggesting extraverted, sensing, thinking/feeling mix with a clear perceiving preference; ESTP fits best."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Highly oriented to sensory pleasures (food), values companionship and emotional exchange, and shows little emphasis on structure, indicating extraverted, sensing, feeling, perceiving."
+                }
+            }
+        }
+    ]
+}

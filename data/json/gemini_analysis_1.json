@@ -1,0 +1,1170 @@
+{
+    "dialogues": [
+        {
+            "global_id": 1,
+            "codings": [
+                {
+                    "text_segment": "we need to make sure there's time for us both to talk afterwards.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic by ensuring time for a specific activity."
+                },
+                {
+                    "text_segment": "We can take turns leading meetings after this one, maybe even every week.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and scheduled by proposing a regular, structured rotation."
+                },
+                {
+                    "text_segment": "That way everyone gets a chance to speak up!",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by ensuring everyone's participation."
+                },
+                {
+                    "text_segment": "If people aren't paying attention during my part then maybe we shouldn't let them run",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being critical and objective by evaluating performance based on attention."
+                },
+                {
+                    "text_segment": "Just please come over here tomorrow morning before lunch so we can go over all the details again.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and methodical by setting a specific time and purpose for a meeting."
+                },
+                {
+                    "text_segment": "I would love to help out more often actually.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being active and enthusiastic by expressing a desire for more involvement."
+                },
+                {
+                    "text_segment": "why don't you just send an email now asking me those things? Then no matter which of us ends up doing the presentation nobody has an excuse for forgetting anything important!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by suggesting a structured way to prevent forgetting."
+                },
+                {
+                    "text_segment": "wouldn't it be easier to get back together later today? There's still lots left to cover.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and spontaneity by suggesting an immediate, flexible continuation rather than a scheduled email."
+                },
+                {
+                    "text_segment": "I suggest sending emails first thing tomorrow instead of trying to remember everything offhand.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by suggesting an organized approach for information retention."
+                },
+                {
+                    "text_segment": "People won't pay as much attention anyway because it's almost quitting time.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and present-focused by observing current energy levels and time constraints."
+                },
+                {
+                    "text_segment": "don't blame me if someone forgets something important. I warned ya!",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being tough-minded and critical by setting clear accountability for potential issues."
+                },
+                {
+                    "text_segment": "whatever works for everybody...",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by prioritizing group harmony and preferences."
+                },
+                {
+                    "text_segment": "I promise I'll write down all the details and include links to websites where needed,",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and systematic by committing to detailed documentation."
+                },
+                {
+                    "text_segment": "Just don't forget anything important.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being methodical by emphasizing the importance of remembering details."
+                },
+                {
+                    "text_segment": "Happy planning!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic by expressing enthusiasm for planning."
+                },
+                {
+                    "text_segment": "But once it starts I might not recall anymore.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and present-focused by acknowledging current memory limitations."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Exhibits strong preferences for structured planning and practical, realistic approaches, often expressing care and appreciation."
+                },
+                "person_B": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Demonstrates a clear inclination towards social engagement, systematic organization, and a focus on concrete details and empathetic communication."
+                }
+            }
+        },
+        {
+            "global_id": 2,
+            "codings": [
+                {
+                    "text_segment": "Why do I get the impression we're going over old ground here? We've had these same discussions several times already. It's getting tiring.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and experiential by focusing on past concrete experiences and their present impact."
+                },
+                {
+                    "text_segment": "Maybe we need to find some way out of our rut.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being original and conceptual by seeking new, abstract solutions to a recurring problem."
+                },
+                {
+                    "text_segment": "let's face facts. This could turn into something really ugly.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and concrete by emphasizing the tangible negative consequences."
+                },
+                {
+                    "text_segment": "everything seems to complicate more every day.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and present-focused by observing the current, tangible state of affairs."
+                },
+                {
+                    "text_segment": "But don't worry, I'm sure we'll all get along eventually. I mean, after all, we ARE friends! And we can sort this thing out. We can make a decision together.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and accommodating by prioritizing harmony, relationships, and collective decision-making."
+                },
+                {
+                    "text_segment": "I feel like my ideas aren't being taken seriously.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being subjective by expressing a personal feeling about how their contributions are perceived."
+                },
+                {
+                    "text_segment": "I think it would help us move forward if we decided today.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being systematic by desiring an immediate decision to progress."
+                },
+                {
+                    "text_segment": "I thought you'd be the first person to support this idea because you're such a team player.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by framing expectations in terms of team harmony."
+                },
+                {
+                    "text_segment": "maybe it wouldn't hurt if someone else took charge for once.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being open-ended by suggesting a flexible change in leadership."
+                },
+                {
+                    "text_segment": "as long as we're making progress, nothing bad can happen, right?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and questioning by seeking objective assurance based on a premise."
+                },
+                {
+                    "text_segment": "it's better than sitting around doing nothing while waiting for you to decide.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being action-oriented and seeking closure by preferring progress over passive waiting."
+                },
+                {
+                    "text_segment": "I appreciate the fact that you guys didn't just walk away when things started getting tough.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and accepting by expressing gratitude for perseverance."
+                },
+                {
+                    "text_segment": "In order to maintain balance, sometimes we need to change things up a little bit.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being spontaneous by suggesting flexibility and variation."
+                },
+                {
+                    "text_segment": "that doesn't excuse you from trying to put forth some effort too. After all, we did sign on to this deal together.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and objective by holding to agreements and questioning behavior."
+                },
+                {
+                    "text_segment": "I wish you weren't so quick to pass the buck whenever problems arise.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being critical and tough-minded by expressing dissatisfaction with a lack of accountability."
+                },
+                {
+                    "text_segment": "I hear you.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by acknowledging the other person's statement."
+                },
+                {
+                    "text_segment": "Now it's time for you to pitch in and contribute equally.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being objective and reasonable by seeking a fair distribution of work."
+                },
+                {
+                    "text_segment": "You\u2019ve seen firsthand how things run smoothly under my leadership.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being experiential and realistic by referencing concrete past observations."
+                },
+                {
+                    "text_segment": "I trust your judgement. I\u2019m confident that you\u2019re capable of handling the situation.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accepting and accommodating by expressing faith in the other person's abilities."
+                },
+                {
+                    "text_segment": "Just remember, you still owe me lunch tomorrow.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being concrete and present-focused by emphasizing a specific, tangible detail."
+                },
+                {
+                    "text_segment": "Did I forget again?!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being spontaneous and emergent by forgetting a scheduled event."
+                },
+                {
+                    "text_segment": "I promise I\u2019ll wait until March 7th. Then I\u2019ll call your bluff and break up with you forever.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and planful by setting a clear deadline and consequence."
+                },
+                {
+                    "text_segment": "I couldn\u2019t possibly stand losing you. Please, don\u2019t leave me. Not now. I love you. I want to stay married to you.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and subjective by expressing strong personal feelings and valuing the relationship."
+                },
+                {
+                    "text_segment": "I swear I\u2019ll never forget again. I\u2019ll write down important dates in red ink and hang them above my bed. Every night when I go to sleep, I\u2019ll read them aloud.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by attempting to create a structured system to remember."
+                },
+                {
+                    "text_segment": "That sounds like a plan. I\u2019m counting on you. I\u2019ll count on you, but only if you hold up your end of the bargain.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and planful by emphasizing adherence to agreements and expectations."
+                },
+                {
+                    "text_segment": "Remember, you promised me lunch tomorrow at noon. Don\u2019t blow it. I\u2019m serious. If you\u2019re late, I won\u2019t forgive you easily.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being tough-minded and critical by setting clear, objective consequences for failure to comply."
+                },
+                {
+                    "text_segment": "I love hearing those words. I\u2019m glad you finally realized how much you mean to me. You made the right choice. I\u2019m honored to share my life with you.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and subjective by expressing strong personal feelings and valuing the relationship."
+                },
+                {
+                    "text_segment": "Happy anniversary! Happy Valentine's Day! Happy birthday!!! I love you! I miss you! I\u2019m gonna miss you! Bye! See you soon! Kiss",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and gregarious through an outpouring of affection and social connection."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Exhibits strong preferences for structured planning and logical, tough-minded decision-making, grounded in realistic observations."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Demonstrates a clear inclination towards empathetic expression, adaptability, and seeing imaginative possibilities, despite a desire for structure."
+                }
+            }
+        },
+        {
+            "global_id": 3,
+            "codings": [
+                {
+                    "text_segment": "I think we'll get more done if I'm leading.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and objective by focusing on efficiency and productivity."
+                },
+                {
+                    "text_segment": "But since it's just a small group anyway, maybe I can let someone else do it for once? It wouldn't hurt me too much. And besides, I might learn something from them...",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being open-ended by showing willingness to deviate from a plan and explore new possibilities."
+                },
+                {
+                    "text_segment": "I guess there isn't really anything wrong with letting one of us take over every now and then.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being open-ended by expressing flexibility about leadership roles."
+                },
+                {
+                    "text_segment": "Let's make an agreement right here right now! If you give up being leader after two meetings, I",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and planful by proposing a clear, conditional agreement."
+                },
+                {
+                    "text_segment": "I'll do my best to keep things under control. I promise you I won't go crazy!",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by assuring control and order."
+                },
+                {
+                    "text_segment": "I appreciate all your help today. Thanks again!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by expressing gratitude."
+                },
+                {
+                    "text_segment": "I understand where you coming from.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and accepting by showing understanding of another's perspective."
+                },
+                {
+                    "text_segment": "I need to pack for our trip tonight.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and scheduled by preparing for a future event."
+                },
+                {
+                    "text_segment": "I hope everything goes well with you guys. Good luck! I'll talk to you soon! Have fun!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and compassionate by expressing well wishes."
+                },
+                {
+                    "text_segment": "I'll call you when we arrive back home.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and scheduled by setting a future action based on an event."
+                },
+                {
+                    "text_segment": "Happy travels! Take care! Talk to you soon.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and compassionate by expressing well wishes and care."
+                },
+                {
+                    "text_segment": "Have fun! Enjoy yourselves! Take lots of pictures!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and enthusiastic by encouraging external action and enjoyment."
+                },
+                {
+                    "text_segment": "Hope you had a great time. Play safe! Drive carefully!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being compassionate and accepting by expressing care and concern."
+                },
+                {
+                    "text_segment": "I'm gonna miss you! Call me whenever you wanna!",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and subjective by expressing personal feelings and desire for connection."
+                },
+                {
+                    "text_segment": "Call me whenever you wanna!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended and spontaneous by offering flexible contact without a fixed schedule."
+                },
+                {
+                    "text_segment": "Nice seeing you again! Bye! Have fun driving!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by expressing pleasantries and care."
+                },
+                {
+                    "text_segment": "Bye! Bye-bye!!! Bye! Bye!!! Bye!!! Bye!!!! Bye!!!! Bye!!!!! Bye!!!!!!!! Bye!!!!!! Bye!!!!! Bye!!!! Bye!!! Bye!! Bye! Bye!! Bye!!! Bye!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and gregarious through prolonged social interaction and repeated goodbyes."
+                },
+                {
+                    "text_segment": "Love you! Bye! Kisses! Bye! Hugs! Bye! Thank you!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and compassionate by expressing affection and gratitude."
+                },
+                {
+                    "text_segment": "Gotta go! Bye! Annoyed...",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure by expressing a desire to end the interaction and move on."
+                },
+                {
+                    "text_segment": "Ciao! Ciao! Bye! G'night! Bye! Come back soon! Bye!! See you! Bye bye! Bye-byes! Bye-bys! Bye! Hi-hi! Bye-byy! Bye! Back soon! Bye-by! Bye! Be careful! Bye! Oh no! Bye! Sad! Bye! Ughh! Bye! Omg! Bye! Y",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and subjective by expressing a range of emotions and longing during prolonged goodbyes."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Exhibits strong preferences for social harmony, structured planning, and practical, realistic approaches, often expressing care and appreciation."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Demonstrates a clear inclination towards empathetic expression, social engagement, and a flexible, spontaneous approach to interactions."
+                }
+            }
+        },
+        {
+            "global_id": 4,
+            "codings": [
+                {
+                    "text_segment": "I think we need to take care of some more important things first.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and objective by prioritizing tasks based on importance."
+                },
+                {
+                    "text_segment": "We can't just let our team get all confused now because one guy didn't show up for his shift.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and objective by focusing on preventing confusion and disruption."
+                },
+                {
+                    "text_segment": "Let's move forward as planned today!",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic by adhering to the established plan."
+                },
+                {
+                    "text_segment": "he was scheduled to do something really important today.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being scheduled and methodical by emphasizing adherence to a timetable."
+                },
+                {
+                    "text_segment": "If he doesn't come then no one will know where the meeting room is. It would cause problems down the line if anyone needs to find anything.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being concrete and realistic by focusing on practical, immediate consequences."
+                },
+                {
+                    "text_segment": "What if someone asks me where everything went wrong tomorrow morning? I'd look like an idiot! And besides, isn't he usually here already? Isn't that part of being punctual?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being subjective by expressing concern for personal perception and embarrassment."
+                },
+                {
+                    "text_segment": "let's go over these points again before starting off into another direction.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and systematic by reviewing information before proceeding."
+                },
+                {
+                    "text_segment": "we need to make sure everybody has their own copy of my presentation slides, which includes all necessary data sets and charts, ready beforehand.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and methodical by ensuring thorough preparation in advance."
+                },
+                {
+                    "text_segment": "Our client just canceled last minute due to some kind of emergency involving their CEO leaving town unexpectedly without telling us ahead of time.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and present-focused by stating factual, current events."
+                },
+                {
+                    "text_segment": "Now they're asking if we could reschedule them until Friday afternoon instead...",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being open-ended by presenting a new, flexible alternative."
+                },
+                {
+                    "text_segment": "Maybe there were reasons beyond their control. Maybe they had an unexpected crisis going on behind closed doors. Who knows?!",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being abstract and imaginative by considering possibilities beyond the immediate facts."
+                },
+                {
+                    "text_segment": "Anyway, back to reality\u2014let\u2019s stick to our original plan.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic by insisting on adherence to the original plan."
+                },
+                {
+                    "text_segment": "No matter what happens, we\u2019re still gonna give those guys a piece of our minds!",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being tough-minded and critical by expressing a firm, objective stance."
+                },
+                {
+                    "text_segment": "Let\u2019s just get started with the actual meeting.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being action-oriented by wanting to proceed with the planned activity."
+                },
+                {
+                    "text_segment": "Sometimes, you gotta roll with whatever comes along with the job.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended by embracing flexibility and adapting to circumstances."
+                },
+                {
+                    "text_segment": "This particular instance may turn out to be even better than expected once we finally meet face-to-face.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being imaginative and future-oriented by seeing potential in unexpected changes."
+                },
+                {
+                    "text_segment": "sometimes it pays off handsomely when you actually manage to catch people unawares.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being original and conceptual by seeing value in unconventional approaches."
+                },
+                {
+                    "text_segment": "Especially considering how much effort goes into organizing meetings nowadays between different departments across various locations.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and practical by focusing on the concrete difficulties of organizing meetings."
+                },
+                {
+                    "text_segment": "most stuff boils down to personal preferences rather than practical necessities.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being objective and critical by distinguishing between subjective preference and objective need."
+                },
+                {
+                    "text_segment": "Still, having clear goals set forth helps streamline discussions amongst teams members who otherwise might become sid",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by valuing clear goals for efficiency."
+                },
+                {
+                    "text_segment": "folks tend to feel less focused immediately following meals.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and present-focused by observing concrete human behavior."
+                },
+                {
+                    "text_segment": "sometimes I like talking with colleagues outside office premises simply because fresh air tends promote clearer thinking patterns overall compared to stale indoor conditions.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being experiential and practical by valuing concrete environmental factors for thinking."
+                },
+                {
+                    "text_segment": "As long as we continue moving forward step-by-step, there shouldn't be many surprises lurking anywhere near.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by valuing structured, predictable progress."
+                },
+                {
+                    "text_segment": "Just remember to keep checking in regularly via email updates whenever possible, okay? That way nobody misses out on crucial developments occurring elsewhere within company structure.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by ensuring consistent information flow."
+                },
+                {
+                    "text_segment": "That\u2019s precisely why we should start preparing now.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being early starting and planful by advocating for immediate preparation."
+                },
+                {
+                    "text_segment": "if we wait too late, chances increase that someone might forget critical details leading to misunderstandings among participants involved.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being methodical by emphasizing the prevention of errors due to lack of planning."
+                },
+                {
+                    "text_segment": "Therefore, double-checking facts beforehand ensures accuracy throughout entire process",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and systematic by advocating for verification to ensure accuracy."
+                },
+                {
+                    "text_segment": "shall we review notes taken earlier regarding key decisions reached thus far?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and systematic by suggesting a review for closure and confirmation."
+                },
+                {
+                    "text_segment": "Hold on just a sec. I\u2019m sorry, but you can\u2019t leave yet. Not until we finish discussing the last few topics remaining open-ended.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended and preferring options by wanting to continue discussion rather than rush to closure."
+                },
+                {
+                    "text_segment": "those ones related mostly towards future directions moving forward.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being future-oriented and conceptual by focusing on abstract future possibilities."
+                },
+                {
+                    "text_segment": "We owe ourselves a solid conclusion before adjourning officially.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being systematic by desiring a complete discussion before ending."
+                },
+                {
+                    "text_segment": "I received word that a co-worker called in sick earlier today, so she won\u2019t be able to join us anymore unfortunately.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being concrete and realistic by focusing on a factual, present event."
+                },
+                {
+                    "text_segment": "Without her present, our meeting agenda becomes incomplete without proper context provided by her unique insights gained working closely together previously. Thus, I believe it prudent to reconvene another time",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and objective by making a decision based on objective criteria and impact on meeting effectiveness."
+                },
+                {
+                    "text_segment": "It certainly feels strange knowing someone close to our circle suddenly drops out cold like that.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being subjective and empathetic by expressing a personal feeling about the situation."
+                },
+                {
+                    "text_segment": "I think we accomplished plenty during today\u2019s gathering regardless.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended by accepting the current state and not needing full closure."
+                },
+                {
+                    "text_segment": "Next time round, please try to notify me sooner when changes arise affecting plans outlined originally.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and methodical by desiring prior notification for planning."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Exhibits strong preferences for structured planning and logical, tough-minded decision-making, grounded in realistic observations."
+                },
+                "person_B": {
+                    "type": "ISFJ",
+                    "type (best guess)": "ISFJ",
+                    "summary": "Demonstrates a strong preference for systematic planning and realistic observation, while also showing adaptability and concern for others' feelings."
+                }
+            }
+        },
+        {
+            "global_id": 5,
+            "codings": [
+                {
+                    "text_segment": "I've been working hard for weeks now and deserve some recognition.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being subjective by focusing on personal value and deservingness."
+                },
+                {
+                    "text_segment": "I'm more familiar with our clients' needs than anyone else here.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being experiential and realistic by basing the claim on concrete experience."
+                },
+                {
+                    "text_segment": "Let's go get something to eat instead. We can talk over dinner.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being spontaneous and preferring options by suggesting an immediate, flexible alternative."
+                },
+                {
+                    "text_segment": "let me pick where we'll meet up first.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being methodical by wanting to decide specific details."
+                },
+                {
+                    "text_segment": "don't even think about telling me how much harder you worked than everyone else because I know better.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being critical and tough-minded by challenging subjective claims with an objective assessment."
+                },
+                {
+                    "text_segment": "Just don't start talking about the project until after we eat, okay?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being scheduled and methodical by setting a clear boundary and sequence of activities."
+                },
+                {
+                    "text_segment": "maybe we could hit a bar tonight and catch a game later? It would probably be cheaper, plus there'd be free food.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being spontaneous by suggesting a flexible, unplanned activity."
+                },
+                {
+                    "text_segment": "It would probably be cheaper, plus there'd be free food.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being logical and reasonable by evaluating options based on objective criteria like cost and benefit."
+                },
+                {
+                    "text_segment": "I love watching sports games live, especially basketball! I really enjoy the atmosphere when people watch them together.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious and enthusiastic by expressing enjoyment of social activity and atmosphere."
+                },
+                {
+                    "text_segment": "What time did you plan on getting home though?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and scheduled by seeking a clear time frame."
+                },
+                {
+                    "text_segment": "About 10 o'clock tops. I need my beauty sleep.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being scheduled and methodical by setting a clear time limit."
+                },
+                {
+                    "text_segment": "So, do you wanna grab a bite before hand? Or shall we head straight to the bar?",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being open-ended by offering choices for the sequence of activities."
+                },
+                {
+                    "text_segment": "I feel like eating something greasy right now.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being subjective by expressing a personal, immediate feeling or preference."
+                },
+                {
+                    "text_segment": "He has all kinds of toppings available as well, so he might be able to cater towards whatever mood you happen to be in today.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by considering others' preferences and moods."
+                },
+                {
+                    "text_segment": "Maybe afterwards, we could swing by the liquor store real quick and stock up on snacks for the evening.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being spontaneous and emergent by adding an unplanned activity to the evening."
+                },
+                {
+                    "text_segment": "Oh wait, I almost forgot!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being spontaneous and emergent by forgetting a scheduled or planned event."
+                },
+                {
+                    "text_segment": "Would you care to join us? She invited most of her coworkers including myself.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious and active by extending an invitation to a social event."
+                },
+                {
+                    "text_segment": "she deserves some company for her big day.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and compassionate by focusing on others' needs and well-being."
+                },
+                {
+                    "text_segment": "I bet they won't have enough food to feed everybody anyway.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and concrete by making a practical observation about resources."
+                },
+                {
+                    "text_segment": "I think we'll have leftovers left over by midnight. After all, we usually only serve appetizers and finger foods. Everyone tends to leave feeling unsatisfied.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and experiential by basing the prediction on past concrete observations."
+                },
+                {
+                    "text_segment": "I hope you didn't forget anything important, such as bringing your ID card, cash money, credit cards, etcetera.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and planful by emphasizing preparation and attention to details."
+                },
+                {
+                    "text_segment": "We're gonna spend a lot of money tonight. You ready for that?",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and concrete by focusing on practical, tangible implications."
+                },
+                {
+                    "text_segment": "I never go anywhere without plenty of money. I've got several different wallets stuffed full of cash right now, which makes me feel safe.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being concrete and practical by focusing on tangible security and resources."
+                },
+                {
+                    "text_segment": "I hate having no backup plans whatsoever. That's why I carry three cell phones everywhere these days. One for business calls, one for personal conversations, and another one just incase everything else fails. I figure it covers every possible scenario",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and planful by creating comprehensive backup plans for all contingencies."
+                },
+                {
+                    "text_segment": "It's kind of annoying sometimes, but I suppose it comes across as being polite and considerate toward others.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by seeing the positive social aspect of a behavior."
+                },
+                {
+                    "text_segment": "I wish more people were like you. They tend to take things too lightly, which leads to careless mistakes down the line.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being critical and objective by observing negative consequences of carelessness."
+                },
+                {
+                    "text_segment": "I mean, I'm pretty careful about money matters too, yet I still manage to overspend occasionally",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and spontaneous by admitting to occasional lack of planning or control."
+                },
+                {
+                    "text_segment": "Didn't you lose thousands of dollars last year due to some bad investment advice? Did you learn nothing from that experience?",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being critical and questioning by challenging based on past facts and objective lessons."
+                },
+                {
+                    "text_segment": "I've done research into financial management strategies recently. I'm going to set aside half of my paycheck each week and put it away safely somewhere.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and planful by creating a structured financial plan."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Exhibits strong preferences for spontaneous action, social engagement, and empathetic expression, grounded in realistic observations."
+                },
+                "person_B": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Demonstrates a clear inclination towards systematic planning, logical assessment, and social engagement, with a focus on practical security."
+                }
+            }
+        },
+        {
+            "global_id": 6,
+            "codings": [
+                {
+                    "text_segment": "I'm really busy right now, I don't know if I can make time for another meeting today.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of being realistic and present-focused by acknowledging current, tangible constraints."
+                },
+                {
+                    "text_segment": "How's tomorrow?",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of preferring options and being open-ended by suggesting a flexible alternative time."
+                },
+                {
+                    "text_segment": "Let me just double check my schedule and get back to you.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and methodical by checking a schedule before committing."
+                },
+                {
+                    "text_segment": "What time would you like to meet?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and scheduled by seeking a specific meeting time."
+                },
+                {
+                    "text_segment": "I think I'll need someone else to take over leading meetings until after Christmas when everyone comes back from their vacation.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic by arranging for coverage during an absence."
+                },
+                {
+                    "text_segment": "Would you like to help run things around here while I'm away? It'd probably give us both an opportunity to learn some valuable skills.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by offering an opportunity and considering others' growth."
+                },
+                {
+                    "text_segment": "I actually had something come up last minute that was really important and unfortunately I won't be able to go to the meeting either.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being pressure-prompted and emergent by reacting to an unexpected, last-minute event."
+                },
+                {
+                    "text_segment": "I'd love to do one more meeting before I leave though.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being methodical by wanting to complete a task before departing."
+                },
+                {
+                    "text_segment": "If there aren't any conflicts with people's schedules, let's set up the meeting again as soon as possible.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic by seeking to schedule efficiently while avoiding conflicts."
+                },
+                {
+                    "text_segment": "What time works best for everybody else?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by considering others' needs and preferences."
+                },
+                {
+                    "text_segment": "Maybe we should put everything into our calendars. That way nobody has excuses if they forget about it.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by suggesting a tool to prevent forgetting and ensure adherence."
+                },
+                {
+                    "text_segment": "I suggest we all coordinate using google calendar so nothing gets lost.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and methodical by proposing a tool for organization and information management."
+                },
+                {
+                    "text_segment": "Thanks for working together to solve these issues. We're getting closer to finding solutions!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by expressing gratitude for collaboration and progress."
+                },
+                {
+                    "text_segment": "I hope we continue moving forward quickly since everyone seems willing to cooperate and compromise.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by valuing cooperation and harmony in the group."
+                },
+                {
+                    "text_segment": "Just a few details left to clear up.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being methodical by focusing on completing remaining tasks."
+                },
+                {
+                    "text_segment": "I\u2019m glad we were able to resolve most of those concerns during our meeting.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by valuing resolution and harmony."
+                },
+                {
+                    "text_segment": "I feel confident we\u2019ll finish off whatever\u2019s left behind once we reconvene tomorrow morning.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and being planful by expressing confidence in completing tasks according to a schedule."
+                },
+                {
+                    "text_segment": "I believe we\u2019ll find agreement pretty easily because no one disagrees with anything being proposed thus far.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by valuing agreement and harmony within the group."
+                },
+                {
+                    "text_segment": "I appreciate having such a collaborative partner.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by valuing collaboration and positive relationships."
+                },
+                {
+                    "text_segment": "I am looking forward to seeing where this goes also.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being future-oriented and conceptual by expressing openness to possibilities and future developments."
+                },
+                {
+                    "text_segment": "Happy holidays!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by expressing well wishes."
+                },
+                {
+                    "text_segment": "Happy Holidays to you as well! Have fun wherever you decide to spend them.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting by expressing well wishes and flexibility."
+                },
+                {
+                    "text_segment": "thank you for helping me out so much throughout this process. I couldn\u2019t have gotten anywhere without you guys\u2019 support. It means a lot to me.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic and compassionate by expressing gratitude and valuing support."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Exhibits strong preferences for social harmony, structured planning, and practical, realistic approaches, often expressing care and appreciation."
+                },
+                "person_B": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Demonstrates a clear inclination towards systematic planning, empathetic communication, and social engagement, with a focus on cooperation."
+                }
+            }
+        }
+    ]
+}

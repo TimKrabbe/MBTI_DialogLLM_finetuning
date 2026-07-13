@@ -1,0 +1,813 @@
+{
+    "dialogues": [
+        {
+            "global_id": 7,
+            "codings": [
+                {
+                    "text_segment": "We know who needs them most right now. I think we're doing more harm than good if we sit around waiting here. If they were going to give us some sort of instructions as to how to do this properly then fine, but at least let's get started already!",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows urgency for early starting, dislike of waiting, and desire for closure and action according to a plan."
+                },
+                {
+                    "text_segment": "Yeah well maybe there isn't anyone left alive anymore to tell us exactly where all those injured people are. Maybe no one sent out another search team yet? I mean... what would their point even be? Everyone will just die anyway because of lack of food and clean water eventually unless something happens soon.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Moves quickly to abstract, future-oriented catastrophic possibilities rather than concrete present facts."
+                },
+                {
+                    "text_segment": "Well ok, whatever works best for everybody.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Frames the decision in terms of what works best for everybody, indicating accommodating, people-focused reasoning."
+                },
+                {
+                    "text_segment": "I hate having to rely on strangers for help when I've got this many people needing attention.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses personal discomfort and concern about people needing attention, emphasizing relational and emotional aspects."
+                },
+                {
+                    "text_segment": "That sounds really hard. I guess once someone starts giving orders everything changes pretty quickly. It's kind of exciting actually. Like we finally feel productive doing something important instead of just sitting around worrying about others.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows empathy (\u201cthat sounds really hard\u201d) and values feeling productive and helping others, reflecting a people-centered stance."
+                },
+                {
+                    "text_segment": "About 30 minutes ago according to my watch.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Uses a precise, concrete time reference based on direct observation (watch)."
+                },
+                {
+                    "text_segment": "I wish I knew more about medicine. Then I'd be able to fix these people myself.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Focuses on personally helping and \u201cfixing these people,\u201d indicating concern for others\u2019 well-being."
+                },
+                {
+                    "text_segment": "Let's try to conserve energy. Take short breaks every half hour. Drink plenty of fluids. And stay calm. We shouldn't panic. We're making progress!",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Gives concrete, practical instructions about breaks, fluids, and physical state."
+                },
+                {
+                    "text_segment": "We have to hurry. Can you carry her? I'll grab her backpack. There might be some bandages inside. We'll use those to patch her up.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on immediate, practical actions and physical objects (backpack, bandages) to address the situation."
+                },
+                {
+                    "text_segment": "We better check if she's got a concussion. If so, she may lose consciousness again. We should lay her flat on her back.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies logical, cause-effect medical reasoning to decide on treatment steps."
+                },
+                {
+                    "text_segment": "Her head hurts. She won't move a muscle. I don't hear anything wrong with her lungs. Her heart beat is also regular.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Reports concrete, sensory observations about physical symptoms."
+                },
+                {
+                    "text_segment": "It's the best treatment we can offer for now.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Evaluates options in terms of effectiveness and makes a pragmatic judgment."
+                },
+                {
+                    "text_segment": "No, no, no. I don\u2019t care what happened to the people who were killed. I\u2019m only interested in helping the living ones.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Takes a tough-minded, objective stance, prioritizing efficiency over emotional concern for the dead."
+                },
+                {
+                    "text_segment": "But please remember that we\u2019re trying to save as many lives as possible. We\u2019ll never achieve that goal if we start mourning the dead.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses logical argument about goals and consequences rather than emotional processing of loss."
+                },
+                {
+                    "text_segment": "I feel we need to compromise somehow. Otherwise neither side\u2019s getting anything done. And we definitely can\u2019t afford wasting precious time.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes compromise and mutual benefit, reflecting an accommodating, harmony-seeking approach."
+                },
+                {
+                    "text_segment": "We simply don\u2019t have time for arguments!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Rejects open-ended debate in favor of decisive action and time management."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Task-focused, pragmatic, and directive; uses concrete data and logical prioritization, with a strong push for organized, timely action."
+                },
+                "person_B": {
+                    "type": "xSFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "People-oriented and cooperative, mixing practical details with concern for others and a desire for compromise and orderly progress."
+                }
+            }
+        },
+        {
+            "global_id": 8,
+            "codings": [
+                {
+                    "text_segment": "Okay... I think we're gonna have to do some things differently. This guy over here says he's got a plan. We just gotta follow his lead.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows preference for following a defined plan and structured approach."
+                },
+                {
+                    "text_segment": "We just gotta follow his lead. What does he suggest?",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Looks outward to another\u2019s lead and engages in external discussion to move forward."
+                },
+                {
+                    "text_segment": "We\u2019ve been trying to figure out how many medical supplies there actually are. It looks like there might only be enough for half the population. That's if everything gets distributed equally.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Analyzes quantities and fairness in an impersonal, logical way."
+                },
+                {
+                    "text_segment": "So this guy wants us to go around asking everyone what kind of medical problems they had before the earthquake happened.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Describes a concrete data-gathering procedure based on specific past conditions."
+                },
+                {
+                    "text_segment": "That doesn't seem very fair to me. What happens when someone has gotten better since then? Or worse off? How will anyone know where to send all these supplies? It sounds like chaos!",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Evaluates the proposal using logical consequences and systemic concerns (fairness, chaos)."
+                },
+                {
+                    "text_segment": "Oh come on man, give him a chance. He knows way more about psychology than you do. Maybe he'll even tell us something useful. If nothing else, at least we'd learn from our mistakes.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Defends the person and emphasizes giving a chance and learning, showing a more accommodating stance."
+                },
+                {
+                    "text_segment": "I won't risk my life on some guy's hunches. There aren't nearly enough resources as-is without splitting up into teams to try and sort out each person individually.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses critical, risk-focused reasoning and resource analysis to reject an idea."
+                },
+                {
+                    "text_segment": "Just wait until he comes up with another brilliant idea.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Displays a critical, somewhat sarcastic evaluation of others\u2019 ideas."
+                },
+                {
+                    "text_segment": "I swear I'm going to get my own team working independently from now on. Because obviously relying on your colleagues is never safe.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Rejects structured teamwork and prefers independent, flexible operation."
+                },
+                {
+                    "text_segment": "I prefer to stick together. I believe in teamwork. Now excuse me while I go find Mr. Y. We've got much planning ahead of us.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values organized teamwork and anticipates planning work ahead."
+                },
+                {
+                    "text_segment": "Let's take care of business real quick and then head back to base camp alright?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to complete tasks quickly and then move to the next scheduled step."
+                },
+                {
+                    "text_segment": "I haven't eaten anything today and I'm starving. My stomach hurts badly. Can you get me some food later? Please?",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on immediate physical sensations and needs."
+                },
+                {
+                    "text_segment": "Oh sure. No problem. I enjoy talking to people. Especially those who speak English. I also love eating good food.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Expressly enjoys talking to people and social interaction."
+                },
+                {
+                    "text_segment": "Me too ma'am. Me too. Well then let\u2019s go! Everyone grab a helmet and we\u2019ll leave as fast as possible. Remember to check every house for survivors.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Issues organized instructions and emphasizes quick, goal-directed action."
+                },
+                {
+                    "text_segment": "Some people may have escaped unnoticed during the chaos.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Considers unseen possibilities beyond current concrete evidence."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ExTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Socially engaged, but strongly structured and critical, preferring clear plans, teamwork, and logical evaluation of proposals."
+                },
+                "person_B": {
+                    "type": "xNFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Defends people, seeks learning and cooperation, mixes big-picture concerns with organized, directive behavior."
+                }
+            }
+        },
+        {
+            "global_id": 9,
+            "codings": [
+                {
+                    "text_segment": "We have to give everyone some of everything. If we leave anything out there's going to be chaos.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Focuses on fairness and avoiding others feeling left out, a value-based concern."
+                },
+                {
+                    "text_segment": "And even if we do divide things up into groups... there isn't enough for everybody! It would still cause problems. People aren't gonna like being left out.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes others\u2019 reactions and emotional responses to being left out."
+                },
+                {
+                    "text_segment": "I get all that, but I don't see how we're supposed to figure out who gets what when we only know half of the population!",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Questions feasibility and logic of implementation rather than fairness."
+                },
+                {
+                    "text_segment": "This way at least everyone has something to eat, right?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Frames the solution in terms of everyone getting something, focusing on inclusive outcome."
+                },
+                {
+                    "text_segment": "What if someone tries to steal food? That could turn violent pretty fast!",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Projects a hypothetical future scenario of escalation rather than staying with present facts."
+                },
+                {
+                    "text_segment": "You sound like you've been through worse.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Makes a personal, empathetic comment about the other\u2019s experience."
+                },
+                {
+                    "text_segment": "So let\u2019s split it as evenly as possible. Everyone gets a little bit. Nobody goes hungry. We\u2019re all safe.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Prioritizes equitable distribution and group well-being."
+                },
+                {
+                    "text_segment": "Let\u2019s try it. But if anyone complains too much, you\u2019ll answer me. Got it?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Sets a clear condition and accountability, indicating desire for control and closure."
+                },
+                {
+                    "text_segment": "I\u2019ve got a list here. I\u2019m giving these to whoever comes looking for them. Just pass it along. No arguing.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Uses a predefined list and insists on no arguing, reflecting structured, rule-based distribution."
+                },
+                {
+                    "text_segment": "Don\u2019t forget to drink plenty of water. You won\u2019t feel good until you replenish your fluids.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Gives concrete, bodily-care advice based on physical needs."
+                },
+                {
+                    "text_segment": "Here\u2019s my number. Call me later tonight. If I haven\u2019t heard back by tomorrow morning, call again.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Schedules follow-up times and sets a clear plan for contact."
+                },
+                {
+                    "text_segment": "I miss you already! See ya later!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Expresses strong outward emotional attachment and eagerness in parting."
+                },
+                {
+                    "text_segment": "Bye! See ya! Take care!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Engages in animated, social leave-taking."
+                },
+                {
+                    "text_segment": "What did you do today? What happened? Where\u2019d you go? How were you guys? Did you hear from him yet? Are you okay? What happened?!?!?!!??!?!?!!!?!!!!?!?!!!??!?!?!?!?!!!?!?!?!?!??!?!??!??!?!????!?!?!?!!!!!!!!!!!!!???!?!?!?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Rapid-fire questioning and intense outward engagement indicate high extraverted energy."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ExFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Concerned with fairness and others\u2019 feelings, somewhat directive and structured, and socially expressive in interactions."
+                },
+                "person_B": {
+                    "type": "ExFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Highly expressive and relational, focused on everyone getting something and maintaining order through lists and rules."
+                }
+            }
+        },
+        {
+            "global_id": 10,
+            "codings": [
+                {
+                    "text_segment": "I would like to take charge of this one. If we divide our duties according to these areas here, then we will have less confusion. I'll take the northern sector, and you can handle the southern part. It's important to stay in contact at all times though",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows desire to take charge, divide duties systematically, and maintain structured communication."
+                },
+                {
+                    "text_segment": "If we divide our duties according to these areas here, then we will have less confusion.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses logical cause-effect reasoning to reduce confusion through structure."
+                },
+                {
+                    "text_segment": "Yeah sure. I'm just saying maybe if someone else came along, they'd get confused.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Considers how others might feel confused, focusing on people\u2019s reactions."
+                },
+                {
+                    "text_segment": "Okay, well I\u2019ll try to get some ambulances over here as soon as possible. In the meantime, do you guys need anything from me?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Offers help and checks on others\u2019 needs, reflecting a supportive stance."
+                },
+                {
+                    "text_segment": "I\u2019m gonna head back home and rest up.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on immediate physical need for rest."
+                },
+                {
+                    "text_segment": "Don\u2019t worry about him. I\u2019ve dealt with a few broken bones before. They heal quickly. Just make sure to put ice on them, elevate his legs, and give him plenty of fluids.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Provides concrete, practical medical advice based on experience."
+                },
+                {
+                    "text_segment": "I swear when he gets better, I am going to break every bone in his body. He deserves it.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Expresses a harsh, tough-minded judgment about what someone deserves."
+                },
+                {
+                    "text_segment": "Gotta set up base camp somewhere safe.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans to establish a defined base camp, indicating preference for structure."
+                },
+                {
+                    "text_segment": "Remember to watch out for aftershocks!",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Attends to concrete environmental risks and physical safety."
+                },
+                {
+                    "text_segment": "Call me when things settle down. We can meet each other up and figure out who has extra supplies.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans future coordination and resource assessment once the situation stabilizes."
+                },
+                {
+                    "text_segment": "Let\u2019s check in sometime soon, ok?",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Seeks ongoing contact and interaction."
+                },
+                {
+                    "text_segment": "Peace out, peace out! Okie Dokie Lokie! See ya! Peace out!!! Bye!!! Bye!!!! Bye!!!!!!!!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Highly animated, repetitive social farewell indicates strong extraverted expression."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Takes charge, structures duties, and uses practical and sometimes tough-minded judgments, with some sociable contact-seeking."
+                },
+                "person_B": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Warmly supportive, practically helpful, and expressive, while also valuing organized arrangements like base camps and follow-ups."
+                }
+            }
+        },
+        {
+            "global_id": 11,
+            "codings": [
+                {
+                    "text_segment": "I know we're short on supplies, but I think we have enough to take care of everybody here. It's just going to be tight.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Frames the issue in terms of taking care of everybody, emphasizing people\u2019s needs."
+                },
+                {
+                    "text_segment": "We only got one ambulance. And there are two hospitals over 50 miles away from us. How do we get everyone who needs treatment there?",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Uses concrete numbers and distances to describe the logistical problem."
+                },
+                {
+                    "text_segment": "We'd have to split them up between the two places, which means they'll lose precious time getting back home after their treatment.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Analyzes consequences in a logical, cause-effect manner."
+                },
+                {
+                    "text_segment": "It's true. But look at the bigger picture here.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Shifts from concrete details to a broader, more abstract perspective."
+                },
+                {
+                    "text_segment": "If we send everyone to one hospital, all of our resources would be focused in one place, leaving none available elsewhere.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses logical resource allocation reasoning and hypothetical outcomes."
+                },
+                {
+                    "text_segment": "What if they needed surgery right now?!",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Poses a hypothetical worst-case scenario about immediate surgery needs."
+                },
+                {
+                    "text_segment": "Everyone has done everything possible to save lives today.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Acknowledges and values people\u2019s efforts and the emotional weight of saving lives."
+                },
+                {
+                    "text_segment": "We can use that extra hour or two to transport as many injured people as we can to these nearby towns where they have better facilities equipped for emergencies like ours.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans how to use remaining time efficiently with a structured transport strategy."
+                },
+                {
+                    "text_segment": "Maybe we should try to organize ourselves differently instead? Like maybe having teams assigned specific areas within walking distance around each town center?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes organized team assignments and defined areas."
+                },
+                {
+                    "text_segment": "That makes sense actually. It gives me another idea. Maybe we could set up checkpoints throughout the city limits so that no one goes beyond certain points unless absolutely necessary.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Generates a new conceptual system (checkpoints) from the prior suggestion."
+                },
+                {
+                    "text_segment": "Then once people reach one checkpoint, they stay put until further notice.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Imposes clear rules and controlled movement, reflecting preference for order and closure."
+                },
+                {
+                    "text_segment": "We won't overwhelm local hospitals with sudden influxes of",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses logical reasoning about system capacity and consequences."
+                },
+                {
+                    "text_segment": "Well, let's get started then.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Moves decisively from planning to action."
+                },
+                {
+                    "text_segment": "Here\u2019s my plan\u2026 First thing\u2019s first \u2013 we\u2019ll establish three main zones based off current population density levels",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Introduces a structured, stepwise plan with defined zones."
+                },
+                {
+                    "text_segment": "Zones One & Two together account for approximately half the affected area whereas Zone Three represents roughly one-third remaining territory.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses quantitative analysis to justify zoning decisions."
+                },
+                {
+                    "text_segment": "Have you considered implementing any sort of priority system amongst various categories such as age groups or medical",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Asks about establishing a priority system, indicating preference for structured decision rules."
+                },
+                {
+                    "text_segment": "we prioritize treating children above adults whenever possible simply due to biological reasons associated with survival chances",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Bases priorities on impersonal, biological survival probabilities."
+                },
+                {
+                    "text_segment": "Also, pregnant women fall under top tier category followed closely behind elderly individuals who require special attention because of pre-existing conditions",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for vulnerable groups and their special needs."
+                },
+                {
+                    "text_segment": "we\u2019d prefer not relying solely on government agencies alone considering recent events surrounding budget cuts affecting federal funding allocation specifically targeted toward social services sector",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Connects current decisions to broader systemic and political trends."
+                },
+                {
+                    "text_segment": "He has contacts pretty much anywhere you can imagine including military",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Emphasizes wide-ranging networks and possibilities across contexts."
+                },
+                {
+                    "text_segment": "thank you for taking the lead on this matter. You\u2019ve given excellent input thus far.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses appreciation and positive feedback, focusing on interpersonal affirmation."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Big-picture planner who structures zones and priorities, blending logical systems with strong concern for people and vulnerable groups."
+                },
+                "person_B": {
+                    "type": "xNFJ",
+                    "type (best guess)": "INFJ",
+                    "summary": "Concerned with systemic risks and organization, asks conceptual questions and values collaboration and appreciation, with less overt extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 12,
+            "codings": [
+                {
+                    "text_segment": "I'm pretty sure we've got enough supplies at hand, I don't think there's much else needed here. We're just going to have to send them out. But how?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to move from assessment to deciding on a distribution method."
+                },
+                {
+                    "text_segment": "We could use a helicopter, but I don't know who has one... There isn't time to wait though,",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Considers an abstract option (helicopter) beyond current concrete resources and focuses on time pressure."
+                },
+                {
+                    "text_segment": "It's tough because this area needs immediate attention, especially since it's the epicenter.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Refers to the specific area and its concrete status as epicenter."
+                },
+                {
+                    "text_segment": "The problem is these earthquakes usually bring aftershocks which could cause further destruction and injuries.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Projects likely future events (aftershocks) and their implications."
+                },
+                {
+                    "text_segment": "We shouldn't waste our resources.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies an efficiency-based, resource-conservation principle."
+                },
+                {
+                    "text_segment": "Let me check the maps again. This way will take us past two towns, each with 200 houses. The road is quite narrow between them, but that's ok.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Uses concrete tools (maps) and specific numbers and physical descriptions."
+                },
+                {
+                    "text_segment": "We should also stop off at some local aid stations along the route, they may have more supplies than we thought.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans specific stops along a route to optimize resources."
+                },
+                {
+                    "text_segment": "That sounds like a good idea, let's go.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Quickly commits to a plan and moves to action."
+                },
+                {
+                    "text_segment": "Maybe someone gets saved. And when all hell breaks loose, we wouldn't regret having tried.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Values the moral aspect of having tried to save someone, regardless of outcome."
+                },
+                {
+                    "text_segment": "I hate being idle.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Expresses discomfort with inactivity, preferring engagement and action."
+                },
+                {
+                    "text_segment": "We\u2019ll set up base camp near the middle village. From there, we can split into groups and distribute the supplies evenly.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Organizes a central base and structured group distribution."
+                },
+                {
+                    "text_segment": "We can meet back up later tonight",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Schedules a specific time for regrouping."
+                },
+                {
+                    "text_segment": "Let's move fast, but safely. We need to cover ground quickly before nightfall. We can rest once we arrive at the next town.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes time-bound goals and sequencing work before rest."
+                },
+                {
+                    "text_segment": "We should stay alert for signs of danger. Earthquakes aren't done yet.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete signs of danger and ongoing physical events."
+                },
+                {
+                    "text_segment": "I feel like the earth hasn't stopped shaking yet. This disaster keeps giving us surprises.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Uses metaphorical language and focuses on ongoing, unpredictable patterns."
+                },
+                {
+                    "text_segment": "As long as we remain calm and focused, we can deal with most challenges thrown our way.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies a rational principle about mindset and problem-solving capacity."
+                },
+                {
+                    "text_segment": "Everyone needs to relax and concentrate on their tasks. If anyone feels uncomfortable, tell me immediately. I'll arrange for some extra guards. Safety comes",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Directs others to focus on tasks and offers to arrange structured safety measures."
+                },
+                {
+                    "text_segment": "We promise to be more cautious in future operations. In fact, I'd like to propose assigning a dedicated security detail for every mission from now on.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Suggests a standing procedural change (security detail) for all future missions."
+                },
+                {
+                    "text_segment": "That sort of planning requires expertise beyond our current capabilities.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Evaluates the feasibility of planning based on capabilities and expertise."
+                },
+                {
+                    "text_segment": "Since you seem to have experience working in challenging environments, I trust you'll handle things efficiently.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses personal trust and affirmation toward the other."
+                },
+                {
+                    "text_segment": "We cannot afford delays in this critical operation. Every second counts.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Stresses urgency and intolerance for delays, favoring decisive action."
+                },
+                {
+                    "text_segment": "The villagers should recognize our vehicle \u2013 it\u2019s painted yellow and has a big logo on the side.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Refers to concrete visual details (color, logo) to guide recognition."
+                },
+                {
+                    "text_segment": "These items are essential for survival. However, given the circumstances, we should consider adding some additional supplies.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Evaluates items in terms of essentiality and logically expands the list based on circumstances."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Combines big-picture route and risk thinking with concrete mapping and strong structuring of bases, groups, and safety, oriented to leading others."
+                },
+                "person_B": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Action-oriented, dislikes idleness, emphasizes efficiency, safety, and procedural improvements, while using both concrete details and logical principles."
+                }
+            }
+        }
+    ]
+}

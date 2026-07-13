@@ -1,0 +1,715 @@
+{
+    "dialogues": [
+        {
+            "global_id": 7,
+            "codings": [
+                {
+                    "text_segment": "I believe we should prioritize distributing medical supplies based on the severity of damage reported from each zone. We have limited resources, so precision will be key.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on logical, objective criteria (severity, precision, limited resources) for decision-making, matching the 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "Maybe we could categorize them into three groups: severely damaged, moderately damaged, and least impacted.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a systematic, structured categorization framework, matching the 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "let's create a real-time tracking system using drones and satellite imagery to monitor road conditions and update our priorities dynamically",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Proposes a conceptual, technology-driven, future-oriented solution using abstract systems thinking, matching 'conceptual' and 'future' keywords."
+                },
+                {
+                    "text_segment": "we should establish a central hub where updates from field teams are logged and shared instantly",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured, organized system for information management, matching 'systematic' and 'scheduled' keywords."
+                },
+                {
+                    "text_segment": "Let's assign someone specifically to manage the logistics and another to handle communications between field teams and headquarters.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Assigns clear, defined roles in a methodical manner, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "For logistics, I suggest assigning Alex\u2014who's got great organizational skills\u2014and for communications, maybe Jamie, who excels at keeping lines open and clear.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Assigns specific people to specific roles in a planful, organized manner, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Can you gather data on injuries, shortages of medical supplies, and accessibility issues right away?",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, present-tense data gathering (injuries, shortages, accessibility), matching 'concrete' and 'present' keywords."
+                },
+                {
+                    "text_segment": "I'll head over to the medical teams and collect data on injuries and current supply levels.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Action-oriented, concrete, experiential data collection in the present moment, matching 'concrete' and 'experiential' keywords."
+                },
+                {
+                    "text_segment": "let's schedule a brief meeting to go over everything and align on the next steps. Quick decision",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proactively schedules a meeting for closure and alignment, matching 'scheduled' and 'closure' keywords."
+                },
+                {
+                    "text_segment": "I'll set up the meeting for 30 minutes from now to review everything thoroughly.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Sets a specific, time-bound meeting, demonstrating planful and scheduled behavior, matching 'scheduled' and 'planful' keywords."
+                },
+                {
+                    "text_segment": "if anything significant changes\u2014like sudden road closures or major shifts in patient numbers\u2014I want you to notify me immediately. We need rapid communication channels",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on objective, logical contingency planning and information flow, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "let's make sure we have backup plans for alternative routes and additional medical personnel in case",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proactively plans for contingencies in a methodical, forward-looking manner, matching 'planful' and 'methodical' keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A consistently demonstrates logical, objective decision-making (T), a focus on concrete data and present realities (S), and a strong preference for structured, methodical planning with clear role assignments and scheduled meetings (J). The directive, action-oriented communication style suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xNTJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Person B shows systematic, planful behavior (J) with a tendency toward conceptual, technology-driven solutions like drone tracking systems (N), and objective, logical reasoning (T). The enthusiastic, proactive engagement in coordinating others suggests Extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 8,
+            "codings": [
+                {
+                    "text_segment": "I think we should prioritize areas with higher population density and more severe damage reports.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses objective, logical criteria (population density, damage severity) for prioritization, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "I also believe we shouldn't overlook remote villages where news might have been slow to reach us. They could still be severely affected despite lower initial reports.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for overlooked, vulnerable populations, demonstrating empathetic and compassionate consideration, matching 'empathetic' and 'compassionate' keywords."
+                },
+                {
+                    "text_segment": "Using satellite imagery will definitely give us better insight. Let's integrate that into our strategy.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Embraces abstract, technology-driven, conceptual tools for gaining insight, matching 'conceptual' and 'abstract' keywords."
+                },
+                {
+                    "text_segment": "I propose dividing the area into zones\u2014high-density urban centers, moderate-risk suburban areas, and remote rural regions\u2014and assign teams to each zone.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a systematic, structured zoning framework with assigned teams, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Assigning specific tasks to each team based on their strengths would maximize efficiency.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a planful, organized approach to task assignment, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "I'll take the lead on coordinating efforts in the urban centers since my experience with large-scale operations there aligns well with this role.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Makes a logical, objective self-assessment based on experience and fit, matching 'logical' and 'reasonable' keywords."
+                },
+                {
+                    "text_segment": "For the rural regions, I'll gather a small, nimble team with diverse skills, ensuring we're ready to tackle whatever challenges come up.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Emphasizes adaptability and readiness for emergent challenges rather than rigid planning, matching 'spontaneous' and 'emergent' keywords."
+                },
+                {
+                    "text_segment": "Let me shoot her a quick message to see if she's available and interested.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Immediately reaches out and takes action to connect with others, matching 'action-oriented' and 'expressive' keywords."
+                },
+                {
+                    "text_segment": "I'll coordinate with logistics to secure additional supplies specifically for the urban centers.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Takes a methodical, planful approach to securing resources, matching 'methodical' and 'systematic' keywords."
+                },
+                {
+                    "text_segment": "we should also consider setting up a central hub for coordination between the different zones. It will streamline communication and resource management.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured, organized coordination system, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Let's aim for a meeting within the next 24 hours. That should give us ample time to fine-tune our plans and ensure nothing falls through the cracks.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Schedules a specific, time-bound meeting for closure and thoroughness, matching 'scheduled' and 'closure' keywords."
+                },
+                {
+                    "text_segment": "A 24-hour window seems reasonable. It gives us just enough time to cover all bases without rushing into anything haphazardly.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values thorough preparation and avoiding hasty decisions, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "let's make sure we have backup plans for potential roadblocks. For instance, if satellite access is spotty in certain areas, we should have alternative methods to assess conditions.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proactively plans for contingencies in a systematic manner, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "If satellite access proves unreliable, we can use drones or ground-based reconnaissance to fill in gaps.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Generates alternative, conceptual solutions using technology, matching 'conceptual' and 'abstract' keywords."
+                },
+                {
+                    "text_segment": "having pre-positioned supplies in strategic locations around the urban centers could speed up initial response times.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical, present-oriented logistics, matching 'practical' and 'concrete' keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A demonstrates logical, objective decision-making (T), a preference for structured zoning and scheduled meetings (J), and a focus on concrete, practical logistics (S). The directive, action-oriented leadership style suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xNFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Person B shows empathetic concern for overlooked populations (F), generates conceptual and technology-driven solutions (N), and maintains a planful, organized approach (J). The enthusiastic, outwardly-directed engagement with others suggests Extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 9,
+            "codings": [
+                {
+                    "text_segment": "I think we need to prioritize the areas hardest hit by the quake before moving on to others. We have limited resources, so precision matters here.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies logical, objective criteria (precision, limited resources, severity) to decision-making, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "how about we also set up quick assessment points at each major affected area? That way, we can quickly gauge needs without wasting time.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Proposes concrete, practical, present-focused assessment points for immediate needs, matching 'practical' and 'concrete' keywords."
+                },
+                {
+                    "text_segment": "having these points will allow us to adapt our plans as more information comes in",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Emphasizes adaptability and keeping options open as new information emerges, matching 'open-ended' and 'emergent' keywords."
+                },
+                {
+                    "text_segment": "Should we allocate specific teams to handle the assessments? And maybe consider which team leaders would work best in these roles based on their experience?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes systematic role allocation and structured team assignments, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "I propose assigning Team Leader Sarah for Area X due to her previous experience in disaster response there. For Area Y, perhaps Team Leader Mike\u2014his background includes dealing with structural damage assessment",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Makes logical, objective role assignments based on relevant experience and qualifications, matching 'logical' and 'reasonable' keywords."
+                },
+                {
+                    "text_segment": "let's stock each assessment point with essential items like bandages, painkillers, IV fluids, and basic first aid kits.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, practical supply items for immediate needs, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "We can also include mental health support materials since trauma management is crucial post-disaster.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows empathetic concern for psychological wellbeing of survivors, matching 'empathetic' and 'compassionate' keywords."
+                },
+                {
+                    "text_segment": "With five main assessment points identified, we can split our teams so they rotate every few hours. This ensures everyone gets a break and maintains efficiency over long shifts.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a systematic, scheduled rotation plan, matching 'systematic' and 'scheduled' keywords."
+                },
+                {
+                    "text_segment": "That rotation schedule sounds perfect\u2014it keeps morale up and prevents burnout.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Values the human impact of the schedule on team morale and wellbeing, matching 'empathetic' and 'compassionate' keywords."
+                },
+                {
+                    "text_segment": "Should we prepare a checklist for each shift detailing necessary tasks and responsibilities?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured, methodical checklist for organized task management, matching 'methodical' and 'systematic' keywords."
+                },
+                {
+                    "text_segment": "1. Initial Assessment: Check immediate injuries and triage patients. 2. Supplies Inventory: Ensure all required items are present. 3. Communication Update: Report findings back to central command.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a detailed, numbered, systematic checklist for structured operations, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "on efficient resource allocation, we should prioritize treating the most severe cases first and then move down the line. Also, keeping a log of used supplies will help us track inventory",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies logical, objective triage principles and systematic tracking, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "we should also ensure redundancy in case primary methods fail. Besides radios and satellite phones, setting up text-based updates using secure messaging apps can be useful.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proactively plans for contingencies with a methodical, systematic approach, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "we should brief all teams on these procedures today so they understand",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes early, scheduled briefing to ensure everyone is prepared, matching 'early starting' and 'scheduled' keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A consistently applies logical, objective criteria (T), focuses on concrete, practical operations (S), and demonstrates strong systematic, methodical planning with checklists and scheduled briefings (J). The directive communication style suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xSFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B shows empathetic concern for team morale and survivor wellbeing (F), focuses on concrete, practical supply needs (S), and demonstrates some adaptability and openness to emerging information (P). The enthusiastic, collaborative engagement suggests Extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 10,
+            "codings": [
+                {
+                    "text_segment": "We have a significant amount of bandages, antibiotics, and basic first-aid kits. But we're running low on IV fluids and pain medication. How do you think we should prioritize this? I suggest we focus on immediate needs first.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, present inventory details and immediate practical needs, matching 'concrete' and 'present' keywords."
+                },
+                {
+                    "text_segment": "we should definitely target shelters where there are reports of severe injuries and dehydration. For those places, we'll prioritize bandages, IV fluids, and pain medication.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, present-tense medical needs and practical supply allocation, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "I also think we shouldn't overlook the mental health aspect. After such an event, folks might be dealing with trauma",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows empathetic concern for the psychological wellbeing of survivors, matching 'empathetic' and 'compassionate' keywords."
+                },
+                {
+                    "text_segment": "given our limited resources, we might need to triage mentally. We could allocate some time slots for counseling services once we've stabilized physical conditions.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies logical, objective triage reasoning to prioritize resources, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "Let's break down the process into actionable steps",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a systematic, step-by-step approach to problem-solving, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "step one would indeed send out teams to the hardest-hit shelters with priority items: bandages, IV fluids, and initial doses of pain medication. Once those critical needs are addressed, then we can move onto distributing the remaining supplies more broadly.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Follows a sequential, methodical plan with clear prioritization, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Step two involves setting up temporary aid stations at strategic locations to manage larger crowds efficiently.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Continues the systematic, planful step-by-step approach, matching 'systematic' and 'planful' keywords."
+                },
+                {
+                    "text_segment": "we'll establish a system for tracking and reporting back on supply usage and patient care. This ensures we don't miss anyone who needs attention",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Establishes a systematic tracking and reporting system, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Maybe we can use digital forms or even simple checklists to document who receives which supplies and their condition post-treatment.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes structured documentation tools for organized record-keeping, matching 'methodical' and 'systematic' keywords."
+                },
+                {
+                    "text_segment": "we should plan regular updates every few hours. Quick meetings to review progress, reallocate resources if necessary",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Schedules regular, structured review meetings, matching 'scheduled' and 'systematic' keywords."
+                },
+                {
+                    "text_segment": "let's assign specific roles for different tasks. One person can handle logistics, another can coordinate field operations, and someone else can oversee data",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Assigns clear, defined roles in a methodical, organized manner, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "We should also consider having backup plans for when key team members get overwhelmed or need rest. Rotating responsibilities and ensuring everyone knows their secondary duties",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proactively plans for contingencies with structured role rotation, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "We should prepare a contingency plan that includes provisions for additional supplies, such as pre-ordering more common necessities and identifying local sources for rapid delivery.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Develops a systematic contingency plan with proactive resource management, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "For sudden spikes in casualties, we can implement a tiered response system.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured, tiered system for managing emergent situations, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "We should also keep a list of nearby hospitals and clinics that can take in overflow patients if necessary.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical, present-oriented resource identification, matching 'practical' and 'concrete' keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A demonstrates logical, objective triage reasoning (T), focuses on concrete, specific supply details (S), and consistently proposes systematic, methodical plans with clear role assignments and contingency planning (J). The directive, action-oriented style suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xSFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Person B shows empathetic concern for mental health and team wellbeing (F), focuses on concrete, practical logistics (S), and maintains a planful, structured approach with scheduled reviews and backup plans (J). The collaborative, outwardly-engaged communication style suggests Extraversion."
+                }
+            }
+        },
+        {
+            "global_id": 11,
+            "codings": [
+                {
+                    "text_segment": "we need to prioritize areas where there's been significant damage and higher casualty reports.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses objective, logical criteria (damage severity, casualty reports) for prioritization, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "I believe we also need to consider the mental health needs of survivors, especially those who have lost their homes and loved ones.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows empathetic, compassionate concern for the psychological wellbeing of survivors, matching 'empathetic' and 'compassionate' keywords."
+                },
+                {
+                    "text_segment": "providing counseling services could be crucial in the long run",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Considers future-oriented, long-term implications beyond immediate physical needs, matching 'future' and 'conceptual' keywords."
+                },
+                {
+                    "text_segment": "I suggest setting up mobile clinics in key locations\u2014near major disaster sites",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Proposes concrete, practical, location-specific infrastructure, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "Let's allocate some space within each mobile clinic for counselors. As for the setup, we'll need to coordinate with local NGOs and mental health professionals",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured, organized plan for integrating services, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "how many mobile clinics are we looking at deploying initially? And which areas do you recommend targeting first?",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, practical operational details, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "I'd estimate starting with three mobile clinics. Targeting areas like the central business district and residential zones seem most urgent based on initial reports.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Provides concrete, specific, data-driven recommendations based on present reports, matching 'concrete' and 'present' keywords."
+                },
+                {
+                    "text_segment": "Could you check if the supply list includes basic medical kits, bandages, pain relievers, and antiseptics?",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, practical supply items, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "ensuring we have adequate water purification tablets and hygiene kits would be wise.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical, present-oriented supply needs, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "I'll start drafting a preliminary plan detailing the routes and times for deploying the mobile clinics.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proactively drafts a structured, detailed plan with routes and times, matching 'planful' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "we should establish a system for real-time updates from field teams reporting back on conditions and resource needs. This way, we can adjust our strategies as needed without delay.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a systematic information management system for organized operations, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "coordinating with local authorities and community leaders will help us identify hotspots and potential challenges faster. Can you reach out to them and set up brief meetings today?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Schedules immediate, structured meetings for early coordination, matching 'early starting' and 'scheduled' keywords."
+                },
+                {
+                    "text_segment": "Maybe we can organize a quick conference call later today to go over our findings and align everyone on the strategy.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Schedules a structured conference call for alignment and closure, matching 'scheduled' and 'closure' keywords."
+                },
+                {
+                    "text_segment": "Let's aim to have it in the afternoon when everyone is available.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Sets a specific, scheduled time for the meeting, matching 'scheduled' and 'planful' keywords."
+                },
+                {
+                    "text_segment": "Ensuring we have the basics covered is indeed crucial. While you handle the supply list and procurement, I'll focus on outlining the detailed deployment schedule and coordination points.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a detailed, structured deployment schedule with clear coordination points, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "1. Logistics: Routes and timing for mobile clinics. 2. Medical Supplies: Current inventory and pending orders. 3. Mental Health Services: Coordination with counselors and NGOs.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a numbered, structured agenda for the meeting, matching 'systematic' and 'methodical' keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A demonstrates logical, objective decision-making (T), focuses on concrete, practical supply and operational details (S), and consistently proposes structured, scheduled plans and meetings (J). The directive, action-oriented leadership style suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xSFJ",
+                    "type (best guess)": "ISFJ",
+                    "summary": "Person B shows empathetic concern for mental health and survivor wellbeing (F), focuses on concrete, practical logistics and supply needs (S), and maintains a planful, methodical approach with detailed deployment schedules (J). The thoughtful, detail-oriented, and supportive communication style suggests Introversion."
+                }
+            }
+        },
+        {
+            "global_id": 12,
+            "codings": [
+                {
+                    "text_segment": "I think we need a clear plan for distributing these supplies efficiently. We have limited resources and time is of the essence.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Focuses on logical, objective efficiency and resource management, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "My idea is to prioritize areas based on the severity of damage reported. We start with the hardest-hit zones where immediate needs like bandages and pain relievers are most urgent.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, specific, present-tense needs and practical supply items, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "we could factor in population density too\u2014more",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Adds an objective, logical variable (population density) to the decision-making framework, matching 'logical' and 'objective' keywords."
+                },
+                {
+                    "text_segment": "Let's also take into account potential transportation routes and accessibility issues. If roads are blocked or damaged, those areas might require special attention and alternative delivery methods.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical, present-tense logistical realities, matching 'concrete' and 'practical' keywords."
+                },
+                {
+                    "text_segment": "we can draft a quick assessment list focusing on these factors.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a structured, methodical assessment tool, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "For each zone, we'll note down the severity of the damage, population density, and current road conditions. This will give us a clearer picture of where to allocate our limited supplies first.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a systematic, structured data collection framework for organized decision-making, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Can you handle drafting the initial section on damage severity while I work on listing population densities and accessible routes? We can merge them later.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Divides work systematically with a plan to merge results, matching 'systematic' and 'planful' keywords."
+                },
+                {
+                    "text_segment": "Zone 1: Severe structural damage, multiple buildings collapsed. Zone 2: Moderate damage, some infrastructure compromised. Zones 3-5: Minor cracks and superficial damage",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Provides concrete, specific, detailed damage assessments based on observable facts, matching 'concrete' and 'experiential' keywords."
+                },
+                {
+                    "text_segment": "Zone 1: Complete blockage due to fallen debris; only aerial drop possible at certain points. Zone 2: Partially obstructed roads; some sections are passable during daylight hours.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Provides concrete, specific, present-tense accessibility details, matching 'concrete' and 'present' keywords."
+                },
+                {
+                    "text_segment": "we can start mapping out our supply drops and movements.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Moves toward structured, planful action based on gathered data, matching 'planful' and 'systematic' keywords."
+                },
+                {
+                    "text_segment": "Distribute First Aid Kits and Pain Relievers to Zones 3 & 4 immediately via ground vehicles since they are generally safe and clear.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Implements a systematic, scheduled distribution plan with specific assignments, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "we will coordinate with local air traffic control to perform aerial drops at designated safe points within the zone. Ensure the packages contain essential items like water purification tablets and non-perishable food.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Plans a structured, coordinated aerial operation with specific content requirements, matching 'systematic' and 'planful' keywords."
+                },
+                {
+                    "text_segment": "Coordinate with local authorities to secure safe landing zones and use drones or helicopters for precision drops. Ensure all teams involved are briefed on the exact timing and locations to avoid collisions.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Establishes a detailed, methodical coordination protocol with specific timing and location requirements, matching 'methodical' and 'scheduled' keywords."
+                },
+                {
+                    "text_segment": "Establish a base camp close to Zone 2 with sufficient space for sorting and restocking supplies. Assign team members to manage inventory and distribute supplies from the hub.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a structured, organized logistics hub with clear role assignments, matching 'systematic' and 'methodical' keywords."
+                },
+                {
+                    "text_segment": "Use walkie-talkies for real-time updates between teams. Set up a dedicated frequency for emergency calls. Utilize mobile apps or SMS groups for quick notifications and updates.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Establishes a systematic, multi-channel communication protocol, matching 'systematic' and 'methodical' keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A demonstrates logical, objective decision-making (T), a strong focus on concrete, specific, present-tense operational details (S), and a highly systematic, methodical approach to planning and role assignment (J). The directive, action-oriented communication style suggests Extraversion."
+                },
+                "person_B": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person B shows logical, objective analysis (T), focuses on concrete, practical supply and logistics details (S), and maintains a highly systematic, methodical approach with structured frameworks and detailed protocols (J). The careful, detail-oriented, and thorough communication style suggests Introversion."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,519 @@
+{
+    "dialogues": [
+        {
+            "global_id": 1,
+            "codings": [
+                {
+                    "text_segment": "we need to make sure there's time for us both to talk afterwards.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows planful structuring of time and desire to schedule follow-up discussion."
+                },
+                {
+                    "text_segment": "We can take turns leading meetings after this one, maybe even every week. That way everyone gets a chance to speak up!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Focuses on frequent group interaction and giving everyone a chance to speak, indicating social, outward orientation."
+                },
+                {
+                    "text_segment": "Then no matter which of us ends up doing the presentation nobody has an excuse for forgetting anything important!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to prevent forgetting by putting structure in place ahead of time, aiming for closure and preparedness."
+                },
+                {
+                    "text_segment": "wouldn't it be easier to get back together later today? There's still lots left to cover.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers an additional scheduled meeting to systematically cover remaining material."
+                },
+                {
+                    "text_segment": "I promise I'll write down all the details and include links to websites where needed,",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes documenting details and providing organized reference material."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSxJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Shows a structured, planful approach to meetings and follow-ups, with a social, cooperative tone; limited evidence on S/N and T/F but language leans practical and people-focused."
+                },
+                "person_B": {
+                    "type": "ExxJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Appears socially oriented and group-focused, wanting everyone to speak and be heard, while also emphasizing advance organization and written details."
+                }
+            }
+        },
+        {
+            "global_id": 2,
+            "codings": [
+                {
+                    "text_segment": "Maybe we need to find some way out of our rut.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Talks about a metaphorical 'rut' and finding a new way, indicating focus on patterns and change rather than concrete details."
+                },
+                {
+                    "text_segment": "let's face facts.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Appeals to objective facts and realism, characteristic of a logical stance."
+                },
+                {
+                    "text_segment": "I feel like my ideas aren't being taken seriously. That's why I'm asking everyone to vote. I think it would help us move forward if we decided today.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants a decision today via a structured process (voting) to move forward and reach closure."
+                },
+                {
+                    "text_segment": "we ARE friends! And we can sort this thing out. We can make a decision together.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes friendship, harmony, and collaborative decision-making based on relationships."
+                },
+                {
+                    "text_segment": "If things continue like they were before... well, let's face facts. This could turn into something really ugly.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Projects into possible negative future outcomes, focusing on implications rather than present specifics."
+                },
+                {
+                    "text_segment": "I also believe that you might be tired from having done most of the work yourself.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows concern for the other\u2019s emotional and physical state, an empathetic focus."
+                },
+                {
+                    "text_segment": "In order to maintain balance, sometimes we need to change things up a little bit.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Talks about abstract 'balance' and changing patterns rather than concrete tasks."
+                },
+                {
+                    "text_segment": "I wish you weren't so quick to pass the buck whenever problems arise.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Critically evaluates behavior in a direct, problem-focused way."
+                },
+                {
+                    "text_segment": "You\u2019ve seen firsthand how things run smoothly under my leadership.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values smooth running and leadership structure, implying preference for order and control."
+                },
+                {
+                    "text_segment": "I trust your judgement. I\u2019m confident that you\u2019re capable of handling the situation.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses interpersonal trust and confidence in the person rather than focusing on impersonal logic."
+                },
+                {
+                    "text_segment": "I\u2019ll write down important dates in red ink and hang them above my bed. Every night when I go to sleep, I\u2019ll read them aloud.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Creates a systematic routine and visual schedule to avoid forgetting, showing structured planning."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xNFJ",
+                    "type (best guess)": "INFJ",
+                    "summary": "Combines future-oriented, pattern-focused language with a desire for decisive closure and mixes critical 'face facts' logic with relational trust, suggesting introverted, intuitive, judging with some F/T blend."
+                },
+                "person_B": {
+                    "type": "ENFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Highly relational and expressive, focused on harmony and shared decisions, while also valuing structure and routines, fitting an extraverted, intuitive, feeling, judging profile."
+                }
+            }
+        },
+        {
+            "global_id": 3,
+            "codings": [
+                {
+                    "text_segment": "I think we'll get more done if I'm leading.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Associates leadership with getting more done, reflecting a task- and structure-oriented mindset."
+                },
+                {
+                    "text_segment": "maybe I can let someone else do it for once? It wouldn't hurt me too much. And besides, I might learn something from them...",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Shows openness to changing roles and learning from others, flexible about structure."
+                },
+                {
+                    "text_segment": "Let's make an agreement right here right now!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to formalize a decision immediately, indicating preference for closure."
+                },
+                {
+                    "text_segment": "I need to pack for our trip tonight.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Refers to preparing ahead for a trip, a planful behavior."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ExxJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Appears socially engaged and appreciative, with a tendency toward planning and leadership but some flexibility about roles, overall leaning extraverted and judging."
+                },
+                "person_B": {
+                    "type": "ExxJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Enthusiastic, relational, and eager to make explicit agreements, suggesting an extraverted, people-focused judging style."
+                }
+            }
+        },
+        {
+            "global_id": 4,
+            "codings": [
+                {
+                    "text_segment": "I think we need to take care of some more important things first. We can't just let our team get all confused now because one guy didn't show up for his shift.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prioritizes tasks and preventing confusion, indicating structured, planful thinking."
+                },
+                {
+                    "text_segment": "Let's move forward as planned today! I'll call him later tonight when everyone else gets home",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Insists on sticking to the plan and scheduling a follow-up call."
+                },
+                {
+                    "text_segment": "If he doesn't come then no one will know where the meeting room is. It would cause problems down the line if anyone needs to find anything.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete logistical consequences (finding the room, causing problems)."
+                },
+                {
+                    "text_segment": "What if someone asks me where everything went wrong tomorrow morning? I'd look like an idiot!",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Concerned about personal embarrassment and others\u2019 perceptions, a relational/emotional focus."
+                },
+                {
+                    "text_segment": "First thing, we need to make sure everybody has their own copy of my presentation slides, which includes all necessary data sets and charts, ready beforehand.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Emphasizes advance preparation and distribution of materials."
+                },
+                {
+                    "text_segment": "Well, maybe there were reasons beyond their control. Maybe they had an unexpected crisis going on behind closed doors.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows empathy and gives the client the benefit of the doubt about their situation."
+                },
+                {
+                    "text_segment": "Anyway, back to reality\u2014let\u2019s stick to our original plan.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Reaffirms commitment to the original plan and structure."
+                },
+                {
+                    "text_segment": "sometimes, you gotta roll with whatever comes along with the job.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Advocates flexibility and adapting to changing circumstances."
+                },
+                {
+                    "text_segment": "sometimes it pays off handsomely when you actually manage to catch people unawares.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Talks about strategic, less concrete benefits and possibilities."
+                },
+                {
+                    "text_segment": "having clear goals set forth helps streamline discussions amongst teams members",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values clear goals and streamlined, structured discussion."
+                },
+                {
+                    "text_segment": "sometimes I like talking with colleagues outside office premises simply because fresh air tends promote clearer thinking patterns overall compared to stale indoor conditions.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "References concrete sensory environment (fresh air vs. indoor) affecting thinking."
+                },
+                {
+                    "text_segment": "As long as we continue moving forward step-by-step, there shouldn't be many surprises lurking anywhere near.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Prefers step-by-step progress to avoid surprises, a structured approach."
+                },
+                {
+                    "text_segment": "Just remember to keep checking in regularly via email updates whenever possible, okay?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants regular, scheduled updates to maintain control over information flow."
+                },
+                {
+                    "text_segment": "it takes time to gather resources needed to produce high-quality content. Plus, if we wait too late, chances increase that someone might forget critical details",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Focuses on early starting and avoiding last-minute issues, emphasizing planning."
+                },
+                {
+                    "text_segment": "double-checking facts beforehand ensures accuracy throughout entire process",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates systematic verification to ensure accuracy."
+                },
+                {
+                    "text_segment": "those ones related mostly towards future directions moving forward. We owe ourselves a solid conclusion before adjourning officially.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Focuses on future directions and conceptual closure."
+                },
+                {
+                    "text_segment": "I\u2019m afraid I have to cut this meeting short. See, I received word that a co-worker called in sick earlier today, so she won\u2019t be able to join us anymore unfortunately. Without her present, our meeting agenda becomes incomplete",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Responds to a concrete, present circumstance (co-worker sick) affecting the agenda."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Highly structured and plan-focused, attentive to team logistics and materials, while also showing interpersonal consideration, suggesting an extraverted, sensing, feeling, judging style."
+                },
+                "person_B": {
+                    "type": "xSNJ",
+                    "type (best guess)": "ISFJ",
+                    "summary": "Balances concrete concerns and sensory details with some future-oriented thinking, values flexibility but ultimately emphasizes preparation and accuracy, leaning introverted, sensing, feeling, judging."
+                }
+            }
+        },
+        {
+            "global_id": 5,
+            "codings": [
+                {
+                    "text_segment": "I've been working hard for weeks now and deserve some recognition.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Focuses on personal appreciation and recognition, an affective concern."
+                },
+                {
+                    "text_segment": "Plus, I'm more familiar with our clients' needs than anyone else here.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Refers to concrete knowledge of clients\u2019 needs, grounded in experience."
+                },
+                {
+                    "text_segment": "If we're going out, let me pick where we'll meet up first.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to decide and set the meeting place in advance."
+                },
+                {
+                    "text_segment": "Just don't start talking about the project until after we eat, okay?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Imposes a sequence and boundary on when work topics are discussed."
+                },
+                {
+                    "text_segment": "I love watching sports games live, especially basketball! I really enjoy the atmosphere when people watch them together.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Enjoys live events and shared group atmosphere, indicating outward, social energy."
+                },
+                {
+                    "text_segment": "Not too late. About 10 o'clock tops. I need my beauty sleep.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Sets a clear time limit for the evening, showing preference for scheduling."
+                },
+                {
+                    "text_segment": "Let's order some pizza from the delivery guy. I feel like eating something greasy right now.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Bases decision on immediate physical craving and concrete food choice."
+                },
+                {
+                    "text_segment": "Maybe afterwards, we could swing by the liquor store real quick and stock up on snacks for the evening.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Suggests additional spontaneous stop and options for later, flexible planning."
+                },
+                {
+                    "text_segment": "I got an invitation from a friend of mine for her birthday party tomorrow night. Would you care to join us?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Invites to a social gathering and seems eager to attend with coworkers."
+                },
+                {
+                    "text_segment": "I never go anywhere without plenty of money. I've got several different wallets stuffed full of cash right now, which makes me feel safe. I hate having no backup plans whatsoever. That's why I carry three cell phones everywhere these days.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows strong preference for preparedness, redundancy, and multiple backup plans."
+                },
+                {
+                    "text_segment": "They tend to take things too lightly, which leads to careless mistakes down the line.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Criticizes others for lack of seriousness and foresight, valuing carefulness."
+                },
+                {
+                    "text_segment": "Didn't you lose thousands of dollars last year due to some bad investment advice? Did you learn nothing from that experience?",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses a critical, consequence-focused argument referencing past facts."
+                },
+                {
+                    "text_segment": "I've done research into financial management strategies recently. I'm going to set aside half of my paycheck each week and put it away safely somewhere.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Describes a systematic, scheduled savings plan based on prior research."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Social and client-focused, wanting recognition and planning evenings with some structure yet openness, suggesting extraverted, sensing, feeling, judging."
+                },
+                "person_B": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Enjoys group activities, is highly prepared and structured with money and devices, and uses direct, critical reasoning, fitting an extraverted, sensing, thinking, judging profile."
+                }
+            }
+        },
+        {
+            "global_id": 6,
+            "codings": [
+                {
+                    "text_segment": "I'm really busy right now, I don't know if I can make time for another meeting today. How's tomorrow?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Manages time and proposes a specific alternative day, indicating scheduling preference."
+                },
+                {
+                    "text_segment": "Let me just double check my schedule and get back to you.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Refers to checking a schedule before committing, a structured approach."
+                },
+                {
+                    "text_segment": "Would you like to help run things around here while I'm away? It'd probably give us both an opportunity to learn some valuable skills.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Frames the situation in terms of learning opportunities and skill development, an abstract future benefit."
+                },
+                {
+                    "text_segment": "Maybe we should put everything into our calendars. That way nobody has excuses if they forget about it.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Wants to formalize plans in calendars to avoid forgetting, emphasizing organization."
+                },
+                {
+                    "text_segment": "I suggest we all coordinate using google calendar so nothing gets lost. I'll send everyone links to join later tonight.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a specific system and follow-up action to coordinate schedules."
+                },
+                {
+                    "text_segment": "We\u2019re getting closer to finding solutions!",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Talks about abstract 'solutions' and progress rather than concrete tasks."
+                },
+                {
+                    "text_segment": "I hope we continue moving forward quickly since everyone seems willing to cooperate and compromise.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Values cooperation and compromise, focusing on interpersonal harmony."
+                },
+                {
+                    "text_segment": "I feel confident we\u2019ll finish off whatever\u2019s left behind once we reconvene tomorrow morning.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Expresses confidence in completing remaining tasks after a scheduled reconvening."
+                },
+                {
+                    "text_segment": "I believe we\u2019ll find agreement pretty easily because no one disagrees with anything being proposed thus far.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Focuses on consensus and lack of disagreement, indicating concern for group harmony."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Coordinates schedules and systems in a structured way while emphasizing learning opportunities, solutions, and group agreement, suggesting extraverted, intuitive, feeling, judging."
+                },
+                "person_B": {
+                    "type": "ESFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Checks schedules, wants calendars, and values cooperation and compromise, indicating a socially oriented, sensing-leaning judging type with strong interpersonal focus."
+                }
+            }
+        }
+    ]
+}

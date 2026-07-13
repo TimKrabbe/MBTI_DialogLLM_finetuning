@@ -1,0 +1,456 @@
+{
+    "dialogues": [
+        {
+            "global_id": 1,
+            "codings": [
+                {
+                    "text_segment": "we need to make sure there's time for us both to talk afterwards",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A is planful and wants to schedule time for discussion, indicating a preference for structure and closure."
+                },
+                {
+                    "text_segment": "We can take turns leading meetings after this one, maybe even every week. That way everyone gets a chance to speak up!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person B is enthusiastic and action-oriented, proposing a structured social activity that involves everyone speaking up."
+                },
+                {
+                    "text_segment": "Just please come over here tomorrow morning before lunch so we can go over all the details again.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A is scheduling a specific time and wants to go over details, showing a methodical and planful approach."
+                },
+                {
+                    "text_segment": "why don't you just send an email now asking me those things? Then no matter which of us ends up doing the presentation nobody has an excuse for forgetting anything important!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B proposes a systematic method (email) to ensure nothing is forgotten, reflecting a preference for closure and organization."
+                },
+                {
+                    "text_segment": "wouldn't it be easier to get back together later today? There's still lots left to cover.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A wants to continue covering material and prefers not to leave things open-ended, showing a drive for closure."
+                },
+                {
+                    "text_segment": "I'm getting tired already and I only had coffee this morning. So if anyone wants their ideas heard clearly I suggest sending emails first thing tomorrow",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B references a concrete, present physical state (tiredness, coffee) and practical reasoning for deferring the meeting."
+                },
+                {
+                    "text_segment": "I promise I'll write down all the details and include links to websites where needed",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B commits to a methodical approach of writing down details, indicating a preference for systematic follow-through."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xxxJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A consistently pushes for scheduled meetings, covering all details, and structured follow-up, indicating strong Judging preference. The direct, action-oriented communication style suggests Extraversion and Thinking."
+                },
+                "person_B": {
+                    "type": "ExxJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Person B is enthusiastic and socially oriented (E), proposes systematic solutions like emails and written notes (J), and shows empathy and accommodation toward others' needs (F)."
+                }
+            }
+        },
+        {
+            "global_id": 2,
+            "codings": [
+                {
+                    "text_segment": "We've had these same discussions several times already. It's getting tiring. I just don't think this is working for me anymore.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A critically evaluates the situation and questions its effectiveness, showing a logical and critical stance."
+                },
+                {
+                    "text_segment": "Maybe we need to find some way out of our rut.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Person A thinks abstractly about future possibilities and conceptual change rather than focusing on concrete immediate steps."
+                },
+                {
+                    "text_segment": "don't worry, I'm sure we'll all get along eventually. I mean, after all, we ARE friends! And we can sort this thing out.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B appeals to friendship and social harmony, showing an empathetic and accommodating approach to conflict."
+                },
+                {
+                    "text_segment": "I think it would help us move forward if we decided today.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A wants to reach a decision promptly, showing a preference for closure and scheduled resolution."
+                },
+                {
+                    "text_segment": "maybe it wouldn't hurt if someone else took charge for once.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B is accommodating and accepting, suggesting flexibility in leadership to maintain group harmony."
+                },
+                {
+                    "text_segment": "I wish you weren't so quick to pass the buck whenever problems arise.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Person A is critically and objectively evaluating Person B's behavior, applying logical accountability."
+                },
+                {
+                    "text_segment": "I'll write down important dates in red ink and hang them above my bed. Every night when I go to sleep, I'll read them aloud.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B commits to a highly methodical and systematic routine to ensure remembering important dates."
+                },
+                {
+                    "text_segment": "I'm counting on you... If you're late, I won't forgive you easily.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A enforces strict expectations and deadlines, reflecting a preference for punctuality and scheduled commitments."
+                },
+                {
+                    "text_segment": "I love hearing those words. I'm glad you finally realized how much you mean to me.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B responds with emotional warmth and subjective appreciation, showing a tender-hearted and empathetic nature."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xTxJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Person A is critical, logical, and decisive, pushing for immediate decisions and holding others accountable, suggesting strong Thinking and Judging preferences with an outwardly assertive (Extraverted) style."
+                },
+                "person_B": {
+                    "type": "xFxJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Person B consistently appeals to friendship, harmony, and emotional connection (F), while also committing to systematic routines and schedules (J), with an expressive and socially engaged communication style (E)."
+                }
+            }
+        },
+        {
+            "global_id": 3,
+            "codings": [
+                {
+                    "text_segment": "maybe I can let someone else do it for once? It wouldn't hurt me too much. And besides, I might learn something from them...",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A is accommodating and open to others taking the lead, showing a tender-hearted and accepting disposition."
+                },
+                {
+                    "text_segment": "I bet you could get some real stuff done! Let's make an agreement right here right now!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person B is enthusiastic and action-oriented, immediately proposing a concrete agreement with energy."
+                },
+                {
+                    "text_segment": "I'll do my best to keep things under control. I promise you I won't go crazy! We're both very capable people, so we shouldn't have problems working together.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A emphasizes mutual capability and cooperative harmony, showing an empathetic and accepting stance."
+                },
+                {
+                    "text_segment": "I need to pack for our trip tonight.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A references a concrete, present-tense practical task (packing for a trip), grounding the conversation in immediate reality."
+                },
+                {
+                    "text_segment": "I'll call you when we arrive back home.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B makes a specific, planful commitment about future contact, indicating a preference for scheduled follow-through."
+                },
+                {
+                    "text_segment": "Bye! I'm gonna miss you! Call me whenever you wanna!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person B is expressive and gregarious in the farewell, openly sharing emotions and encouraging continued contact."
+                },
+                {
+                    "text_segment": "Goodbye! Bye! Good night! Bye! Cya! Bye! Love you! Bye! Kisses! Bye! Hugs! Bye! Thank you!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person A is highly expressive and enthusiastic in the farewell, demonstrating an open and gregarious communication style."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ExFx",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Person A shows accommodating and harmony-seeking behavior (F), references concrete practical tasks (S), and is highly expressive and enthusiastic in social interactions (E)."
+                },
+                "person_B": {
+                    "type": "ExFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Person B is enthusiastic, action-oriented, and expressive (E), makes planful commitments (J), and shows warmth and emotional expressiveness in farewells (F)."
+                }
+            }
+        },
+        {
+            "global_id": 4,
+            "codings": [
+                {
+                    "text_segment": "We can't just let our team get all confused now because one guy didn't show up for his shift... Let's move forward as planned today!",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A insists on sticking to the plan and moving forward as scheduled, showing a strong preference for structure and closure."
+                },
+                {
+                    "text_segment": "he was scheduled to do something really important today... isn't he usually here already? Isn't that part of being punctual?",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B emphasizes punctuality and scheduled responsibilities, reflecting a methodical and planful orientation."
+                },
+                {
+                    "text_segment": "we need to make sure everybody has their own copy of my presentation slides, which includes all necessary data sets and charts, ready beforehand.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A is systematic and methodical, ensuring all materials are prepared in advance."
+                },
+                {
+                    "text_segment": "Our client just canceled last minute due to some kind of emergency involving their CEO leaving town unexpectedly",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person B reports a concrete, factual, present-tense event with specific details, grounding the conversation in immediate reality."
+                },
+                {
+                    "text_segment": "let's stick to our original plan. No matter what happens, we're still gonna give those guys a piece of our minds!",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A insists on adhering to the original plan regardless of changes, showing a strong preference for scheduled and methodical execution."
+                },
+                {
+                    "text_segment": "sometimes it pays off handsomely when you actually manage to catch people unawares... you never truly know unless you ask nicely",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Person B embraces spontaneity and open-ended outcomes, suggesting a casual and emergent approach to situations."
+                },
+                {
+                    "text_segment": "having clear goals set forth helps streamline discussions amongst team members",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A values clear, pre-set goals and structured discussion, reflecting a Judging preference."
+                },
+                {
+                    "text_segment": "double-checking facts beforehand ensures accuracy throughout entire process",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B advocates for methodical verification before proceeding, showing a systematic and careful approach."
+                },
+                {
+                    "text_segment": "keep checking in regularly via email updates whenever possible",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A proposes a scheduled, systematic communication routine to maintain oversight."
+                },
+                {
+                    "text_segment": "you can't leave yet. Not until we finish discussing the last few topics remaining open-ended.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B insists on reaching closure before ending the meeting, showing a strong preference for completeness and resolution."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xxxJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A is consistently planful, insists on sticking to schedules, and pushes for structured, goal-oriented action, strongly indicating a Judging preference with a direct, assertive (Extraverted, Thinking) style."
+                },
+                "person_B": {
+                    "type": "xxxJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person B emphasizes punctuality, systematic preparation, and closure (J), while also showing occasional openness to emergent situations (P). The overall pattern leans toward Judging, with a detail-oriented and practical (Sensing) style."
+                }
+            }
+        },
+        {
+            "global_id": 5,
+            "codings": [
+                {
+                    "text_segment": "I've been working hard for weeks now and deserve some recognition. Plus, I'm more familiar with our clients' needs than anyone else here. Let's go get something to eat instead.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person A is assertive and action-oriented, immediately proposing a social outing and expressing views openly."
+                },
+                {
+                    "text_segment": "let me pick where we'll meet up first",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B wants to establish a plan and take control of the decision-making process, showing a preference for structure."
+                },
+                {
+                    "text_segment": "maybe we could hit a bar tonight and catch a game later? It would probably be cheaper, plus there'd be free food.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Person A focuses on concrete, practical considerations (cost, food availability) when making plans."
+                },
+                {
+                    "text_segment": "I love watching sports games live, especially basketball! I really enjoy the atmosphere when people watch them together.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person B is enthusiastic and gregarious, expressing enjoyment of shared social experiences and lively atmospheres."
+                },
+                {
+                    "text_segment": "I got an invitation from a friend of mine for her birthday party tomorrow night. Would you care to join us?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Person B actively extends social invitations and seeks to include others, showing gregarious and open behavior."
+                },
+                {
+                    "text_segment": "I hate having no backup plans whatsoever. That's why I carry three cell phones everywhere these days.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B is highly planful and systematic, preparing for multiple contingencies to ensure nothing goes wrong."
+                },
+                {
+                    "text_segment": "You're very cautious around strangers. It's kind of annoying sometimes, but I suppose it comes across as being polite and considerate toward others.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A acknowledges and values considerate behavior toward others, showing an empathetic and accepting perspective."
+                },
+                {
+                    "text_segment": "I've done research into financial management strategies recently. I'm going to set aside half of my paycheck each week and put it away safely somewhere.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B has a systematic, planful approach to finances, researching strategies and committing to a scheduled savings plan."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESxJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A is assertive and action-oriented (E), focuses on concrete practical details like cost and food (S), and shows a direct, critical communication style (T) with a preference for moving forward decisively (J)."
+                },
+                "person_B": {
+                    "type": "ESxJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Person B is enthusiastic and socially engaged (E), highly planful and systematic with backup plans and financial strategies (J), and shows warmth and consideration for others (F)."
+                }
+            }
+        },
+        {
+            "global_id": 6,
+            "codings": [
+                {
+                    "text_segment": "I'm really busy right now, I don't know if I can make time for another meeting today. How's tomorrow?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A is managing their schedule carefully and proposing a specific alternative time, showing a planful and scheduled orientation."
+                },
+                {
+                    "text_segment": "Let me just double check my schedule and get back to you.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B consults their schedule before committing, showing a methodical and organized approach to time management."
+                },
+                {
+                    "text_segment": "I think I'll need someone else to take over leading meetings until after Christmas when everyone comes back from their vacation.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A plans ahead for an extended period, arranging coverage in advance, reflecting a systematic and planful preference."
+                },
+                {
+                    "text_segment": "Maybe we should put everything into our calendars. That way nobody has excuses if they forget about it.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person B proposes a systematic scheduling tool (calendars) to ensure accountability and prevent oversight."
+                },
+                {
+                    "text_segment": "I suggest we all coordinate using google calendar so nothing gets lost. I'll send everyone links to join later tonight.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A proposes a specific, systematic coordination method and commits to a concrete follow-up action."
+                },
+                {
+                    "text_segment": "I hope we continue moving forward quickly since everyone seems willing to cooperate and compromise.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B emphasizes cooperation and compromise, showing an empathetic and accommodating orientation toward group harmony."
+                },
+                {
+                    "text_segment": "I feel confident we'll finish off whatever's left behind once we reconvene tomorrow morning.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Person A is focused on completing remaining tasks at a scheduled future time, showing a drive for closure."
+                },
+                {
+                    "text_segment": "I appreciate having such a collaborative partner. I look forward to continuing to work with you.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person B expresses warm appreciation and values the collaborative relationship, showing an empathetic and tender-hearted disposition."
+                },
+                {
+                    "text_segment": "I couldn't have gotten anywhere without you guys' support. It means a lot to me.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Person A expresses genuine gratitude and emotional appreciation for others' support, showing a feeling-oriented value system."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xFxJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Person A is highly planful and systematic (J), expresses genuine emotional appreciation for team support (F), and communicates in an open, action-oriented manner suggesting Extraversion."
+                },
+                "person_B": {
+                    "type": "xFxJ",
+                    "type (best guess)": "ISFJ",
+                    "summary": "Person B is methodical and schedule-conscious (J), consistently emphasizes cooperation, harmony, and appreciation (F), with a somewhat more reserved and supportive communication style suggesting Introversion."
+                }
+            }
+        }
+    ]
+}

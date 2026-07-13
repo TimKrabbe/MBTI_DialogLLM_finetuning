@@ -1,0 +1,1226 @@
+{
+    "dialogues": [
+        {
+            "global_id": 7,
+            "codings": [
+                {
+                    "text_segment": "I don't see why we have to wait until everyone else arrives before we start distributing these things. We know who needs them most right now. I think we're doing more harm than good if we sit around waiting here. If they were going to give us some sort of instructions as to how to do this properly then fine, but at least let's get started already!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being pressure-prompted and wanting to act spontaneously rather than waiting for a full plan or instructions."
+                },
+                {
+                    "text_segment": "We know who needs them most right now.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on the present and concrete needs."
+                },
+                {
+                    "text_segment": "I'm still gonna take charge over here",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic and taking control."
+                },
+                {
+                    "text_segment": "I'll probably get there faster alone anyways.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of making an objective assessment of efficiency."
+                },
+                {
+                    "text_segment": "He did go to med school afterall.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of relying on concrete facts and credentials."
+                },
+                {
+                    "text_segment": "I hate having to rely on strangers for help when I've got this many people needing attention.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing concern for people needing attention and a sense of personal responsibility."
+                },
+                {
+                    "text_segment": "About 30 minutes ago according to my watch.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete, factual, and present-oriented details."
+                },
+                {
+                    "text_segment": "I wonder how many people have died during that period of time? Or perhaps how many more will die today? This whole thing is such a mess. I wish I knew more about medicine. Then I'd be able to fix these people myself.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing empathetic concern for human impact and a desire to personally help others."
+                },
+                {
+                    "text_segment": "You okay? Did you break anything? Is she dead?! No... oh thank God. She's only unconscious. She's breathing alright. But her pulse is very weak. I think she lost too much blood. We have to hurry. Can you carry her? I'll grab her backpack. There might be some bandages inside. We'll use those to patch her up.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete observations and immediate, practical actions."
+                },
+                {
+                    "text_segment": "We have to hurry.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of having a sense of urgency and a desire for quick closure."
+                },
+                {
+                    "text_segment": "She was very brave. I'm glad she survived.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing empathy and acknowledging bravery."
+                },
+                {
+                    "text_segment": "The rest of the patients seem stable enough. They aren't bleeding badly anywhere except for one person whose arm looks broken. I'll splint that leg and wrap the bandage tightly round her shoulder. It's the best treatment we can offer for now.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete observations and practical, immediate solutions."
+                },
+                {
+                    "text_segment": "I'll splint that leg and wrap the bandage tightly round her shoulder.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and taking charge of treatment."
+                },
+                {
+                    "text_segment": "I don\u2019t care what happened to the people who were killed. I\u2019m only interested in helping the living ones.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being objective and pragmatic, focusing on the logical goal rather than emotional response."
+                },
+                {
+                    "text_segment": "We\u2019ll never achieve that goal if we start mourning the dead.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of using logical reasoning and being tough-minded to achieve a goal."
+                },
+                {
+                    "text_segment": "Maybe no one sent out another search team yet? I mean... what would their point even be?",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative and questioning the underlying purpose or meaning."
+                },
+                {
+                    "text_segment": "Everyone will just die anyway because of lack of food and clean water eventually unless something happens soon.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of focusing on future possibilities and conceptualizing long-term outcomes."
+                },
+                {
+                    "text_segment": "So yeah, either way it doesn't matter much since nobody could possibly stop me from doing anything useful",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended, suggesting spontaneous action."
+                },
+                {
+                    "text_segment": "I'm sure we'll be able to save lots of lives together. That's what being part of a team does, after all.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of valuing harmony, teamwork, and an empathetic goal."
+                },
+                {
+                    "text_segment": "I trust our leader knows his stuff.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accepting and trusting."
+                },
+                {
+                    "text_segment": "That sounds really hard.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of an empathetic response."
+                },
+                {
+                    "text_segment": "It's kind of exciting actually. Like we finally feel productive doing something important instead of just sitting around worrying about others.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being enthusiastic and feeling productive through external action."
+                },
+                {
+                    "text_segment": "How long do you think we'Ve been working here without any backup coming along? An hour? Two hours? What time is it now anyway? It feels like forever!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended in questioning, less focused on precise time."
+                },
+                {
+                    "text_segment": "He's gotta be exhausted.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing empathetic concern."
+                },
+                {
+                    "text_segment": "Let's try to conserve energy. Take short breaks every half hour. Drink plenty of fluids. And stay calm. We shouldn't panic. We're making progress! Just hang in there! We're almost done! I swear! We made it! Wait! Whoa! Oh god... that wasn",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating, encouraging, and focusing on group morale."
+                },
+                {
+                    "text_segment": "No problem. Here you go. I'll put her down gently.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and tender-hearted."
+                },
+                {
+                    "text_segment": "We better check if she's got a concussion. If so, she may lose consciousness again. We should lay her flat on her back. Her head hurts. She won't move a muscle. I don't hear anything wrong with her lungs. Her heart beat is also regular. I guess she didn't suffer any internal injuries.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete observations and immediate practical medical checks."
+                },
+                {
+                    "text_segment": "Sorry, I couldn't resist saying that.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being spontaneous and casual."
+                },
+                {
+                    "text_segment": "Horrible, horrible things happening to innocent people.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing empathy and compassion, focusing on human tragedy."
+                },
+                {
+                    "text_segment": "I\u2019d rather not count on that. In fact, I\u2019m beginning to doubt whether we\u2019ll ever reach a decision here.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative and doubting future outcomes."
+                },
+                {
+                    "text_segment": "I feel we need to compromise somehow. Otherwise neither side\u2019s getting anything done.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of seeking harmony and compromise, based on subjective feeling."
+                },
+                {
+                    "text_segment": "And we definitely can\u2019t afford wasting precious time. We simply don\u2019t have time for arguments!",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and a methodical approach to time management."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Exhibits a practical, action-oriented approach, focusing on immediate, concrete solutions and objective decision-making, while taking charge and prioritizing efficiency."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Shows an empathetic and accommodating nature, often speculative about possibilities, and tends to be spontaneous and open-ended in their approach."
+                }
+            }
+        },
+        {
+            "global_id": 8,
+            "codings": [
+                {
+                    "text_segment": "I think we're gonna have to do some things differently.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open to new options and flexible."
+                },
+                {
+                    "text_segment": "We just gotta follow his lead. What does he suggest?",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of waiting for external input and being open-ended."
+                },
+                {
+                    "text_segment": "That doesn't seem very fair to me.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of making a subjective judgment based on personal values of fairness."
+                },
+                {
+                    "text_segment": "What happens when someone has gotten better since then? Or worse off? How will anyone know where to send all these supplies? It sounds like chaos!",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing future problems and abstract implications, foreseeing chaos."
+                },
+                {
+                    "text_segment": "I won't risk my life on some guy's hunches.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of preferring concrete evidence over abstract hunches."
+                },
+                {
+                    "text_segment": "There aren't nearly enough resources as-is without splitting up into teams to try and sort out each person individually.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of making a logical assessment of resources and efficiency."
+                },
+                {
+                    "text_segment": "what guarantee do we have that this guy isn't just pulling one over on us again?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being questioning and critical, seeking objective assessment of trustworthiness."
+                },
+                {
+                    "text_segment": "I prefer to stick together. I believe in teamwork.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of valuing harmony and cooperation, a subjective preference."
+                },
+                {
+                    "text_segment": "We've got much planning ahead of us.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful and systematic."
+                },
+                {
+                    "text_segment": "Just hurry up please.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and efficiency."
+                },
+                {
+                    "text_segment": "I don't feel well right now. I haven't eaten anything today and I'm starving. My stomach hurts badly. Can you get me some food later? Please?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of focusing on personal physical feelings and needs."
+                },
+                {
+                    "text_segment": "I hope you learned something valuable from this experience.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of desiring objective learning and improvement."
+                },
+                {
+                    "text_segment": "I enjoy talking to people.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious and open to social interaction."
+                },
+                {
+                    "text_segment": "Alright, let's finish up quickly and get home soon. I miss you guys.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and getting things done quickly."
+                },
+                {
+                    "text_segment": "I miss you guys.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being relational and expressing personal connection."
+                },
+                {
+                    "text_segment": "We've been trying to figure out how many medical supplies there actually are.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete facts and present reality."
+                },
+                {
+                    "text_segment": "People could die because they didn't get their medicine.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing concern for people and potential negative individual impact."
+                },
+                {
+                    "text_segment": "So this guy wants us to go around asking everyone what kind of medical problems they had before the earthquake happened.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete, past data."
+                },
+                {
+                    "text_segment": "Oh come on man, give him a chance.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting."
+                },
+                {
+                    "text_segment": "He knows way more about psychology than you do.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of referencing abstract knowledge and theory."
+                },
+                {
+                    "text_segment": "Maybe he'll even tell us something useful. If nothing else, at least we'd learn from our mistakes.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative about future possibilities and conceptual learning."
+                },
+                {
+                    "text_segment": "why not trust his judgment?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being trusting and accepting."
+                },
+                {
+                    "text_segment": "Well okay, whatever.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "But I swear I'm going to get my own team working independently from now on. Because obviously relying on your colleagues is never safe.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being critical and tough-minded in assessing reliability."
+                },
+                {
+                    "text_segment": "Hey, hey calm down. You're scaring me. I'm fine. Don't worry.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating, reassuring, and focusing on emotional states."
+                },
+                {
+                    "text_segment": "Let's take care of business real quick and then head back to base camp alright?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being pressure-prompted and wanting to get things done quickly, but also open to agreement."
+                },
+                {
+                    "text_segment": "Sure thing ma'am. I promise you. I am so sorry about that whole thing earlier though. It wasn't intentional. I thought we agreed to split up. Sorry about that.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating, apologetic, and tender-hearted."
+                },
+                {
+                    "text_segment": "I guess I owe you dinner tonight after this is done. Unless you change your mind?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended and offering options."
+                },
+                {
+                    "text_segment": "Well then let\u2019s go! Everyone grab a helmet and we\u2019ll leave as fast as possible.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being action-oriented and enthusiastic."
+                },
+                {
+                    "text_segment": "Remember to check every house for survivors. Some people may have escaped unnoticed during the chaos.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete actions and the present reality of survivors."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Exhibits a preference for external interaction, practical and logical decision-making, and a structured, planful approach, though open to new ideas initially."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Shows an enthusiastic and accommodating nature, often speculative and open to possibilities, and tends to be spontaneous and flexible."
+                }
+            }
+        },
+        {
+            "global_id": 9,
+            "codings": [
+                {
+                    "text_segment": "I just don't think this will work out well.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of foreseeing negative abstract outcomes."
+                },
+                {
+                    "text_segment": "We have to give everyone some of everything. If we leave anything out there's going to be chaos.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing concern for fairness and avoiding conflict, valuing harmony."
+                },
+                {
+                    "text_segment": "People aren't gonna like being left out. And besides, what kind of message does that send?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing concern for subjective feelings and social implications."
+                },
+                {
+                    "text_segment": "What if someone tries to steal food? That could turn violent pretty fast!",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative about future negative possibilities."
+                },
+                {
+                    "text_segment": "I'd rather stay here than run off somewhere with nothing.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of preferring a known, concrete situation over an unknown one."
+                },
+                {
+                    "text_segment": "Alright, alright, whatever. Let\u2019s try it.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being accommodating and flexible, open to trying new things."
+                },
+                {
+                    "text_segment": "But if anyone complains too much, you\u2019ll answer me. Got it?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of setting clear, objective boundaries and being critical."
+                },
+                {
+                    "text_segment": "Now hand me those pills and we\u2019ll move on.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and moving to the next task."
+                },
+                {
+                    "text_segment": "Here are the antibiotics and painkillers.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete items."
+                },
+                {
+                    "text_segment": "I hope this helps. Take care of yourself. Don\u2019t forget to drink plenty of water. You won\u2019t feel good until you replenish your fluids. Good luck!",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic, caring, and offering personal advice."
+                },
+                {
+                    "text_segment": "Have fun finding your family! I\u2019ll talk to you later.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being friendly and relational."
+                },
+                {
+                    "text_segment": "Bye! See ya! Take care!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and social."
+                },
+                {
+                    "text_segment": "See you next time! Bye! I miss yoouu! Bye! Gotta go now! Bye! Later! Bye! Love you! Bye byebye! Bye! Sad face! Bye! Yay! Bye! Ok! Bye! Kiss kiss! Bye!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being very expressive, gregarious, and openly emotional."
+                },
+                {
+                    "text_segment": "I don't see how we're supposed to figure out who gets what when we only know half of the population!",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of focusing on abstract unknowns and conceptual problems."
+                },
+                {
+                    "text_segment": "What makes us think they'll actually take their share anyway? How long before someone else takes it from them?",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative about future possibilities and questioning assumptions."
+                },
+                {
+                    "text_segment": "This way at least everyone has something to eat, right?",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing concern for basic needs and seeking agreement, being accommodating."
+                },
+                {
+                    "text_segment": "You sound like you've been through worse.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of making an empathetic observation."
+                },
+                {
+                    "text_segment": "So let\u2019s split it as evenly as possible. Everyone gets a little bit. Nobody goes hungry. We\u2019re all safe.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating, seeking harmony, and ensuring everyone is cared for."
+                },
+                {
+                    "text_segment": "I\u2019m giving these to whoever comes looking for them. Just pass it along. No arguing. We\u2019re not getting anywhere with that.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of a casual, open-ended distribution method, avoiding conflict."
+                },
+                {
+                    "text_segment": "Here\u2019s my number. Call me later tonight. If I haven\u2019t heard back by tomorrow morning, call again. Okay?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended, flexible, and offering options for contact."
+                },
+                {
+                    "text_segment": "Bye-bye! I miss you already! See ya later!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive, gregarious, and enthusiastic."
+                },
+                {
+                    "text_segment": "Hey! Hey wait up! Hey! Hey! Wait up! I missed you already! Bye! Bye! See yah! Bye! Oh wow, I missed you! Bye! Byeeeee! Bye! Yaaayy! Bye bye! Bye! Yaayyy! Bye! Hey! Bye! Yo! Bye! Back! Bye! Missed u! Bye! Be! Bye",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being extremely expressive, gregarious, enthusiastic, and action-oriented in seeking interaction."
+                },
+                {
+                    "text_segment": "What did you do today? What happened? Where\u2019d you go? How were you guys? Did you hear from him yet? Are you okay? What happened?!?!?!!??!?!?!!!?!!!!?!?!!!??!?!?!?!?!!!?!?!?!?!??!?!??!??!?!????!?!?!?!!!!!!!!!!!!!???!?!?!? !!!!!!!!!!!!!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being highly expressive, gregarious, and enthusiastic, asking many questions."
+                },
+                {
+                    "text_segment": "What did you do today? What happened? Where\u2019d you go? How were you guys? Did you hear from him yet? Are you okay? What happened?!?!?!!??!?!?!!!?!!!!?!?!!!??!?!?!?!?!!!?!?!?!?!??!?!??!??!?!????!?!?!?!!!!!!!!!!!!!???!?!?!? !!!!!!!!!!!!!",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended and seeking options/information without a fixed agenda."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Highly expressive and social, often foreseeing abstract possibilities, driven by a concern for fairness and harmony, and generally flexible in approach."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Exceptionally expressive and social, highly speculative about possibilities, driven by a desire for harmony and accommodation, and very open-ended and flexible."
+                }
+            }
+        },
+        {
+            "global_id": 10,
+            "codings": [
+                {
+                    "text_segment": "I would like to take charge of this one.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of taking control and being systematic."
+                },
+                {
+                    "text_segment": "If we divide our duties according to these areas here, then we will have less confusion. I'll take the northern sector, and you can handle the southern part.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic, methodical, and planful in organization."
+                },
+                {
+                    "text_segment": "It's important to stay in contact at all times though, because there could still be aftershocks. We also don't know how many casualties there might be yet",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on present dangers and concrete facts."
+                },
+                {
+                    "text_segment": "I think I've got a broken leg. This guy right here. He just had a heart attack. I'll call 911.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete, immediate facts and actions."
+                },
+                {
+                    "text_segment": "I\u2019m gonna head back home and rest up.",
+                    "speaker": "Person A",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Matches the definition of preferring private and contained activities, focusing on personal needs."
+                },
+                {
+                    "text_segment": "You too! Bye!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and social."
+                },
+                {
+                    "text_segment": "I swear when he gets better, I am going to break every bone in his body. He deserves it. I\u2019m done with him. I\u2019m outta here.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of being tough-minded, critical, and making an objective judgment of deserving punishment."
+                },
+                {
+                    "text_segment": "Bye! Good luck out there! Be careful! Remember to watch out for aftershocks!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and social."
+                },
+                {
+                    "text_segment": "Thanks man, same goes for you. Let\u2019s check in sometime soon, ok? See ya! Bye! Bye! Byeeeee! Bye-bye! Bye-bayy! Bye! Okie dokie lokie! Peace out!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being very expressive, gregarious, and enthusiastic."
+                },
+                {
+                    "text_segment": "I'm just saying maybe if someone else came along, they'd get confused.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative about abstract possibilities and conceptualizing confusion."
+                },
+                {
+                    "text_segment": "But yeah, alright, let's do it. I guess you're more familiar with this area anyway.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and accepting."
+                },
+                {
+                    "text_segment": "Oh wait, where did you go? Are you okay? What happened?!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and action-oriented in seeking information."
+                },
+                {
+                    "text_segment": "I\u2019ll try to get some ambulances over here as soon as possible.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being action-oriented with a sense of urgency, methodical in seeking resources."
+                },
+                {
+                    "text_segment": "In the meantime, do you guys need anything from me? Or is everything taken care of?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended, offering options, and being flexible."
+                },
+                {
+                    "text_segment": "You\u2019re welcome. Have fun!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being expressive and enthusiastic."
+                },
+                {
+                    "text_segment": "I\u2019ve dealt with a few broken bones before. They heal quickly.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of relying on experiential and practical knowledge."
+                },
+                {
+                    "text_segment": "Just make sure to put ice on them, elevate his legs, and give him plenty of fluids. And tell him no smoking, no alcohol, nothing until those bones start knitting themselves together. Got it?",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of giving concrete, practical advice."
+                },
+                {
+                    "text_segment": "Well, I\u2019m heading down south myself. Gotta set up base camp somewhere safe. So long! Take care!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being action-oriented and expressive."
+                },
+                {
+                    "text_segment": "Call me when things settle down. We can meet each other up and figure out who has extra supplies. I mean, if anyone does.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended, flexible, and offering options for future contact."
+                },
+                {
+                    "text_segment": "I hope everyone is okay. I\u2019ll miss talking to you, buddy.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being empathetic, relational, and tender-hearted."
+                },
+                {
+                    "text_segment": "Ok, see ya! Bye bye! Peace out, peace out! Okie Dokie Lokie! See ya! Peace out!!! Bye!!! Bye!!!! Bye!!!!!!!! Bye!!!!!!!! Bye!!!!!! Bye!!!! Bye!!!!! Bye!!!! Bye!!!! Bye!! Bye!!!!! Bye!!!!! Bye!!!!!!!! Bye!!! Bye! Bye!! Bye! Bye!!!!!!!! Bye!! Bye!!!!!!!! Bye! Bye!!!! Bye!!! Bye!!! bye!!!! Bye!!!!!",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being extremely expressive, gregarious, and enthusiastic."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Exhibits a strong preference for taking charge and systematic planning, focusing on concrete facts and objective, tough-minded decisions, while being expressive in interaction."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Highly expressive and enthusiastic, often speculative about possibilities, driven by an accommodating and empathetic nature, and generally open-ended and flexible."
+                }
+            }
+        },
+        {
+            "global_id": 11,
+            "codings": [
+                {
+                    "text_segment": "I think we have enough to take care of everybody here.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and expressing concern for everyone."
+                },
+                {
+                    "text_segment": "But look at the bigger picture here.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of engaging in conceptual and abstract thinking."
+                },
+                {
+                    "text_segment": "If we send everyone to one hospital, all of our resources would be focused in one place, leaving none available elsewhere. That could mean somebody gets hurt because we didn't have ambulances available when they needed them.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of using logical, objective analysis of resource allocation and potential consequences."
+                },
+                {
+                    "text_segment": "Everyone has done everything possible to save lives today.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of acknowledging effort and being empathetic."
+                },
+                {
+                    "text_segment": "We can use that extra hour or two to transport as many injured people as we can to these nearby towns where they have better facilities equipped for emergencies like ours.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of proposing a practical, present-focused solution."
+                },
+                {
+                    "text_segment": "It gives me another idea. Maybe we could set up checkpoints throughout the city limits so that no one goes beyond certain points unless absolutely necessary.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being imaginative and conceptualizing a new system."
+                },
+                {
+                    "text_segment": "Maybe we could set up checkpoints throughout the city limits so that no one goes beyond certain points unless absolutely necessary. Then once people reach one checkpoint, they stay put until further notice.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic, planful, and methodical in organization."
+                },
+                {
+                    "text_segment": "Here\u2019s my plan\u2026 First thing\u2019s first \u2013 we\u2019ll establish three main zones based off current population density levels: Zone One covers North Central City; Zone Two includes East Side Townships; finally, Zone Three spans West Coast Villages.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic, planful, and methodical with detailed organization."
+                },
+                {
+                    "text_segment": "When it comes down to making decisions, we prioritize treating children above adults whenever possible simply due to biological reasons associated with survival chances depending upon severity of injuries sustained versus overall health condition prior incident occurrence.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of using logical, objective reasoning for prioritization."
+                },
+                {
+                    "text_segment": "There\u2019s this guy named Steve who runs a non-profit organization called \u201cEmergency Services Network\u201d (ESN). He used to work for FEMA back in the day before he retired several years ago citing family commitments amongst other things.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of providing concrete details and factual information about a person and their history."
+                },
+                {
+                    "text_segment": "I don't see how this will work out though...",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of doubting the conceptual viability of a plan."
+                },
+                {
+                    "text_segment": "How do we get everyone who needs treatment there? We'd have to split them up between the two places, which means they'll lose precious time getting back home after their treatment. And besides, if anything happens while they're traveling there, nobody",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of foreseeing abstract problems and conceptualizing potential negative outcomes."
+                },
+                {
+                    "text_segment": "But what if someone had something more serious than broken bones? What if they needed surgery right now?!",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of being speculative and imagining worst-case scenarios or abstract possibilities."
+                },
+                {
+                    "text_segment": "Not knowing whether anyone made it safely somewhere else wouldn't feel very comforting either.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of focusing on subjective feelings and concern for emotional comfort."
+                },
+                {
+                    "text_segment": "Maybe we should try to organize ourselves differently instead? Like maybe having teams assigned specific areas within walking distance around each town center?",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing alternative systems or organizations."
+                },
+                {
+                    "text_segment": "That's brilliant! I wish I thought of that earlier. Well, let's get started then.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being enthusiastic and action-oriented."
+                },
+                {
+                    "text_segment": "Well, let's get started then.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring to get started and achieve closure."
+                },
+                {
+                    "text_segment": "So basically you\u2019re saying we\u2019ll concentrate efforts primarily towards North Central City and East Side Towns since they house larger populations relative to others. Gotcha. Makes perfect sense.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptual understanding and seeing the underlying pattern or logic."
+                },
+                {
+                    "text_segment": "Have you considered implementing any sort of priority system amongst various categories such as age groups or medical",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing systems and abstract categories."
+                },
+                {
+                    "text_segment": "Thank goodness. Good thinking.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accepting and appreciative."
+                },
+                {
+                    "text_segment": "Because ideally, we\u2019d prefer not relying solely on government agencies alone considering recent events surrounding budget cuts affecting federal funding allocation specifically targeted toward social services sector recently passed last month via congressional vote approval...",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing ideal systems and abstract implications of policies."
+                },
+                {
+                    "text_segment": "I hope nothing changes drastically between now tomorrow morning at 8am sharp when we meet back here again.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure, a fixed plan, and a scheduled meeting."
+                },
+                {
+                    "text_segment": "If anything does change dramatically however, please feel free contacting me personally anytime using mobile number",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being open-ended and flexible for contingencies."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ENTJ",
+                    "type (best guess)": "ENTJ",
+                    "summary": "Exhibits a strong preference for conceptual and strategic thinking, logical and objective decision-making, and a highly systematic and planful approach."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Shows an enthusiastic and speculative nature, often conceptualizing problems and alternative systems, driven by subjective feelings and generally open-ended and flexible."
+                }
+            }
+        },
+        {
+            "global_id": 12,
+            "codings": [
+                {
+                    "text_segment": "I'm pretty sure we've got enough supplies at hand, I don't think there's much else needed here.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete, present resources."
+                },
+                {
+                    "text_segment": "But how? We'll probably only get a few trucks today, maybe even tomorrow if they're stuck somewhere else. We could use a helicopter, but I don't know who has one...",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing possibilities and challenges, seeking abstract solutions."
+                },
+                {
+                    "text_segment": "There isn't time to wait though,",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of having a sense of urgency and a desire for closure."
+                },
+                {
+                    "text_segment": "Let me check the maps again. This way will take us past two towns, each with 200 houses. The road is quite narrow between them, but that's ok.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete details, factual information, and practical planning."
+                },
+                {
+                    "text_segment": "We should also stop off at some local aid stations along the route, they may have more supplies than we thought. And let's try to avoid any roads that are likely to collapse.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of engaging in practical, realistic planning."
+                },
+                {
+                    "text_segment": "They definitely deserve assistance as much as everyone else does.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of valuing fairness and expressing empathetic concern."
+                },
+                {
+                    "text_segment": "We'll set up base camp near the middle village. From there, we can split into groups and distribute the supplies evenly. One group can travel towards the east while another heads west. We can meet back up later tonight",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic, planful, and methodical in organization."
+                },
+                {
+                    "text_segment": "He doesn't sound too confident.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of making a subjective observation of an emotional state."
+                },
+                {
+                    "text_segment": "Don't touch any fallen trees or rocks. We never know what kind of damage they might have sustained during the quake.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete dangers and practical caution."
+                },
+                {
+                    "text_segment": "it's best not to panic. We should continue forward and assess the situation from afar. If necessary, we can always retreat and come back later.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of adopting a logical, objective approach to a crisis."
+                },
+                {
+                    "text_segment": "The last thing we need is unnecessary tension. Everyone needs to relax and concentrate on their tasks. If anyone feels uncomfortable, tell me immediately. I'll arrange for some extra guards. Safety comes",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of expressing concern for group morale, emotional comfort, and being accommodating."
+                },
+                {
+                    "text_segment": "I think we should leave security details to higher-ups. After all, it involves coordinating multiple units and personnel. We need clear instructions on how many men and women to dispatch, what equipment to carry, etc. That sort of planning requires expertise beyond our current capabilities.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of making a logical, objective assessment of capabilities and expertise, being critical of overstepping bounds."
+                },
+                {
+                    "text_segment": "Okay, let's begin. I\u2019ll drive the truck straight onto the main street. The villagers should recognize our vehicle \u2013 it\u2019s painted yellow and has a big logo on the side. They\u2019re familiar with the brand name. Once inside the town limits, please park beside the church building. It\u2019s a landmark that stands tall above the surrounding structures. People should easily spot us there.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of giving concrete, detailed instructions and focusing on observable facts."
+                },
+                {
+                    "text_segment": "Okay, let's begin. I\u2019ll drive the truck straight onto the main street. The villagers should recognize our vehicle \u2013 it\u2019s painted yellow and has a big logo on the side. They\u2019re familiar with the brand name. Once inside the town limits, please park beside the church building. It\u2019s a landmark that stands tall above the surrounding structures. People should easily spot us there.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic, methodical, and having a clear plan."
+                },
+                {
+                    "text_segment": "The problem is these earthquakes usually bring aftershocks which could cause further destruction and injuries.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing future possibilities and abstract implications."
+                },
+                {
+                    "text_segment": "We shouldn't waste our resources. If anything happens after sending those supplies over, we won't be able to do anything right away.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of making a logical, objective assessment of resource management."
+                },
+                {
+                    "text_segment": "What do you suggest? We gotta work together on this one",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and seeking collaboration."
+                },
+                {
+                    "text_segment": "Just remember, no matter where we decide to send the stuff, it still might not reach its destination. We can't control everything that goes wrong in disasters.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing limitations and abstract possibilities."
+                },
+                {
+                    "text_segment": "But at least we did something. Maybe someone gets saved. And when all hell breaks loose, we wouldn't regret having tried.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of focusing on positive impact and avoiding regret, a subjective value."
+                },
+                {
+                    "text_segment": "So, shall we go? I hate being idle.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being action-oriented and enthusiastic."
+                },
+                {
+                    "text_segment": "I guess I'll lead the eastern team then.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of taking charge and being decisive."
+                },
+                {
+                    "text_segment": "Let's move fast, but safely. We need to cover ground quickly before nightfall. It would be terrible to have to spend another day waiting.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of having a sense of urgency and a desire for closure, being scheduled."
+                },
+                {
+                    "text_segment": "I didn't mean anything bad by my comment earlier. It wasn't directed toward you personally. I meant it generally, you know. No hard feelings.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating, seeking harmony, and being tender-hearted."
+                },
+                {
+                    "text_segment": "As long as we remain calm and focused, we can deal with most challenges thrown our way. Remember, we're dealing with life and death matters here",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of adopting a logical, objective approach to challenges."
+                },
+                {
+                    "text_segment": "We appreciate your efforts to keep things running smoothly. I hope you understand why we had to ask questions earlier.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating and appreciative."
+                },
+                {
+                    "text_segment": "In fact, I'd like to propose assigning a dedicated security detail for every mission from now on.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing a new system or procedure."
+                },
+                {
+                    "text_segment": "I'll put you in charge of the western team. Since you seem to have experience working in challenging environments, I trust you'll handle things efficiently.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of making an objective assessment of competence and logical delegation."
+                },
+                {
+                    "text_segment": "Please coordinate closely with your colleagues and report any issues promptly. We cannot afford delays in this critical operation. Every second counts. Now let's get started.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being systematic, methodical, having a sense of urgency, and desiring closure."
+                },
+                {
+                    "text_segment": "We\u2019ve covered the basics\u2014food, water, blankets, bandages, medicines, and basic tools. These items are essential for survival.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on concrete, practical items."
+                },
+                {
+                    "text_segment": "However, given the circumstances, we should consider adding some additional supplies. For instance, portable stoves, cooking utensils, flashlights, batteries, and spare clothing. People may require shelter from the elements.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of conceptualizing additional needs and future possibilities."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ISTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Exhibits a preference for concrete, detailed planning and practical solutions, driven by logical and objective assessments, and a systematic, methodical approach."
+                },
+                "person_B": {
+                    "type": "ENFJ",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Shows an enthusiastic and conceptual nature, driven by a desire for harmony and collaboration, and a decisive, urgent, and structured approach to action."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1338 @@
+{
+    "dialogues": [
+        {
+            "global_id": 13,
+            "codings": [
+                {
+                    "text_segment": "It's important for everyone\u00e2\u20ac\u2122s safety right now.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical concern for safety."
+                },
+                {
+                    "text_segment": "my tone calm yet firm",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and reasonable."
+                },
+                {
+                    "text_segment": "I just find it hard to breathe with it on.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience and personal comfort."
+                },
+                {
+                    "text_segment": "I try to take quick breaks when I need to catch my breath.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent action based on immediate need."
+                },
+                {
+                    "text_segment": "But have you considered using a different kind of mask? Maybe one made of a more breathable material could help?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical, reasonable, and questioning for a solution."
+                },
+                {
+                    "text_segment": "That makes sense.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical acceptance."
+                },
+                {
+                    "text_segment": "What do you recommend? Something lightweight maybe?",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of seeking concrete and practical solutions."
+                },
+                {
+                    "text_segment": "Look for ones with adjustable nose wires and good filtration without being too dense. Sometimes cotton blends can be quite comfortable while still offering decent protection.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of providing concrete, practical advice with specific details."
+                },
+                {
+                    "text_segment": "Feels like such a small thing, but it could really change how I feel.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and personal impact."
+                },
+                {
+                    "text_segment": "it's all about finding something that works best for you.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and accepting individual needs."
+                },
+                {
+                    "text_segment": "If you try a couple of options, you might find exactly what you need.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and flexibility."
+                },
+                {
+                    "text_segment": "I'll start looking around then.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of open-ended and emergent action."
+                },
+                {
+                    "text_segment": "It means a lot. Hope we see each other soon in here.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of tender-hearted and relational."
+                },
+                {
+                    "text_segment": "Take your time and find one that fits well.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and not rushed."
+                },
+                {
+                    "text_segment": "Hopefully, we can both stay safe.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and showing concern for well-being."
+                },
+                {
+                    "text_segment": "Will definitely take my time.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and not rushed."
+                },
+                {
+                    "text_segment": "Hope everything goes smoothly for you too.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of tender-hearted and showing concern for others."
+                },
+                {
+                    "text_segment": "Let's keep each other safe.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and showing concern for well-being."
+                },
+                {
+                    "text_segment": "Agreed. Let's do our part.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and accepting."
+                },
+                {
+                    "text_segment": "feeling satisfied that I helped address the issue constructively.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical problem-solving."
+                },
+                {
+                    "text_segment": "Hope you find what you need.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of tender-hearted and showing concern for others."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ISTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A demonstrates a firm, objective approach to rules and safety, offering practical solutions, which aligns with Thinking and Judging. Their focused interaction suggests Introversion, and the specific advice points to Sensing."
+                },
+                "person_B": {
+                    "type": "ISFP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B prioritizes personal comfort and subjective feelings, seeking flexible and spontaneous solutions. Their focus on internal experience and practical needs aligns with Introversion, Sensing, Feeling, and Perceiving."
+                }
+            }
+        },
+        {
+            "global_id": 14,
+            "codings": [
+                {
+                    "text_segment": "given the current health guidelines, we all need to do our part to stay safe.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "given the current health guidelines, we all need to do our part to stay safe.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "Have you considered the risks involved?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of questioning for objective analysis."
+                },
+                {
+                    "text_segment": "my nose feels stuffy when it\u00e2\u20ac\u2122s on. It's just hard for me to breathe comfortably.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience and personal comfort."
+                },
+                {
+                    "text_segment": "I trust science, and there are safer ways to manage stuffiness without taking off masks entirely.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical and reasonable argumentation."
+                },
+                {
+                    "text_segment": "What about you? How have you been managing during these times?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious and outwardly focused by asking about others' experiences."
+                },
+                {
+                    "text_segment": "Personally, I\u00e2\u20ac\u2122ve found saline sprays help a lot with keeping nasal passages clear. They\u00e2\u20ac\u2122re non-invasive and effective. Also, staying hydrated helps too.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of providing concrete, practical, and experiential advice."
+                },
+                {
+                    "text_segment": "the effectiveness of masks has been well-documented in preventing the spread of viruses.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective, logical, and factual reasoning."
+                },
+                {
+                    "text_segment": "Maybe we could find a compromise",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating."
+                },
+                {
+                    "text_segment": "Saline sprays sound like they might work! I'll give those a try. And hydration is a good tip\u00e2\u20ac\u201dI\u00e2\u20ac\u2122ll remember that.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of practical, experiential, and present-focused action."
+                },
+                {
+                    "text_segment": "how about we both keep our masks on except maybe for short breaks where we can step outside into an open area if needed? That way, we\u00e2\u20ac\u2122re still being cautious yet comfortable.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and an emergent, flexible solution."
+                },
+                {
+                    "text_segment": "how about we both keep our masks on except maybe for short breaks where we can step outside into an open area if needed? That way, we\u00e2\u20ac\u2122re still being cautious yet comfortable.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and prioritizing comfort."
+                },
+                {
+                    "text_segment": "Sounds like a practical solution.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of appreciating a practical approach."
+                },
+                {
+                    "text_segment": "We can take brief breaks in designated outdoor areas to catch some fresh air and stretch.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and flexibility."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s stick to the rules as much as possible to ensure safety for everyone. Agreed?",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s stick to the rules as much as possible to ensure safety for everyone. Agreed?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "Thanks for understanding and finding this balance together.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accommodating."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s look out for each other and the community around us.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and accommodating."
+                },
+                {
+                    "text_segment": "let's watch out for one another. It\u00e2\u20ac\u2122s important we support each other during these times.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and accommodating."
+                },
+                {
+                    "text_segment": "supporting each other makes everything easier.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective and accepting."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ISTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A consistently emphasizes adherence to guidelines and objective safety, offering practical solutions. Their focused interaction and rule-oriented approach align with Introversion, Sensing, Thinking, and Judging."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B expresses subjective discomfort and seeks flexible, emergent solutions, while also showing an outward focus by asking about others. Their practical suggestions and desire for balance align with Extraversion, Sensing, Feeling, and Perceiving."
+                }
+            }
+        },
+        {
+            "global_id": 15,
+            "codings": [
+                {
+                    "text_segment": "It's important for all of us to follow the guidelines and wear masks inside the store to help prevent the spread of illness.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "It's important for all of us to follow the guidelines and wear masks inside the store to help prevent the spread of illness.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "Safety first, right?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning."
+                },
+                {
+                    "text_segment": "my nose gets really stuffy when I have the mask over my mouth like that.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience and personal comfort."
+                },
+                {
+                    "text_segment": "Maybe if we could find somewhere less crowded, I can take it off there while still being careful around others.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and an emergent, spontaneous solution."
+                },
+                {
+                    "text_segment": "We could grab our items quickly and get out fast.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of pressure-prompted and emergent action."
+                },
+                {
+                    "text_segment": "That sounds reasonable.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical acceptance."
+                },
+                {
+                    "text_segment": "Let's go towards the checkout area where it\u00e2\u20ac\u2122s usually less crowded.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of suggesting a concrete and practical solution."
+                },
+                {
+                    "text_segment": "Just make sure to cover your nose and mouth as soon as we're done here, okay? Safety first.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of emphasizing closure and methodical adherence to rules."
+                },
+                {
+                    "text_segment": "Just make sure to cover your nose and mouth as soon as we're done here, okay? Safety first.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "Thanks for understanding.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic appreciation."
+                },
+                {
+                    "text_segment": "Lead the way, and let's move quick once we get there.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of pressure-prompted and emergent action."
+                },
+                {
+                    "text_segment": "anything else you need from the store?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious and outwardly focused."
+                },
+                {
+                    "text_segment": "If you need anything, feel free to ask.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating."
+                },
+                {
+                    "text_segment": "Make yourself comfortable, and we\u00e2\u20ac\u2122ll get this done swiftly.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being accommodating."
+                },
+                {
+                    "text_segment": "Make yourself comfortable, and we\u00e2\u20ac\u2122ll get this done swiftly.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring efficiency and methodical completion."
+                },
+                {
+                    "text_segment": "Ready whenever you are.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "Let's just make this quick and efficient.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and efficient action."
+                },
+                {
+                    "text_segment": "Let's move efficiently.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and planful."
+                },
+                {
+                    "text_segment": "Once we\u00e2\u20ac\u2122re done, we can both ensure we maintain proper precautions.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and systematic adherence to precautions."
+                },
+                {
+                    "text_segment": "let's get this done.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure."
+                },
+                {
+                    "text_segment": "We\u00e2\u20ac\u2122ll be out of here before you know it.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure."
+                },
+                {
+                    "text_segment": "We'll be in and out quickly.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and efficiency."
+                },
+                {
+                    "text_segment": "Quick and smooth, got it.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring efficiency and methodical action."
+                },
+                {
+                    "text_segment": "moving fast. Stay close, and we'll be done in no time.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring efficiency and closure."
+                },
+                {
+                    "text_segment": "ready when you are.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "we won\u00e2\u20ac\u2122t waste any time.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring efficiency and methodical action."
+                },
+                {
+                    "text_segment": "Keep those distances safe until then.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "steady pace. Keep those distances",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of methodical and systematic action."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ISTJ",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A strongly emphasizes following guidelines, objective safety, and efficient, methodical action. Their focused interaction and practical solutions align with Introversion, Sensing, Thinking, and Judging."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B prioritizes subjective comfort and initially seeks flexible, emergent solutions, while also showing an outward focus. Their practical suggestions and adaptable nature align with Extraversion, Sensing, Feeling, and Perceiving."
+                }
+            }
+        },
+        {
+            "global_id": 16,
+            "codings": [
+                {
+                    "text_segment": "it's really important we all follow the guidelines to stay safe",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "it's really important we all follow the guidelines to stay safe",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "It\u00e2\u20ac\u2122s better for us all if we can prevent the spread of whatever might be around.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning."
+                },
+                {
+                    "text_segment": "wearing that thing makes my head spin and my ears hurt.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience and personal comfort."
+                },
+                {
+                    "text_segment": "I trust the precautions they have in place here\u00e2\u20ac\u201dthey\u00e2\u20ac\u2122ve got plenty of sanitizers and good airflow.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete, realistic, and present-focused observations."
+                },
+                {
+                    "text_segment": "I\u00e2\u20ac\u2122m being careful too\u00e2\u20ac\u201dwashed hands, kept distance from others when possible.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete and practical actions."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s do our part without suffocating ourselves, okay? We\u00e2\u20ac\u2122ll both be safer that way",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and prioritizing subjective comfort."
+                },
+                {
+                    "text_segment": "masks provide an extra layer of protection. Especially since there might still be unknowns about how this virus spreads.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective, logical, and theoretical reasoning."
+                },
+                {
+                    "text_segment": "Especially since there might still be unknowns about how this virus spreads.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of abstract and theoretical considerations (unknowns)."
+                },
+                {
+                    "text_segment": "think about the people who might be more vulnerable than us.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and tender-hearted concern for others."
+                },
+                {
+                    "text_segment": "If you need a break, perhaps find a well-ventilated area outside the store briefly.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and spontaneous solutions."
+                },
+                {
+                    "text_segment": "I'm not exactly feeling great in it either.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience."
+                },
+                {
+                    "text_segment": "Maybe we could compromise? How about I put mine back on once we finish shopping and step out into the fresh air every now and then?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and an emergent, spontaneous solution."
+                },
+                {
+                    "text_segment": "That way, I get some relief while still doing my part.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of prioritizing subjective comfort."
+                },
+                {
+                    "text_segment": "That sounds like a reasonable compromise.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical acceptance."
+                },
+                {
+                    "text_segment": "Putting the mask back on once you're done shopping and stepping outside periodically will help balance comfort and safety.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of a scheduled and methodical approach to balancing needs."
+                },
+                {
+                    "text_segment": "Putting the mask back on once you're done shopping and stepping outside periodically will help balance comfort and safety.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical balance."
+                },
+                {
+                    "text_segment": "Thanks for being flexible and understanding.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accommodating."
+                },
+                {
+                    "text_segment": "Let's stick together until the very end",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure and methodical completion."
+                },
+                {
+                    "text_segment": "that works perfectly for me.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective acceptance."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s stick together till the end",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of desiring closure."
+                },
+                {
+                    "text_segment": "Appreciate you sticking with this, it means a lot.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of tender-hearted and subjective value."
+                },
+                {
+                    "text_segment": "ensure we both feel comfortable and secure.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and compassionate."
+                },
+                {
+                    "text_segment": "let's look out for each other.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate."
+                },
+                {
+                    "text_segment": "looking out for eachother makes things easier.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective value."
+                },
+                {
+                    "text_segment": "thanks again for compromising.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating."
+                },
+                {
+                    "text_segment": "Let's stay healthy.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate."
+                },
+                {
+                    "text_segment": "Let's stay safe and healthy.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "INFJ",
+                    "type (best guess)": "INFJ",
+                    "summary": "Person A shows concern for guidelines and objective safety, but also emphasizes the unknown and vulnerable, offering flexible options. Their compassionate and structured approach aligns with Introversion, Intuition, Feeling, and Judging."
+                },
+                "person_B": {
+                    "type": "ISFP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B prioritizes subjective comfort and practical, present-focused actions, seeking flexible compromises. Their internal focus on feelings and adaptable nature align with Introversion, Sensing, Feeling, and Perceiving."
+                }
+            }
+        },
+        {
+            "global_id": 17,
+            "codings": [
+                {
+                    "text_segment": "It's important we all follow the guidelines to protect ourselves and others.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "It's important we all follow the guidelines to protect ourselves and others.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "How do you feel about that?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic and accommodating by asking about feelings."
+                },
+                {
+                    "text_segment": "wearing the mask makes me feel uncomfortable and it\u00e2\u20ac\u2122s hard for me to breathe properly.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience and personal comfort."
+                },
+                {
+                    "text_segment": "Maybe there's another way to ensure safety without making us all so stuffy? Like maybe some well-ventilated areas where masks aren\u00e2\u20ac\u2122t necessary?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and an emergent, spontaneous solution."
+                },
+                {
+                    "text_segment": "let's think about it practically.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of focusing on practical considerations."
+                },
+                {
+                    "text_segment": "The mask helps prevent droplets from spreading when we talk or cough.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective, logical, and factual reasoning."
+                },
+                {
+                    "text_segment": "If we can find quieter sections of the store with better airflow, perhaps we could remove our masks there temporarily.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and flexibility."
+                },
+                {
+                    "text_segment": "keeping the mask on except during brief periods in open spaces like those near the fresh produce section?",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and flexibility."
+                },
+                {
+                    "text_segment": "That sounds reasonable.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical acceptance."
+                },
+                {
+                    "text_segment": "Perhaps finding spots further away from crowds or where people move less frequently might work too.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and flexibility."
+                },
+                {
+                    "text_segment": "And we could even set up signs indicating these areas so everyone knows they\u00e2\u20ac\u2122re safer zones.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of an imaginative, conceptual, and original idea for a system."
+                },
+                {
+                    "text_segment": "It\u00e2\u20ac\u2122s about finding a compromise that keeps us all safe while still being comfortable.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and prioritizing comfort."
+                },
+                {
+                    "text_segment": "Let's try to make this work for everyone.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and compassionate."
+                },
+                {
+                    "text_segment": "That's a great idea. Setting up designated areas would help a lot.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Matches the definition of appreciating a conceptual idea."
+                },
+                {
+                    "text_segment": "We could also suggest using hand sanitizer before entering those zones if anyone needs to remove their mask.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of suggesting a concrete and practical addition."
+                },
+                {
+                    "text_segment": "it shows we both care about following the rules but also ensuring everyone feels okay.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and accommodating."
+                },
+                {
+                    "text_segment": "Let's go over to one of those quiet spots and test it out.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent action."
+                },
+                {
+                    "text_segment": "Hand sanitizer seems like a smart addition.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of practical acceptance."
+                },
+                {
+                    "text_segment": "Maybe we can encourage others to join us if they need a break too.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious, active, and enthusiastic about involving others."
+                },
+                {
+                    "text_segment": "Comfort and safety should go hand in hand here.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective value and accommodating."
+                },
+                {
+                    "text_segment": "I'll grab some hand sanitizer first. Once we have that, we can show others how it works.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete, practical action and demonstrating."
+                },
+                {
+                    "text_segment": "Once we have that, we can show others how it works.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being action-oriented and gregarious in demonstrating."
+                },
+                {
+                    "text_segment": "Ready when you are.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "Let's make sure everything goes smoothly.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and planful."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s make sure everyone who joins us feels confident and comfortable.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and accommodating."
+                },
+                {
+                    "text_segment": "Let's set a positive example and make it easy for others to join in.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being action-oriented and gregarious."
+                },
+                {
+                    "text_segment": "Let's do this together and keep things running smoothly.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and planful."
+                },
+                {
+                    "text_segment": "Let's make this work and keep everyone feeling safe and comfortable.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and accommodating."
+                },
+                {
+                    "text_segment": "Let's ensure everything runs smoothly and sets a good example for others.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and systematic."
+                },
+                {
+                    "text_segment": "Let's make sure we handle this calmly and effectively.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and systematic."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person A shows an outward focus by involving others and demonstrating, offers practical solutions, prioritizes accommodating feelings, and is flexible in their approach. This aligns with Extraversion, Sensing, Feeling, and Perceiving."
+                },
+                "person_B": {
+                    "type": "ENFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Person B expresses subjective discomfort, proposes imaginative and conceptual solutions, and is enthusiastic about involving others. Their focus on comfort and flexible ideas aligns with Extraversion, Intuition, Feeling, and Perceiving."
+                }
+            }
+        },
+        {
+            "global_id": 18,
+            "codings": [
+                {
+                    "text_segment": "We just received an update that there's been another case locally, and they're urging us all to stay extra cautious.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete, realistic, and present-focused information."
+                },
+                {
+                    "text_segment": "I think we need to take this seriously for everyone\u00e2\u20ac\u2122s safety.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of objective and logical reasoning for safety."
+                },
+                {
+                    "text_segment": "I think we need to take this seriously for everyone\u00e2\u20ac\u2122s safety.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic adherence to rules."
+                },
+                {
+                    "text_segment": "wearing a mask feels really uncomfortable for me right now. My throat gets tight, and I find it hard to breathe properly.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience and personal comfort."
+                },
+                {
+                    "text_segment": "Is there maybe somewhere else in the store we could go where it might be less crowded? Or perhaps a section with better ventilation?",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and an emergent, spontaneous solution."
+                },
+                {
+                    "text_segment": "That way, both of us can still shop safely without feeling too constrained.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and prioritizing comfort."
+                },
+                {
+                    "text_segment": "That makes sense, and comfort is important.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and accepting."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s head over to the produce section\u00e2\u20ac\u201dit tends to have more airflow and isn\u00e2\u20ac\u2122t as busy during these times.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of suggesting a concrete and practical solution."
+                },
+                {
+                    "text_segment": "finding a solution that works for both of us is key here.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Matches the definition of logical problem-solving."
+                },
+                {
+                    "text_segment": "Thanks for understanding.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of empathetic appreciation."
+                },
+                {
+                    "text_segment": "my breathing will feel better, and I\u00e2\u20ac\u2122ll be able to put the mask back on comfortably.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective comfort."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s do our part while also taking care of ourselves.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and self-care."
+                },
+                {
+                    "text_segment": "we'll make sure everything goes smoothly.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being methodical and planful."
+                },
+                {
+                    "text_segment": "If anything changes, just let me know, and we can adjust quickly.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being spontaneous, emergent, and flexible."
+                },
+                {
+                    "text_segment": "Safety and comfort are our top priorities today.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and compassionate."
+                },
+                {
+                    "text_segment": "I appreciate you being so considerate.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of tender-hearted appreciation."
+                },
+                {
+                    "text_segment": "If not, maybe we can try standing near some of the fans or vents.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and emergent solutions."
+                },
+                {
+                    "text_segment": "Take your time, I\u00e2\u20ac\u2122m not in a rush.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "Just trying to find a balance between safety and comfort.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of accommodating and prioritizing subjective comfort."
+                },
+                {
+                    "text_segment": "Fresh air usually does wonders.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of experiential and realistic observation."
+                },
+                {
+                    "text_segment": "if those fans or vents around here work well, that could definitely help.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete and practical considerations."
+                },
+                {
+                    "text_segment": "No hurry, we\u00e2\u20ac\u2122ve got time.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "What section were you planning to look at anyway? Maybe we can combine our shopping needs while we\u00e2\u20ac\u2122re out here.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous, emergent, and offering options."
+                },
+                {
+                    "text_segment": "What section were you planning to look at anyway? Maybe we can combine our shopping needs while we\u00e2\u20ac\u2122re out here.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of outward focus and combining activities."
+                },
+                {
+                    "text_segment": "I was actually looking for some fruits and veggies.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete and realistic needs."
+                },
+                {
+                    "text_segment": "We could start with that and then maybe check out some snacks later.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and spontaneous planning."
+                },
+                {
+                    "text_segment": "Let\u00e2\u20ac\u2122s grab what we need and see how we both feel.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent action."
+                },
+                {
+                    "text_segment": "Sounds like a plan.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of being planful."
+                },
+                {
+                    "text_segment": "I'm mainly looking for some bread and milk.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete and realistic needs."
+                },
+                {
+                    "text_segment": "Starting with the produce section is perfect since it feels open and breezy.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of concrete and realistic observations."
+                },
+                {
+                    "text_segment": "If the mask starts to feel better, we can put it back on together.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being flexible and emergent."
+                },
+                {
+                    "text_segment": "Feeling a bit more relaxed already in this area.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective experience."
+                },
+                {
+                    "text_segment": "Let's focus on getting what we came for and enjoying the comfortable environment.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of prioritizing subjective comfort."
+                },
+                {
+                    "text_segment": "I'll grab the bread and milk while you handle the produce.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of systematic and methodical division of tasks."
+                },
+                {
+                    "text_segment": "Enjoy browsing, and if you need anything, just call out.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of being casual and open-ended."
+                },
+                {
+                    "text_segment": "this place has some delicious apples\u00e2\u20ac\u201dmaybe we should get a bag for you? And while you're picking, I'll find a couple of snack options for us.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous, offering options, and emergent."
+                },
+                {
+                    "text_segment": "Let's make the most of this space.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and emergent action."
+                },
+                {
+                    "text_segment": "I love apples, so that would be great.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of subjective value."
+                },
+                {
+                    "text_segment": "feel free to pick out whatever snacks sound good to you.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and being casual."
+                },
+                {
+                    "text_segment": "Let's support local farmers while we\u00e2\u20ac\u2122re at it.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of compassionate and value-driven."
+                },
+                {
+                    "text_segment": "supporting local farmers is important.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of being value-driven."
+                },
+                {
+                    "text_segment": "I'll take a look at their baked goods and maybe get some homemade cookies.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of spontaneous and offering options."
+                },
+                {
+                    "text_segment": "Feel free to grab whatever apples catch your eye",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Matches the definition of offering options and being casual."
+                },
+                {
+                    "text_segment": "Once you're done, we can compare our finds and decide on the best combination.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Matches the definition of seeking closure and methodical comparison."
+                },
+                {
+                    "text_segment": "The smell of fresh fruit is making my mouth water.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Matches the definition of experiential and present-focused observation."
+                },
+                {
+                    "text_segment": "I hope you find some delicious cookies",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Matches the definition of tender-hearted concern."
+                },
+                {
+                    "text_segment": "Let's chat when we meet up and share our choices.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Matches the definition of being gregarious and active."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person A demonstrates an outward focus by combining activities, provides concrete information, prioritizes accommodating feelings, and shows strong flexibility and spontaneity. This aligns with Extraversion, Sensing, Feeling, and Perceiving."
+                },
+                "person_B": {
+                    "type": "ESFP",
+                    "type (best guess)": "ESFP",
+                    "summary": "Person B expresses strong subjective feelings and comfort needs, offers flexible and spontaneous options, and shows an outward, gregarious nature. Their focus on concrete experiences aligns with Extraversion, Sensing, Feeling, and Perceiving."
+                }
+            }
+        }
+    ]
+}

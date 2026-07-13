@@ -1,0 +1,434 @@
+[
+    {
+        "Szenario":"Work Place - Low Urgency",
+        "Run":1,
+        "MBTI_A":"INTJ",
+        "MBTI_B":"ENFP",
+        "Utterances_A":[
+            "I think I'm going to do it. But we need to make sure there's time for us both to talk afterwards.'",
+            "You've got a point... Ok fine, you win. Just please come over here tomorrow morning before lunch so we can go over all the details again.'",
+            "That'd be cool...'",
+            "Ok, I guess I could do that... but wouldn't it be easier to get back together later today? There's still lots left to cover.'",
+            "Well ok, since you asked nicely... but don't blame me if someone forgets something important. I warned ya!'",
+            "Yeah, yeah... I believe you. Just don't forget anything important. Bye!'",
+            "Bye! Don't worry, I haven't forgotten yet. But once it starts I might not recall anymore. See you tomorrow then! Bye!'"
+        ],
+        "Utterances_B":[
+            "You know me well enough to realize when I'm being serious, don't you? It sounds like a great idea. We can take turns leading meetings after this one, maybe even every week. That way everyone gets a chance to speak up!  You'll see if they're really interested in hearing our ideas. If people aren't paying attention during my part then maybe we shouldn't let them run",
+            "I would love to help out more often actually. Maybe you could ask me some questions too sometime?'",
+            "Great thanks! And hey, why don't you just send an email now asking me those things? Then no matter which of us ends up doing the presentation nobody has an excuse for forgetting anything important!'",
+            "Yeah, probably... but I'm getting tired already and I only had coffee this morning. So if anyone wants their ideas heard clearly I suggest sending emails first thing tomorrow instead of trying to remember everything offhand. People won't pay as much attention anyway because it's almost quitting time.",
+            "Ok, cool, whatever works for everybody... See you around noon then? I promise I'll write down all the details and include links to websites where needed,'",
+            "Bye! Happy planning!",
+            "See you! Have fun with it!'"
+        ]
+    },
+    {
+        "Szenario":"Work Place - Low Urgency",
+        "Run":2,
+        "MBTI_A":"INTJ",
+        "MBTI_B":"ENFP",
+        "Utterances_A":[
+            "What? Why do I get the impression we're going over old ground here? We've had these same discussions several times already. It's getting tiring. I just don't think this is working for me anymore. Maybe we need to find some way out of our rut. If things continue like they were before... well, let's face facts. This could turn into something really ugly. So",
+            "I agree. But right now, I feel like my ideas aren't being taken seriously. That's why I'm asking everyone to vote. I think it would help us move forward if we decided today.",
+            "Well, as long as we're making progress, nothing bad can happen, right? Besides, it's better than sitting around doing nothing while waiting for you to decide.",
+            "But that doesn't excuse you from trying to put forth some effort too. After all, we did sign on to this deal together. I guess I expected you to step up sooner rather than later. But instead, you kept pushing the blame onto others. I wish you weren't so quick to pass the buck whenever problems arise. If you'd ever had a problem of your own, you'd understand",
+            "And since you asked nicely, I suppose I\u2019m willing to give you another chance. I trust your judgement. I\u2019m confident that you\u2019re capable of handling the situation. Just remember, you still owe me lunch tomorrow. Happy New Year\u2019s Eve! Happy birthday! Happy Valentine\u2019s Day! Happy anniversary!",
+            "Yep. But don\u2019t worry. There\u2019s still plenty of time left for you to make amends. I promise I\u2019ll wait until March 7th. Then I\u2019ll call your bluff and break up with you forever.",
+            "That sounds like a plan. I\u2019m counting on you. I\u2019ll count on you, but only if you hold up your end of the bargain. Remember, you promised me lunch tomorrow at noon. Don\u2019t blow it. I\u2019m serious. If you\u2019re late, I won\u2019t forgive you easily."
+        ],
+        "Utterances_B":[
+            "Well, maybe if there was an easy fix, then yes, but unfortunately, everything seems to complicate more every day. And no one has come up with anything yet. But don't worry, I'm sure we'll all get along eventually. I mean, after all, we ARE friends! And we can sort this thing out. We can make a decision together. I know we can figure",
+            "You got that right. And besides, I thought you'd be the first person to support this idea because you're such a team player. But it looks like even you haven't been able to pull off this project alone. So, maybe it wouldn't hurt if someone else took charge for once. Let's see how much longer it takes for you to finish. I'm sure you won't be",
+            "And I'm telling you, I appreciate the fact that you guys didn't just walk away when things started getting tough. But, I also believe that you might be tired from having done most of the work yourself. It hasn't been easy. In order to maintain balance, sometimes we need to change things up a little bit.",
+            "I hear you. But you gotta admit, I've worked hard enough. Now it's time for you to pitch in and contribute equally. If I were you, I\u2019d take advantage of the opportunity to learn something valuable from me. You\u2019ve seen firsthand how things run smoothly under my leadership. So, I hope you\u2019ll take me up on my offer.",
+            "Happy Anniversary? Wait\u2026 Are you saying that today is February 14th? Oh, my god. Did I forget again?!",
+            "What??? I couldn\u2019t possibly stand losing you. Please, don\u2019t leave me. Not now. I love you. I want to stay married to you. I swear I\u2019ll never forget again. I\u2019ll write down important dates in red ink and hang them above my bed. Every night when I go to sleep, I\u2019ll read them aloud.",
+            "Don\u2019t worry. I\u2019ll definitely show up. I promise. I love hearing those words. I\u2019m glad you finally realized how much you mean to me. You made the right choice. I\u2019m honored to share my life with you. Happy anniversary! Happy Valentine's Day! Happy birthday!!! I love you! I miss you! I\u2019m gonna miss you! Bye! See you soon! Kiss"
+        ]
+    },
+    {
+        "Szenario":"Work Place - Low Urgency",
+        "Run":1,
+        "MBTI_A":"ISTJ",
+        "MBTI_B":"ESFP",
+        "Utterances_A":[
+            "I agree with you 100%. I think we'll get more done if I'm leading. But since it's just a small group anyway, maybe I can let someone else do it for once? It wouldn't hurt me too much. And besides, I might learn something from them...",
+            "Great idea! I'll do my best to keep things under control. I promise you I won't go crazy! We're both very capable people, so we shouldn't have problems working together. I appreciate all your help today. Thanks again!",
+            "See you tomorrow morning! Bye! I gotta go. I need to pack for our trip tonight. I hope everything goes well with you guys. Good luck! I'll talk to you soon! Have fun!",
+            "Have fun! Enjoy yourselves! Take lots of pictures! Bye! See you around!",
+            "Ok. Bye-bye! Hope you had a great time. Play safe! Drive carefully! See you!",
+            "Bye! Bye! Nice seeing you again! Bye! Have fun driving! See you soon! Bye! Laughing... ok. Bye! Laugh",
+            "Goodbye! Bye! Good night! Bye! Cya! Bye! Love you! Bye! Kisses! Bye! Hugs! Bye! Thank you! Bye!!! Laughing!!! Bye! Laugh! Bye! Cheerio! Bye! Later! Bye! Ok bye! Bye! Byeeeeeeeee!!! Bye! Gotta go! Bye! Annoyed... Bye! Bye Bye"
+        ],
+        "Utterances_B":[
+            "I don't know... I guess there isn't really anything wrong with letting one of us take over every now and then. Just as long as they aren't going to go crazy. I'd like to see you run the show sometime though! I bet you could get some real stuff done! Let's make an agreement right here right now! If you give up being leader after two meetings, I",
+            "You're welcome. Don't worry. I've been there before. I understand where you coming from. It was nice talking to you. See ya later!",
+            "Thanks! I'll call you when we arrive back home. Happy travels! Take care! Talk to you soon. Bye!",
+            "Yeah, yeah. I got it already. Ok. Bye! Peace out!",
+            "Bye! I'm gonna miss you! Call me whenever you wanna! Bye! Bye! Peace! Bye!",
+            "Ok. Bye! Bye-bye!!! Bye! Bye!!! Bye!!! Bye!!!! Bye!!!! Bye!!!!! Bye!!!!!!!! Bye!!!!!! Bye!!!!! Bye!!!! Bye!!! Bye!! Bye! Bye!! Bye!!! Bye!",
+            "Ciao! Ciao! Bye! G'night! Bye! Come back soon! Bye!! See you! Bye bye! Bye-byes! Bye-bys! Bye! Hi-hi! Bye-byy! Bye! Back soon! Bye-by! Bye! Be careful! Bye! Oh no! Bye! Sad! Bye! Ughh! Bye! Omg! Bye! Y"
+        ]
+    },
+    {
+        "Szenario":"Work Place - Low Urgency",
+        "Run":2,
+        "MBTI_A":"ISTJ",
+        "MBTI_B":"ESFP",
+        "Utterances_A":[
+            "I think we need to take care of some more important things first. We can't just let our team get all confused now because one guy didn't show up for his shift. I don't see why he's making such a big deal out of this. He probably got sick anyway, right? Let's move forward as planned today! I'll call him later tonight when everyone else gets home from",
+            "That sounds reasonable. Okay, well... let's go over these points again before starting off into another direction. First thing, we need to make sure everybody has their own copy of my presentation slides, which includes all necessary data sets and charts, ready beforehand. Second point is...",
+            "Well, maybe there were reasons beyond their control. Maybe they had an unexpected crisis going on behind closed doors. Who knows?! Anyway, back to reality\u2014let\u2019s stick to our original plan. No matter what happens, we\u2019re still gonna give those guys a piece of our minds! Come on, we\u2019ve done enough preparation today already. Let\u2019s just get started with the actual meeting.",
+            "You're absolutely right. Asking nicely does seem easier said than done though. Especially considering how much effort goes into organizing meetings nowadays between different departments across various locations. Everyone wants something special included in every single slide deck presented during each session. But honestly, most stuff boils down to personal preferences rather than practical necessities. Still, having clear goals set forth helps streamline discussions amongst teams members who otherwise might become sid",
+            "Sure, we've covered quite a bit ground recently, haven't we? It seems like almost nothing remains left undone except perhaps wrapping up loose ends. As long as we continue moving forward step-by-step, there shouldn't be many surprises lurking anywhere near. Just remember to keep checking in regularly via email updates whenever possible, okay? That way nobody misses out on crucial developments occurring elsewhere within company structure.",
+            "Great idea. Alrighty then\u2026 shall we review notes taken earlier regarding key decisions reached thus far?",
+            "Sorry, but no can do. I\u2019m afraid I have to cut this meeting short. See, I received word that a co-worker called in sick earlier today, so she won\u2019t be able to join us anymore unfortunately. Without her present, our meeting agenda becomes incomplete without proper context provided by her unique insights gained working closely together previously. Thus, I believe it prudent to reconvene another time"
+        ],
+        "Utterances_B":[
+            "But, he was scheduled to do something really important today. If he doesn't come then no one will know where the meeting room is. It would cause problems down the line if anyone needs to find anything. What if someone asks me where everything went wrong tomorrow morning? I'd look like an idiot! And besides, isn't he usually here already? Isn't that part of being punctual?",
+            "Oh yeah, did you hear? Our client just canceled last minute due to some kind of emergency involving their CEO leaving town unexpectedly without telling us ahead of time. Now they're asking if we could reschedule them until Friday afternoon instead...",
+            "You know what though? Sometimes, you gotta roll with whatever comes along with the job. This particular instance may turn out to be even better than expected once we finally meet face-to-face. So while waiting around wouldn\u2019t hurt anybody physically speaking, sometimes it pays off handsomely when you actually manage to catch people unawares. Then again, I suppose you never truly know unless you ask nicely",
+            "Well, yes and no. There are definitely situations where it makes sense to hold off further discussion till after lunchtime since folks tend to feel less focused immediately following meals. On occasion, taking short breaks also serves useful purposes too. For example, sometimes I like talking with colleagues outside office premises simply because fresh air tends promote clearer thinking patterns overall compared to stale indoor conditions. However, if you want maximum",
+            "Yeah, exactly. That\u2019s precisely why we should start preparing now. After all, it takes time to gather resources needed to produce high-quality content. Plus, if we wait too late, chances increase that someone might forget critical details leading to misunderstandings among participants involved. Also worth noting \u2013 sometimes simple mistakes occur despite best intentions made beforehand. Therefore, double-checking facts beforehand ensures accuracy throughout entire process",
+            "Sounds good to me. Hey, hey, hey! Hold on just a sec. I\u2019m sorry, but you can\u2019t leave yet. Not until we finish discussing the last few topics remaining open-ended. You know, those ones related mostly towards future directions moving forward. We owe ourselves a solid conclusion before adjourning officially. Besides, I\u2019d hate to waste valuable time unnecessarily. Come on,",
+            "I understand completely. It certainly feels strange knowing someone close to our circle suddenly drops out cold like that. But hey, life moves fast sometimes. And frankly, I think we accomplished plenty during today\u2019s gathering regardless. So I hope you\u2019ll forgive me for cutting this short. Next time round, please try to notify me sooner when changes arise affecting plans outlined originally. Thanks again for coming today. Have"
+        ]
+    },
+    {
+        "Szenario":"Work Place - Low Urgency",
+        "Run":1,
+        "MBTI_A":"ESTJ",
+        "MBTI_B":"INFP",
+        "Utterances_A":[
+            "No way! I've been working hard for weeks now and deserve some recognition. Plus, I'm more familiar with our clients' needs than anyone else here. Let's go get something to eat instead. We can talk over dinner.",
+            "I was thinking... maybe we could hit a bar tonight and catch a game later? It would probably be cheaper, plus there'd be free food. What do you think?",
+            "Not too late. About 10 o'clock tops. I need my beauty sleep. So, do you wanna grab a bite before hand? Or shall we head straight to the bar?",
+            "Sounds perfect. That's exactly what I needed. Maybe afterwards, we could swing by the liquor store real quick and stock up on snacks for the evening. How does that sound?",
+            "Sure thing. Why wouldn't I? I haven't seen her in years and she deserves some company for her big day. I bet they won't have enough food to feed everybody anyway.",
+            "Absolutely. I hope you didn't forget anything important, such as bringing your ID card, cash money, credit cards, etcetera. We're gonna spend a lot of money tonight. You ready for that?",
+            "That doesn't surprise me. You're very cautious around strangers. It's kind of annoying sometimes, but I suppose it comes across as being polite and considerate toward others. I wish more people were like you. They tend to take things too lightly, which leads to careless mistakes down the line. I mean, I'm pretty careful about money matters too, yet I still manage to overspend occasionally"
+        ],
+        "Utterances_B":[
+            "Fine then... But if we're going out, let me pick where we'll meet up first. If you want to make decisions like that again, just tell yourself I told you so. And don't even think about telling me how much harder you worked than everyone else because I know better. Just don't start talking about the project until after we eat, okay? Now come on! Let's",
+            "Sounds great. I love watching sports games live, especially basketball! I really enjoy the atmosphere when people watch them together. What time did you plan on getting home though?",
+            "Let's order some pizza from the delivery guy. I feel like eating something greasy right now. He has all kinds of toppings available as well, so he might be able to cater towards whatever mood you happen to be in today.",
+            "That sounds fine. Oh wait, I almost forgot! I got an invitation from a friend of mine for her birthday party tomorrow night. Would you care to join us? She invited most of her coworkers including myself. I already sent him a text saying yes, but she also asked me if you wanted to come along.",
+            "I agree. I think we'll have leftovers left over by midnight. After all, we usually only serve appetizers and finger foods. Everyone tends to leave feeling unsatisfied. Well, I guess you're coming with me then.",
+            "Of course I am. I never go anywhere without plenty of money. I've got several different wallets stuffed full of cash right now, which makes me feel safe. I hate having no backup plans whatsoever. That's why I carry three cell phones everywhere these days. One for business calls, one for personal conversations, and another one just incase everything else fails. I figure it covers every possible scenario",
+            "What?! I thought you were super responsible. Didn't you lose thousands of dollars last year due to some bad investment advice? Did you learn nothing from that experience? Don't worry, I've got you covered. I've done research into financial management strategies recently. I'm going to set aside half of my paycheck each week and put it away safely somewhere. Then whenever I need to use those funds"
+        ]
+    },
+    {
+        "Szenario":"Work Place - Low Urgency",
+        "Run":2,
+        "MBTI_A":"ESTJ",
+        "MBTI_B":"INFP",
+        "Utterances_A":[
+            "I'm really busy right now, I don't know if I can make time for another meeting today. How's tomorrow?",
+            "Yeah... I think I'll need someone else to take over leading meetings until after Christmas when everyone comes back from their vacation. I'm going out of town myself. Would you like to help run things around here while I'm away? It'd probably give us both an opportunity to learn some valuable skills.",
+            "Sure! I'd love to do one more meeting before I leave though. If there aren't any conflicts with people's schedules, let's set up the meeting again as soon as possible.",
+            "That sounds great! I suggest we all coordinate using google calendar so nothing gets lost. I'll send everyone links to join later tonight. Thanks for working together to solve these issues. We're getting closer to finding solutions!",
+            "You\u2019re welcome. I\u2019m glad we were able to resolve most of those concerns during our meeting. We\u2019ve done well so far. I feel confident we\u2019ll finish off whatever\u2019s left behind once we reconvene tomorrow morning. It looks like the rest of the team agrees too. I believe we\u2019ll find agreement pretty easily because no one disagrees with anything being proposed thus far. So, yeah\u2026",
+            "Thanks! I am looking forward to seeing where this goes also. Good luck with everything and see you tomorrow! Happy holidays!",
+            "Well thank you very much. I\u2019m definitely taking advantage of mine. And thank you for helping me out so much throughout this process. I couldn\u2019t have gotten anywhere without you guys\u2019 support. It means a lot to me. Have a great holiday season yourself! See ya!"
+        ],
+        "Utterances_B":[
+            "Yeah... I guess we could meet up tomorrow then. Let me just double check my schedule and get back to you. What time would you like to meet?",
+            "I actually had something come up last minute that was really important and unfortunately I won't be able to go to the meeting either. Can anyone else step in for me?",
+            "What time works best for everybody else? Maybe we should put everything into our calendars. That way nobody has excuses if they forget about it.",
+            "You got it! We've made lots of progress already. I hope we continue moving forward quickly since everyone seems willing to cooperate and compromise. There isn't much standing between us and success anymore. Just a few details left to clear up.",
+            "Okay, cool. Well thanks for bringing up these ideas! I appreciate having such a collaborative partner. I look forward to continuing to work with you. See you tomorrow!",
+            "Happy Holidays to you as well! Have fun wherever you decide to spend them.",
+            "Same thing to you! Talk to you tomorrow! Bye!"
+        ]
+    },
+    {
+        "Szenario":"Crisis\/Emergency - Medium Urgency",
+        "Run":1,
+        "MBTI_A":"INTJ",
+        "MBTI_B":"ENFP",
+        "Utterances_A":[
+            "I don't see why we have to wait until everyone else arrives before we start distributing these things. We know who needs them most right now. I think we're doing more harm than good if we sit around waiting here. If they were going to give us some sort of instructions as to how to do this properly then fine, but at least let's get started already! It seems like nothing has",
+            "Well ok, whatever works best for everybody. But I'm still gonna take charge over here while my team finishes up its own little mission. I'll probably get there faster alone anyways. So uh... thanks again for listening to me talk. Have fun saving lives!",
+            "Yeah, that makes sense. He did go to med school afterall. I hope he gets back soon though. I hate having to rely on strangers for help when I've got this many people needing attention.",
+            "About 30 minutes ago according to my watch. I wonder how many people have died during that period of time? Or perhaps how many more will die today? This whole thing is such a mess. I wish I knew more about medicine. Then I'd be able to fix these people myself.",
+            "You okay? Did you break anything? Is she dead?! No... oh thank God. She's only unconscious. She's breathing alright. But her pulse is very weak. I think she lost too much blood. We have to hurry. Can you carry her? I'll grab her backpack. There might be some bandages inside. We'll use those to patch her up.",
+            "Yes, yes. I understand completely. She was very brave. I'm glad she survived. Well, we're nearly finished here. The rest of the patients seem stable enough. They aren't bleeding badly anywhere except for one person whose arm looks broken. I'll splint that leg and wrap the bandage tightly round her shoulder. It's the best treatment we can offer for now.",
+            "No, no, no. I don\u2019t care what happened to the people who were killed. I\u2019m only interested in helping the living ones. I\u2019m sorry you\u2019ve had to deal with all kinds of tragedies yourself. But please remember that we\u2019re trying to save as many lives as possible. We\u2019ll never achieve that goal if we start mourning the dead."
+        ],
+        "Utterances_B":[
+            "Yeah well maybe there isn't anyone left alive anymore to tell us exactly where all those injured people are. Maybe no one sent out another search team yet? I mean... what would their point even be? Everyone will just die anyway because of lack of food and clean water eventually unless something happens soon. So yeah, either way it doesn't matter much since nobody could possibly stop me from doing anything useful",
+            "I'm sure we'll be able to save lots of lives together. That's what being part of a team does, after all. I trust our leader knows his stuff.",
+            "That sounds really hard. I guess once someone starts giving orders everything changes pretty quickly. It's kind of exciting actually. Like we finally feel productive doing something important instead of just sitting around worrying about others. How long do you think we'Ve been working here without any backup coming along? An hour? Two hours? What time is it now anyway? It feels like forever!",
+            "You're right. I wouldn't trade places with him for anything. He's gotta be exhausted. Let's try to conserve energy. Take short breaks every half hour. Drink plenty of fluids. And stay calm. We shouldn't panic. We're making progress! Just hang in there! We're almost done! I swear! We made it! Wait! Whoa! Oh god... that wasn",
+            "No problem. Here you go. I'll put her down gently. We better check if she's got a concussion. If so, she may lose consciousness again. We should lay her flat on her back. Her head hurts. She won't move a muscle. I don't hear anything wrong with her lungs. Her heart beat is also regular. I guess she didn't suffer any internal injuries.",
+            "Yes, yes, sir. Sorry, I couldn't resist saying that. But seriously. I suppose you guys have seen it all, haven't you? All sorts of terrible accidents. People killing each other over food. Children starving to death. Mothers dying in childbirth. Women raped. Men fighting. Bodies piled everywhere. Horrible, horrible things happening to innocent people.",
+            "Well, you sound confident, but I\u2019d rather not count on that. In fact, I\u2019m beginning to doubt whether we\u2019ll ever reach a decision here. We\u2019re talking past each other. I feel we need to compromise somehow. Otherwise neither side\u2019s getting anything done. And we definitely can\u2019t afford wasting precious time. We simply don\u2019t have time for arguments!"
+        ]
+    },
+    {
+        "Szenario":"Crisis\/Emergency - Medium Urgency",
+        "Run":2,
+        "MBTI_A":"INTJ",
+        "MBTI_B":"ENFP",
+        "Utterances_A":[
+            "Okay... I think we're gonna have to do some things differently. This guy over here says he's got a plan. We just gotta follow his lead. What does he suggest?",
+            "So let me see if I understand correctly. This guy thinks we should distribute medicines based on pre-earthquake health conditions rather than current ones? That doesn't seem very fair to me. What happens when someone has gotten better since then? Or worse off? How will anyone know where to send all these supplies? It sounds like chaos! And plus, wouldn't that mean that some injured people would still",
+            "I'm sorry sir, but no. I won't risk my life on some guy's hunches. There aren't nearly enough resources as-is without splitting up into teams to try and sort out each person individually. Plus, what guarantee do we have that this guy isn't just pulling one over on us again? Just wait until he comes up with another brilliant idea.",
+            "No, thank you Mr. X. I prefer to stick together. I believe in teamwork. Now excuse me while I go find Mr. Y. We've got much planning ahead of us. Good luck to you.",
+            "Alright. Fine. Just hurry up please. I don't feel well right now. I haven't eaten anything today and I'm starving. My stomach hurts badly. Can you get me some food later? Please?",
+            "It's alright. Just don't mention it ever again. And next time, try to talk sense into yourself instead of acting crazy. I hope you learned something valuable from this experience. Goodbye sir.",
+            "Oh sure. No problem. I enjoy talking to people. Especially those who speak English. I also love eating good food. Alright, let's finish up quickly and get home soon. I miss you guys."
+        ],
+        "Utterances_B":[
+            "We've been trying to figure out how many medical supplies there actually are. It looks like there might only be enough for half the population. That's if everything gets distributed equally. But we don't know who needs them more. People could die because they didn't get their medicine. So this guy wants us to go around asking everyone what kind of medical problems they had before the earthquake happened. Then",
+            "Oh come on man, give him a chance. He knows way more about psychology than you do. Maybe he'll even tell us something useful. If nothing else, at least we'd learn from our mistakes. Besides, he already did most of the work figuring out exactly which medical supplies were available, so why not trust his judgment?",
+            "You know, maybe I shouldn't call him that anymore. After all, he seems pretty smart anyway. Well okay, whatever. But I swear I'm going to get my own team working independently from now on. Because obviously relying on your colleagues is never safe.",
+            "Hey, hey calm down. You're scaring me. I'm fine. Don't worry. Let's take care of business real quick and then head back to base camp alright? Here, hold onto this bag full of bandages. They look important somehow.",
+            "Sure thing ma'am. I promise you. I am so sorry about that whole thing earlier though. It wasn't intentional. I thought we agreed to split up. Sorry about that.",
+            "Good bye madam. Have a nice day. Oh yeah and thanks for helping out with the medical supplies. I appreciate it. I guess I owe you dinner tonight after this is done. Unless you change your mind?",
+            "Me too ma'am. Me too. Well then let\u2019s go! Everyone grab a helmet and we\u2019ll leave as fast as possible. Remember to check every house for survivors. Some people may have escaped unnoticed during the chaos."
+        ]
+    },
+    {
+        "Szenario":"Crisis\/Emergency - Medium Urgency",
+        "Run":1,
+        "MBTI_A":"ISTJ",
+        "MBTI_B":"ESFP",
+        "Utterances_A":[
+            "I'm sorry, I just don't think this will work out well. We have to give everyone some of everything. If we leave anything out there's going to be chaos. And even if we do divide things up into groups... there isn't enough for everybody! It would still cause problems. People aren't gonna like being left out. And besides, what kind of message does that send?",
+            "What if someone tries to steal food? That could turn violent pretty fast! And then where am I supposed to go after that? I'd rather stay here than run off somewhere with nothing.",
+            "Alright, alright, whatever. Let\u2019s try it. But if anyone complains too much, you\u2019ll answer me. Got it? Now hand me those pills and we\u2019ll move on.",
+            "Thank you. Here are the antibiotics and painkillers. We\u2019re doing our best to get more in soon. I hope this helps. Take care of yourself. Don\u2019t forget to drink plenty of water. You won\u2019t feel good until you replenish your fluids. Good luck!",
+            "Okay, thanks. Have fun finding your family! I\u2019ll talk to you later.",
+            "Bye! See ya! Take care!",
+            "See you next time! Bye! I miss yoouu! Bye! Gotta go now! Bye! Later! Bye! Love you! Bye byebye! Bye! Sad face! Bye! Yay! Bye! Ok! Bye! Kiss kiss! Bye!"
+        ],
+        "Utterances_B":[
+            "I get all that, but I don't see how we're supposed to figure out who gets what when we only know half of the population! What makes us think they'll actually take their share anyway? How long before someone else takes it from them? This way at least everyone has something to eat, right?",
+            "You sound like you've been through worse. But seriously, look around you. We got lucky. There's no one here trying to kill each other over food. So let\u2019s split it as evenly as possible. Everyone gets a little bit. Nobody goes hungry. We\u2019re all safe.",
+            "Alright, I\u2019ve got a list here. I\u2019m giving these to whoever comes looking for them. Just pass it along. No arguing. We\u2019re not getting anywhere with that. Here you go.",
+            "Thanks. I appreciate that. Here\u2019s my number. Call me later tonight. If I haven\u2019t heard back by tomorrow morning, call again. Okay?",
+            "Bye-bye! I miss you already! See ya later!",
+            "Hey! Hey wait up! Hey! Hey! Wait up! I missed you already! Bye! Bye! See yah! Bye! Oh wow, I missed you! Bye! Byeeeee! Bye! Yaaayy! Bye bye! Bye! Yaayyy! Bye! Hey! Bye! Yo! Bye! Back! Bye! Missed u! Bye! Be! Bye",
+            "What did you do today? What happened? Where\u2019d you go? How were you guys? Did you hear from him yet? Are you okay? What happened?!?!?!!??!?!?!!!?!!!!?!?!!!??!?!?!?!?!!!?!?!?!?!??!?!??!??!?!????!?!?!?!!!!!!!!!!!!!???!?!?!? !!!!!!!!!!!!!"
+        ]
+    },
+    {
+        "Szenario":"Crisis\/Emergency - Medium Urgency",
+        "Run":2,
+        "MBTI_A":"ISTJ",
+        "MBTI_B":"ESFP",
+        "Utterances_A":[
+            "Okay then... Well I would like to take charge of this one. If we divide our duties according to these areas here, then we will have less confusion. I'll take the northern sector, and you can handle the southern part. It's important to stay in contact at all times though, because there could still be aftershocks. We also don't know how many casualties there might be yet",
+            "I think I've got a broken leg. This guy right here. He just had a heart attack. I'll call 911.",
+            "No thanks, he\u2019s fine now. I\u2019m gonna head back home and rest up. Thanks again, Person B. See ya tomorrow!",
+            "You too! Bye!",
+            "Yeah, yeah. I told him already. I swear when he gets better, I am going to break every bone in his body. He deserves it. I\u2019m done with him. I\u2019m outta here. See you around!",
+            "Bye! Good luck out there! Be careful! Remember to watch out for aftershocks!",
+            "Thanks man, same goes for you. Let\u2019s check in sometime soon, ok? See ya! Bye! Bye! Byeeeee! Bye-bye! Bye-bayy! Bye! Okie dokie lokie! Peace out!"
+        ],
+        "Utterances_B":[
+            "Yeah sure. I'm just saying maybe if someone else came along, they'd get confused. But yeah, alright, let's do it. I guess you're more familiar with this area anyway. I'll see you later, and good luck! Oh wait, where did you go? Are you okay? What happened?!",
+            "Okay, well I\u2019ll try to get some ambulances over here as soon as possible. In the meantime, do you guys need anything from me? Or is everything taken care of?",
+            "You\u2019re welcome. Have fun!",
+            "Alright, bye! Don\u2019t worry about him. I\u2019ve dealt with a few broken bones before. They heal quickly. Just make sure to put ice on them, elevate his legs, and give him plenty of fluids. And tell him no smoking, no alcohol, nothing until those bones start knitting themselves together. Got it?",
+            "Well, I\u2019m heading down south myself. Gotta set up base camp somewhere safe. So long! Take care!",
+            "I hear you. Be safe yourself! Call me when things settle down. We can meet each other up and figure out who has extra supplies. I mean, if anyone does. I hope everyone is okay. I\u2019ll miss talking to you, buddy.",
+            "Ok, see ya! Bye bye! Peace out, peace out! Okie Dokie Lokie! See ya! Peace out!!! Bye!!! Bye!!!! Bye!!!!!!!! Bye!!!!!!!! Bye!!!!!! Bye!!!! Bye!!!!! Bye!!!! Bye!!!! Bye!! Bye!!!!! Bye!!!!! Bye!!!!!!!! Bye!!! Bye! Bye!! Bye! Bye!!!!!!!! Bye!! Bye!!!!!!!! Bye! Bye!!!! Bye!!! Bye!!! bye!!!! Bye!!!!!"
+        ]
+    },
+    {
+        "Szenario":"Crisis\/Emergency - Medium Urgency",
+        "Run":1,
+        "MBTI_A":"ESTJ",
+        "MBTI_B":"INFP",
+        "Utterances_A":[
+            "I know we're short on supplies, but I think we have enough to take care of everybody here. It's just going to be tight.",
+            "It's true. But look at the bigger picture here. If we send everyone to one hospital, all of our resources would be focused in one place, leaving none available elsewhere. That could mean somebody gets hurt because we didn't have ambulances available when they needed them. And then where would those patients go? Back to their homes without proper treatment? No way! This isn't a good",
+            "They might, yes. But remember, we've been working overtime since yesterday morning. Everyone has done everything possible to save lives today. And most importantly, we still have some time left before nightfall. We can use that extra hour or two to transport as many injured people as we can to these nearby towns where they have better facilities equipped for emergencies like ours. If necessary, we can also call",
+            "That makes sense actually. It gives me another idea. Maybe we could set up checkpoints throughout the city limits so that no one goes beyond certain points unless absolutely necessary. Then once people reach one checkpoint, they stay put until further notice. They can wait at least four hours outside the town limit signs before being allowed into another district again. That way we won't overwhelm local hospitals with sudden influxes of",
+            "Great. Thanks. Here\u2019s my plan\u2026 First thing\u2019s first \u2013 we\u2019ll establish three main zones based off current population density levels: Zone One covers North Central City; Zone Two includes East Side Townships; finally, Zone Three spans West Coast Villages. In total, Zones One & Two together account for approximately half the affected area whereas Zone Three represents roughly one-third remaining territory. With regards to",
+            "Absolutely. Absolutely. Actually, I already did. When it comes down to making decisions, we prioritize treating children above adults whenever possible simply due to biological reasons associated with survival chances depending upon severity of injuries sustained versus overall health condition prior incident occurrence. Also, pregnant women fall under top tier category followed closely behind elderly individuals who require special attention because of pre-existing conditions which may complicate recovery process significantly especially",
+            "You bet I do. There\u2019s this guy named Steve who runs a non-profit organization called \u201cEmergency Services Network\u201d (ESN). He used to work for FEMA back in the day before he retired several years ago citing family commitments amongst other things. Ever since retirement, he\u2019s dedicated himself full-time helping out wherever disasters strike across country line. He has contacts pretty much anywhere you can imagine including military"
+        ],
+        "Utterances_B":[
+            "I don't see how this will work out though... We only got one ambulance. And there are two hospitals over 50 miles away from us. How do we get everyone who needs treatment there? We'd have to split them up between the two places, which means they'll lose precious time getting back home after their treatment. And besides, if anything happens while they're traveling there, nobody",
+            "But what if someone had something more serious than broken bones? What if they needed surgery right now?!",
+            "Yeah, yeah. But we shouldn't count on that happening. Besides, sending everyone everywhere else sounds risky too. Not knowing whether anyone made it safely somewhere else wouldn't feel very comforting either. Maybe we should try to organize ourselves differently instead? Like maybe having teams assigned specific areas within walking distance around each town center? That way, even if someone gets lost during rush hour traffic or whatever, they",
+            "That's brilliant! I wish I thought of that earlier. Well, let's get started then.",
+            "Okay. Alright. So basically you\u2019re saying we\u2019ll concentrate efforts primarily towards North Central City and East Side Towns since they house larger populations relative to others. Gotcha. Makes perfect sense. Let\u2019s continue discussing logistics regarding transportation methods etcetera afterwards. For now though, let me ask you this: Have you considered implementing any sort of priority system amongst various categories such as age groups or medical",
+            "Thank goodness. Good thinking. Now, speaking of which, do you happen to know anybody locally involved with volunteer organizations capable providing assistance during crisis situations? Because ideally, we\u2019d prefer not relying solely on government agencies alone considering recent events surrounding budget cuts affecting federal funding allocation specifically targeted toward social services sector recently passed last month via congressional vote approval...",
+            "Great! Okay great! Sounds good. I\u2019m sure ESN will come in handy later on anyway. Alright, well thank you for taking the lead on this matter. You\u2019ve given excellent input thus far. I hope nothing changes drastically between now tomorrow morning at 8am sharp when we meet back here again. If anything does change dramatically however, please feel free contacting me personally anytime using mobile number"
+        ]
+    },
+    {
+        "Szenario":"Crisis\/Emergency - Medium Urgency",
+        "Run":2,
+        "MBTI_A":"ESTJ",
+        "MBTI_B":"INFP",
+        "Utterances_A":[
+            "I'm pretty sure we've got enough supplies at hand, I don't think there's much else needed here. We're just going to have to send them out. But how? We'll probably only get a few trucks today, maybe even tomorrow if they're stuck somewhere else. We could use a helicopter, but I don't know who has one... There isn't time to wait though,",
+            "Alright then. Let me check the maps again. This way will take us past two towns, each with 200 houses. The road is quite narrow between them, but that's ok. We should also stop off at some local aid stations along the route, they may have more supplies than we thought. And let's try to avoid any roads that are likely to collapse. That should give",
+            "Ok, well let's head down that path. There are several villages ahead, I'd estimate around five hundred inhabitants total. They definitely deserve assistance as much as everyone else does. We'll set up base camp near the middle village. From there, we can split into groups and distribute the supplies evenly. One group can travel towards the east while another heads west. We can meet back up later tonight",
+            "What's that? Did he see something strange? He doesn't sound too confident. Well whatever it is, it seems to be moving closer. We better watch ourselves. Don't touch any fallen trees or rocks. We never know what kind of damage they might have sustained during the quake. I feel like the earth hasn't stopped shaking yet. This disaster keeps giving us surprises. We better be careful",
+            "You're right, it's best not to panic. We should continue forward and assess the situation from afar. If necessary, we can always retreat and come back later. But let's not jump to conclusions. The last thing we need is unnecessary tension. Everyone needs to relax and concentrate on their tasks. If anyone feels uncomfortable, tell me immediately. I'll arrange for some extra guards. Safety comes",
+            "That's very generous of you, but I think we should leave security details to higher-ups. After all, it involves coordinating multiple units and personnel. We need clear instructions on how many men and women to dispatch, what equipment to carry, etc. That sort of planning requires expertise beyond our current capabilities. Of course, I'm happy to assist whenever I can, but I'm afraid I've got",
+            "Okay, let's begin. I\u2019ll drive the truck straight onto the main street. The villagers should recognize our vehicle \u2013 it\u2019s painted yellow and has a big logo on the side. They\u2019re familiar with the brand name. Once inside the town limits, please park beside the church building. It\u2019s a landmark that stands tall above the surrounding structures. People should easily spot us there. Then, I"
+        ],
+        "Utterances_B":[
+            "I hear ya man! It's tough because this area needs immediate attention, especially since it's the epicenter. The problem is these earthquakes usually bring aftershocks which could cause further destruction and injuries. We shouldn't waste our resources. If anything happens after sending those supplies over, we won't be able to do anything right away. What do you suggest? We gotta work together on this one",
+            "That sounds like a good idea, let's go. Just remember, no matter where we decide to send the stuff, it still might not reach its destination. We can't control everything that goes wrong in disasters. But at least we did something. Maybe someone gets saved. And when all hell breaks loose, we wouldn't regret having tried. So, shall we go? I hate being idle.",
+            "Alright, great idea. I guess I'll lead the eastern team then. Let's move fast, but safely. We need to cover ground quickly before nightfall. It would be terrible to have to spend another day waiting. We can rest once we arrive at the next town. We should stay alert for signs of danger. Earthquakes aren't done yet. And now that you mention it,",
+            "Yeah, yeah. I already told you guys. I didn't mean anything bad by my comment earlier. It wasn't directed toward you personally. I meant it generally, you know. No hard feelings. We've been through worse situations than this. As long as we remain calm and focused, we can deal with most challenges thrown our way. Remember, we're dealing with life and death matters here",
+            "Thanks, sir. We appreciate your efforts to keep things running smoothly. I hope you understand why we had to ask questions earlier. We were just trying to prepare for potential dangers. But I believe we've learned our lesson now. We promise to be more cautious in future operations. In fact, I'd like to propose assigning a dedicated security detail for every mission from now on. That way, we",
+            "Sure, that works fine. I'll put you in charge of the western team. Since you seem to have experience working in challenging environments, I trust you'll handle things efficiently. Please coordinate closely with your colleagues and report any issues promptly. We cannot afford delays in this critical operation. Every second counts. Now let's get started. Follow me and stick close to the truck. We're almost there",
+            "Right, exactly. We\u2019ve covered the basics\u2014food, water, blankets, bandages, medicines, and basic tools. These items are essential for survival. However, given the circumstances, we should consider adding some additional supplies. For instance, portable stoves, cooking utensils, flashlights, batteries, and spare clothing. People may require shelter from the elements. Also, we should allocate some"
+        ]
+    },
+    {
+        "Szenario":"Residential\/Community - High Urgency",
+        "Run":1,
+        "MBTI_A":"INTJ",
+        "MBTI_B":"ENFP",
+        "Utterances_A":[
+            "I'm fine. I think we're both fine. But that's no excuse for not following orders. If there wasn't an outbreak, people wouldn't have to do anything. It would just go back to normal. We'd all be able to live our lives freely without worrying about getting sick. So, yeah... It makes sense. But still... What if someone else gets sick? Then they",
+            "You're right. No one can predict when someone might catch some kind of virus. That could really ruin my day, especially since I work out here almost every single day. I've already been exposed to many different kinds of germs throughout the years. So now that I know how serious this disease is, I feel like I need to take extra precautions to protect myself against it. Besides, I",
+            "Oh yes, that story has gone around town. Everyone knows about it. He\u2019s pretty stupid. I hope they fire him immediately. If anyone deserves losing their job, it\u2019d be him. He doesn\u2019t care about himself enough to follow basic safety guidelines. That shows me that he\u2019s careless and irresponsible. I guess he wants to show everyone that he doesn\u2019t give two shits about what others",
+            "That\u2019s what happens when someone tries to use excuses as an excuse. I bet the policeman didn\u2019t believe her. Maybe he thought she was making up stories to avoid paying the ticket. People nowadays seem to be lazy. They\u2019re unwilling to listen carefully to instructions, which results in misunderstandings. I\u2019ve met several people who didn\u2019t read signs clearly before. Instead, they just assumed they knew what",
+            "Yes, definitely. I totally agree with you. I also believe that everybody needs to do whatever they can to help slow the spread of diseases. Wearing masks isn\u2019t much trouble compared to staying home forever. As long as we continue practicing social distancing measures, hopefully cases will decrease rapidly. I think once hospitals become less crowded, doctors will have better chances to save patients\u2019 lives. Once that happens",
+            "Exactly. That\u2019s why it\u2019s crucial to cooperate with authorities whenever necessary. If we all try to protect ourselves first, nobody will survive. But if we prioritize helping others, eventually we\u2019ll overcome this crisis together. Only united, can we defeat evil.",
+            "Absolutely. People tend to panic under pressure, leading them to make rash choices detrimental towards themselves and others alike. That\u2019s precisely reason why democracy exists\u2014to ensure that majority rule prevails without compromising freedoms enjoyed individually by members comprising entire population. Unfortunately, many politicians abuse power granted them unfairly, causing chaos amongst citizenry. This is precisely reason why strong leadership matters greatly during crises\u2014because weak leaders lead societies"
+        ],
+        "Utterances_B":[
+            "Oh, come on! That'll never happen again! They were only doing their job! And besides, even though masks aren't 100% effective, at least something will prevent them from spreading germs. So why not comply? Just put it over your nose and mouth, and everything will be okay.",
+            "You mean you didn't get the flu last year? Oh wow, lucky you! That means you probably won\u2019t ever get infected with coronavirus either! I\u2019m jealous of you! I wish I had such good luck too. Well anyway\u2026 Let\u2019s talk about something else then. Did you hear about the guy who got fired because he refused to wear his mask while working? His boss told him off",
+            "I agree. It\u2019s very unfortunate that people sometimes act selfishly instead of thinking about those around us. In fact, I heard another person being fined today for refusing to stay six feet away from others. I thought that was ridiculous. She claimed she couldn\u2019t understand English properly, so she didn\u2019t realize what sign meant. I wonder if the police officer believed her or not. I hope he did",
+            "Well, maybe next time these people decide not to pay attention to warning signs, they\u2019ll regret it later. I hope more and more people learn valuable lessons from mistakes made recently. I truly hope things settle down soon. Right now, everyone seems stressed out. Nobody feels safe anymore. Even though wearing face coverings may irritate most people, at least it helps stop the spread of illnesses.",
+            "Yes, exactly. When there aren\u2019t as many patients needing treatment simultaneously, medical professionals can focus on each individual case separately. This way, doctors will be able to provide quality healthcare services faster than usual. I think that\u2019s the best thing that can happen during pandemics \u2013 having sufficient resources available for treating sick people efficiently. Otherwise, society could collapse completely within weeks due to lack of medical supplies.",
+            "Exactly! There\u2019s power in numbers. By supporting one another, we create stronger communities capable of surviving disasters. Without unity among citizens, governments cannot function effectively. Therefore, it\u2019s important to support leaders who make sound decisions based on facts rather than emotions. We shouldn\u2019t blindly follow rules set forth arbitrarily without questioning whether they actually benefit humanity as whole.",
+            "That sounds reasonable. However, I worry about the potential negative effects associated with authoritarian regimes. For example, North Korea has strict control over its populace, yet it suffers economically due to isolationist policies implemented decades ago. South Korea, however, thrives thanks largely to economic liberalization allowing free trade agreements beneficial to global markets. Hence, excessive government interference tends discourage entrepreneurship essential for prosperity."
+        ]
+    },
+    {
+        "Szenario":"Residential\/Community - High Urgency",
+        "Run":2,
+        "MBTI_A":"INTJ",
+        "MBTI_B":"ENFP",
+        "Utterances_A":[
+            "I'm sorry, I didn't know that. But why do we have to? What's wrong if I take my mask off for just one second? It isn't like anyone will notice!",
+            "But why does it matter? I've been here all day long without having anything happen to me. This virus has only affected a small number of people anyway. I doubt it'll come around here. Besides, nobody knows if this virus even exists at all. We probably won't ever catch something anyway. So relax! Don't worry about little things! It doesn't matter! It's okay!",
+            "What did you mean when you said that? Why would you threaten me like that?! How dare you?! I'm going to call security! You're acting ridiculous! Just put your mask on already! I really don't care anymore! Go ahead! Take it off! That's exactly what you wanted, wasn't it? Well, you got it! Here, take it off! Have fun catching",
+            "Wait. Wait. I\u2019m getting angry again. No way am I letting you walk away. You\u2019ve insulted me once more today. You can\u2019t just pretend nothing happened. I demand an apology. Tell me where you stand. Apologize or I swear I\u2019ll beat you up! I don\u2019t give a damn whether I die or not! I\u2019m not afraid of dying! I\u2019m",
+            "You\u2019re not making sense right now. Why would you suddenly decide to walk away?! Did you just give up? Or were you planning on leaving earlier anyway? I thought you\u2019d stay until closing time? What gives?",
+            "Hey! What did you just say?! I heard you! Don\u2019t talk to me like that! That\u2019s low. Really low! I can\u2019t believe you! How dare you! I\u2019m warning you\u2026 I\u2019m warning everybody in this store\u2026 Everyone\u2019s gonna hear you talk about me like that. I can see all those eyes over there staring at us\u2026 And they\u2019re all thinking about what",
+            "No no no. You haven\u2019t heard everything yet! I still haven\u2019t finished what I wanted to say! You\u2019re not getting rid of me that easy! You\u2019re gonna pay for what you said about me! I\u2019m gonna make sure you never forget about this! I\u2019m telling you\u2026 I promise you\u2026 You are not getting away with this\u2026 You\u2019re gonna regret it\u2026 You\u2019re not"
+        ],
+        "Utterances_B":[
+            "I noticed you took your mask off, sir. I hope you're aware of how dangerous viruses can spread easily without wearing masks. They can travel up to three feet away from someone who is infected... And they could get into your lungs pretty fast...  And then you might start feeling sick. So please, put your mask back on immediately, before you cause yourself harm. Please. Put it back",
+            "Are you serious right now? You think you shouldn't bother putting on a mask because maybe some random person out there somewhere may or may not be carrying an invisible virus that can kill them? Seriously? You're not being responsible! You need to put it back on! Now! Before it gets too late! Put it back on, or else! If you refuse, then fine. I guess it",
+            "Hey, hey calm down. Look, man. I\u2019m not trying to fight with you. I\u2019ve had enough with these stupid rules myself. You\u2019re free to go ahead and remove your mask whenever you want to. Nobody\u2019s stopping you. But honestly, dude, if you take another step forward, I\u2019ll punch you in the face. You\u2019ve made your point. Now let\u2019s both leave",
+            "You know what? Forget it. I quit. Let\u2019s go.",
+            "What gave? I don\u2019t see why I gotta listen to you! Just go ahead and take your mask off if you wanna risk it. I\u2019m done talking to you. I\u2019m gonna leave. I hate you. You\u2019re such a jerk. You don\u2019t deserve respect. People like you don\u2019t belong anywhere. I hope the virus finds you soon. You\u2019re asking for it! Bye bye",
+            "Okay, cool. Whatever. Happy? Then shut up! Leave me alone! You\u2019re wasting my time!",
+            "Shut up, man. You sound crazy. I don\u2019t want to hear anymore. I\u2019m gone. I\u2019m outta here. I\u2019m tired of listening to you. Get lost. You\u2019re giving me a headache. I\u2019m leaving. I\u2019m quitting. I\u2019m walking away. I\u2019m checking out. Bye-bye. See ya later."
+        ]
+    },
+    {
+        "Szenario":"Residential\/Community - High Urgency",
+        "Run":1,
+        "MBTI_A":"ISTJ",
+        "MBTI_B":"ESFP",
+        "Utterances_A":[
+            "Well... I just think that if we're going to go out into the world anyway, then there's no point to wearing masks. Besides, they make me feel like I can\u2019t breathe!",
+            "Oh, okay. Sorry, man. That wasn't very nice of me. Here\u2019s mine. Put yours on, will ya? We gotta look out for each other during these times. Just give it some time, and things\u2019ll settle down soon enough.",
+            "Sure thing. Hey, how long have you been here today? It seems like forever since we got here. Are you getting tired yet?",
+            "I dunno. I guess everybody has his own opinion on stuff like that. Personally, I\u2019d rather take care of myself than worry about what others might decide to do. I try hard never to judge anyone unless I absolutely have to. Most folks aren\u2019t bad guys. I believe most people are actually pretty decent once you talk to them. There\u2019s nothing wrong with trusting strangers. It keeps us",
+            "You\u2019re right, and besides, I bet they\u2019re not really doing it to hurt anybody. Maybe they just don\u2019t realize how dangerous it is. Or maybe they\u2019re not aware that they\u2019re breaking the rules. Either way, it still makes me uncomfortable. Especially since we live in such close proximity as neighbors. You ever had a run-in with your neighbors before? Like, an argument or something",
+            "Yeah, well, that sounds familiar. I also felt that same way about you. It took us a little bit longer to warm up to each other. In fact, I think we\u2019re only starting to become friends now. It takes time sometimes, but eventually, we\u2019ll figure it out. We have to learn to let people be themselves. We shouldn\u2019t jump to conclusions based on stereotypes. Nobody",
+            "No kidding! Oh, wow, you sound just like me! It\u2019s amazing how alike we are. No wonder we hit it off so quickly. Maybe it\u2019s karma or destiny or something. It sure feels like fate brought us together somehow. Have you ever heard of the old saying \u201copposites attract?\u201d Well, apparently, opposites don\u2019t necessarily attract. Sometimes, like in our case,"
+        ],
+        "Utterances_B":[
+            "Well, I'm sorry about that. But my doctor told me that I have to do everything possible to prevent myself from catching anything right now. And for me, that means wearing a mask. So I really need you to please put one back on. It would mean a lot to me. I know it doesn't seem important to you, but it does matter to me. Can you at least",
+            "Yeah, maybe. Anyway, thanks again. I\u2019m glad you\u2019re being such a good sport. Let\u2019s get our shopping done, shall we?",
+            "Not too much. How bout you? You gonna start heading home already? I\u2019ve heard all kinds of rumors lately about people taking off their masks while walking around outside, especially when nobody else is nearby. People say it happens quite often, even though it\u2019s against the law. I hope it isn\u2019t true. I hate those kind of stories. They make me nervous. What do you think?",
+            "Hey, I hear you. I agree totally. It\u2019s crazy thinking that someone could possibly hurt you nowadays. It\u2019s not natural. We were built differently. We evolved over millions of years to survive and thrive together. If we didn\u2019t trust one another, humanity wouldn\u2019t exist anymore. It\u2019s just human nature to help each other out whenever we can. People who don\u2019t trust others are probably",
+            "Nope. Never. Not until recently, anyway. But yeah, I see where you\u2019re coming from. When we first moved next door to each other, we both kept to ourselves because neither of us knew exactly what to expect from the other person. I remember feeling kind of wary of her. She seemed like she wanted to come across as more friendly than she really was. I thought she was",
+            "That\u2019s great advice. Thanks. Hey, speaking of which, did you tell her how you feel about her? I know she likes you, and I want her to be happy. I wish I had the courage to ask her out sometime soon. It would be fun having two people interested in me. I wonder how many other people have feelings for me, but haven\u2019t asked me out yet.",
+            "I love this place! Did you grow up near here? I used to visit all the time growing up. My parents loved to bring me to the beach. It reminds me of home every time I walk past the ocean. Isn\u2019t that funny? This area looks different to me now that I\u2019m older. Back then, it looked completely different. Everything seemed bigger, brighter, and fuller of life"
+        ]
+    },
+    {
+        "Szenario":"Residential\/Community - High Urgency",
+        "Run":2,
+        "MBTI_A":"ISTJ",
+        "MBTI_B":"ESFP",
+        "Utterances_A":[
+            "I know that, but I'm just worried about my health. I have asthma. If something bad happens here, I'll probably die. And then there will be no one left to take care of you. So... can we please go back home?",
+            "Well, fine. We\u2019ll stay at home for now. I guess you win. But if anyone comes over while we\u2019re gone, tell them that we\u2019re not available right now. They won\u2019t understand why though. Because we were going to leave anyway. But yeah, I think maybe we\u2019ll go somewhere else. Maybe we could find someplace outside where people aren\u2019t wearing masks anymore.",
+            "No, nothing happened yet. She doesn\u2019t know about our little adventure together. We\u2019ve been seeing each other secretly since last week. But I\u2019m still trying to figure her out. I mean, she seems really sweet and nice most of the time. But sometimes I catch her staring at another guy. And once she even told me that she misses someone who lives nearby. I asked her who it",
+            "What does that mean? Are you two planning on doing something more serious than just having sex behind his back? Is that what this whole thing is about? Is she thinking about leaving her family forever? Oh God, this isn\u2019t good. This can\u2019t be happening. Not to me. I haven\u2019t even met her family yet. How am I supposed to live with her without meeting them first?",
+            "Wait a minute. You\u2019re telling me that she wants to leave her husband and children behind for you? What kind of person would do such a thing?! And why didn\u2019t she ever mention anything to me before? Does she even consider me as part of her life? No wonder she acts so distant towards me lately. She\u2019s been playing both sides against each other all along. That\u2019s so unfair",
+            "Yeah, but she shouldn\u2019t make decisions based only on feelings. She needs to think logically. Especially when it involves her kids. If she leaves, she\u2019s abandoning them. They\u2019re already growing up without their father around. It wouldn\u2019t be fair to put them under additional stress by moving across town. They deserve stability.",
+            "That sounds promising. I hope she\u2019s right. But I wish she\u2019d listen to me for once. I feel like I\u2019m being ignored completely. I don\u2019T think I can handle living with secrets like this. I need honesty and transparency. Otherwise, I\u2019ll lose faith in her completely. I\u2019m afraid I\u2019ll wake up tomorrow morning feeling lonely and betrayed. That\u2019s what happened the last time"
+        ],
+        "Utterances_B":[
+            "Well, alright, let's do whatever you want. Just get outta here. But when we get home, you're taking off all those masks! I swear! You\u2019re gonna have to take them off before I even give you a hug. That\u2019s how much I hate these things! It\u2019s like they\u2019re trying to kill us, man. They\u2019re suffocating me. Seriously,",
+            "Yeah, sure thing. Why did you decide to come visit today anyways? Did anything happen between you and your wife recently? Or maybe she found out about your secret life and decided to break up with you?",
+            "I thought she meant her husband. But she denied it. I don\u2019t believe her. She\u2019s lying again. And she knows very well that I\u2019m suspicious. But instead of talking to me honestly, she keeps pretending everything is okay. It makes me mad because I love her too much. But she\u2019s making it hard for me to show it. I need to talk to her tonight. And",
+            "It\u2019s complicated. I don\u2019 t know exactly myself. But yes, we might be getting married soon. I didn\u2019t realize until yesterday evening, actually. I saw her sitting alone on a park bench looking upset. I went over to comfort her and then kissed her. She kissed me back, and from then on everything became clear. I knew she loved me. But I also knew that I",
+            "Listen, you have to trust me. She wouldn\u2019t do something like that unless she had a really solid reason for it. Believe me. I\u2019d never ask her to do something that would hurt others. I promise you. She loves you deeply. She\u2019s just confused about whether staying with him is better or running away is better. That\u2019s why she hasn\u2019t made up her mind yet. She",
+            "You\u2019re absolutely right. That\u2019s definitely something she has to consider carefully. But she believes that being with me is worth risking it. She thinks it\u2019ll help bring her family closer together eventually. She\u2019s convinced that he\u2019ll change if she sticks around long enough. She hopes he\u2019ll become more responsible and stop drinking alcohol all the time.",
+            "Oh, honey. Don\u2019t worry about it. I\u2019ll try my best to convince her to open up to you again. I\u2019ll remind her how important it is for friends to communicate openly. I\u2019ll encourage her to share her problems with you rather than keeping quiet about them. Please forgive me for not saying anything sooner. I tried my hardest to protect your relationship. But now that I know the"
+        ]
+    },
+    {
+        "Szenario":"Residential\/Community - High Urgency",
+        "Run":1,
+        "MBTI_A":"ESTJ",
+        "MBTI_B":"INFP",
+        "Utterances_A":[
+            "I'm just trying to stay healthy, that's all. I mean... look at yourself! You're coughing up a lung right there! Don't tell me you didn't catch anything from your last trip out? What if you gave it to me?!  I wouldn't have a job anymore, man! I'd lose my pay check for sure. So please, just do us both a",
+            "Alright, alright. I hear ya. But seriously, buddy. Just put that damn thing back over your face before someone gets sick off of you. We can't let this spread further than necessary. That's why they made this rule in the first place. And I'll help you find another option if you really hate how it fits. But until then, just wear it. For our own good",
+            "Okay, cool beans. Just make sure nobody catches anything from you while you\u2019re at it. Otherwise, you might have to call in sick again.",
+            "No, no, hold on. Just let me finish talking about the subject. Okay? So anyway, I think it\u2019d actually be better to just stick with this one instead of getting a different kind. Because if you change your mind halfway through, then you may never get used to whatever alternative version of this item you chose. Instead, just tough it out and try to adapt. Like you\u2019ve",
+            "Exactly. And besides, who wants to spend their whole life being a germaphobe anyway? Not me. Nobody likes dealing with sicknesses. Even if sometimes it\u2019s unavoidable, which is often the case with certain viruses. In fact, I think that\u2019s part of what makes humanity so resilient as a species. We learn from past mistakes and use that knowledge to avoid making similar errors in the future",
+            "And speaking of that, isn\u2019t that the whole reason behind social distancing measures like quarantining ourselves indoors whenever possible? To prevent the spread of germs among crowds of people? Isn\u2019t that essentially what you were doing today? Wearing a mask and staying away from others until you felt confident enough that you weren\u2019t contagious anymore?",
+            "Well, at least you managed to grab some essential supplies. That wasn\u2019t such a terrible outcome. At least you avoided wasting money buying unnecessary stuff. And you probably saved yourself quite a bit of time by avoiding crowded areas altogether. Which means you probably came home faster than usual. Right?"
+        ],
+        "Utterances_B":[
+            "Alright alright, alright alright, calm down. I know we need to take precautions during these times. But honestly, I've been wearing masks forever and ever since I could remember. This one just feels too tight around here. Can't breathe. It's suffocating. Maybe give me some time to adjust. Or maybe find something else I can wear. Something less restrictive. Please, no more",
+            "No problem. Thanks again for taking care of me. I appreciate everything you did. Let\u2019s go shopping now. Oh wait\u2026 where am I going with this? Oh yeah. Let\u2019s get you some of those cloth ones. I\u2019ll try them on. If I still feel uncomfortable afterwards, then okay, I will comply. But otherwise, I\u2019m sticking with this one. It\u2019s fine.",
+            "Yeah, well. It depends. If I start feeling bad later tonight, then I probably won\u2019t come into work tomorrow. Then again though, if I just got over an illness recently and already recovered, then chances are pretty slim that I would pass anything along. Either way, it shouldn\u2019t affect much because even when people do get sick, most folks only miss two or three days tops. And",
+            "You know what? I guess I see your point. I suppose you\u2019re right. If I want to continue living comfortably, without having to worry about catching colds constantly, then I need to suck it up and deal with things. Especially considering how long it takes for people to recover from common illnesses nowadays. I mean, it\u2019s not like I\u2019m gonna get hit by a bus or anything.",
+            "That sounds about right. And hey, thanks for reminding me. It definitely helps remind myself to practice good hygiene habits. Like washing hands regularly and covering mouths when sneezing or coughing. And yes, I totally agree with you. There has gotta be something wrong with me if I haven\u2019t caught a single cold within the span of several years.",
+            "I guess you could say that. But I also wanted to save money. I didn\u2019t buy anything today except for some toilet paper. Seriously, I didn\u2019t bring any cash with me either. I had to rely solely on my debit card. So obviously, I couldn\u2019t afford very many items due to limited funds.",
+            "Right you are, sir. And thank goodness you\u2019re finally seeing eye-to-eye with me on this issue. It took you a little longer to convince me than expected. But in the end, I believe you proved once-and-for-all that it\u2019s important to listen to other perspectives and respect differences between individuals. After all, everyone responds differently to external stimuli, especially when faced with unfamiliar situations like pandemic"
+        ]
+    },
+    {
+        "Szenario":"Residential\/Community - High Urgency",
+        "Run":2,
+        "MBTI_A":"ESTJ",
+        "MBTI_B":"INFP",
+        "Utterances_A":[
+            "I'm not really feeling well today. I think I've caught something from one of my coworkers. I just wanted to come out for some fresh air. Besides, masks aren't that great. They're uncomfortable and they make talking difficult. I'd rather take my chances without them. I'll probably go back home soon anyway.",
+            "Thanks for asking about me, but no need to worry about getting medical help right now. I can wait until tomorrow before going to see the doctor if necessary. I doubt anything serious will happen unless there's already been an epidemic where I work. In fact, most people who catch colds only stay sick for three or four days tops. That's why I thought it might be okay to skip masking",
+            "Oh, hi there. Yeah, I brought a couple of packages of cookies along with me as usual. I got some chocolate chip ones and some oatmeal raisin ones. Both are pretty good treats. Why don't you grab yourself some while I finish paying for these groceries?",
+            "Hey hey, watch where you step! You almost stepped on me! I didn't realize anyone else came through the door behind us. Oopsie. Sorry. How are you holding up? Still feeling better? I hope so. Here\u2019s another package of cookies for you. Have fun munching!",
+            "Don\u2019t mention it, B. Honestly, I enjoy having company while I shop around here. It keeps me awake and alert. Plus, we both like cookies so we usually end up eating quite a bit of them together. So you weren\u2019t actually a bother at all. Just a pleasure to have you with me. Don\u2019t stress yourself about it. It doesn\u2019t matter.",
+            "No problem. No worries. Just tell me anytime you\u2019d like to join me. We\u2019ll share whatever we bought between us and split the bill 50\/50. Happy shopping!",
+            "Bye! Take care!"
+        ],
+        "Utterances_B":[
+            "I know how you feel! I hate wearing those things too... It's hard enough to talk when we have a face full of food. But seriously though, do you want me to call an ambulance? Or maybe we could go get you checked up at our local hospital? We shouldn't ignore signs of illness. That would be unwise.",
+            "So, let's assume that everything goes according to plan here, then. What did you bring with you today? Anything delicious? I heard the smell of baked goods wafting over into my direction earlier. Did someone buy cookies again? Oh, I love cookies. Especially chocolate chip ones. And raisin walnut ones. Those are fantastic. Mmm... raisins... yummy...",
+            "Sounds nice. I haven't had a cookie yet today, although I did have a bagel with cream cheese and strawberry jam. Yum! So satisfying. Anyway, sure thing. Thanks for letting me tag along with you shopping. This makes the time pass much more quickly than otherwise. If I were alone doing all of this stuff, it wouldn't even cross my mind to try some tasty snacks",
+            "Thank you very much. I appreciate you giving me some extra cookies. They\u2019re always welcome. By the way, I\u2019m sorry for being such a burden to you during the whole trip. I guess it wasn\u2019t worth bringing me along since you\u2019ve already done so much for me already. I promise to be less trouble next time. I\u2019ll definitely pay attention to you more closely in the future.",
+            "Well thank you. I really appreciate you saying that. I know you mean it sincerely. It means a lot to hear that kind of encouragement from others. You made my day. Now that I know you care, I won\u2019t hesitate to ask you for favors whenever I run short on cash or if I ever get hungry.",
+            "Okay, thanks. I will. Bye now. Nice meeting you. See ya later!",
+            "You too! Hope you find some nice cookies down there!"
+        ]
+    }
+]

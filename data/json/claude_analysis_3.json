@@ -1,0 +1,666 @@
+{
+    "dialogues": [
+        {
+            "global_id": 13,
+            "codings": [
+                {
+                    "text_segment": "If there wasn't an outbreak, people wouldn't have to do anything. It would just go back to normal. We'd all be able to live our lives freely without worrying about getting sick.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, present-day practical reality and returning to normal life, matching the realistic and present-oriented keywords."
+                },
+                {
+                    "text_segment": "What if someone else gets sick?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses concern for others' wellbeing, matching the empathetic and compassionate keywords."
+                },
+                {
+                    "text_segment": "Oh, come on! That'll never happen again! They were only doing their job! And besides, even though masks aren't 100% effective, at least something will prevent them from spreading germs. So why not comply?",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Presents a logical, reasonable argument for compliance based on practical effectiveness, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "Just put it over your nose and mouth, and everything will be okay.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Gives concrete, practical, action-oriented instruction, matching the concrete and practical keywords."
+                },
+                {
+                    "text_segment": "I feel like I need to take extra precautions to protect myself against it.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Shows a planful, systematic approach to personal safety, matching the systematic and methodical keywords."
+                },
+                {
+                    "text_segment": "He doesn't care about himself enough to follow basic safety guidelines. That shows me that he's careless and irresponsible.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Makes a critical, objective judgment about another person's behavior based on logical standards, matching the critical and objective keywords."
+                },
+                {
+                    "text_segment": "It's very unfortunate that people sometimes act selfishly instead of thinking about those around us.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses empathy and concern for the community, matching the empathetic and compassionate keywords."
+                },
+                {
+                    "text_segment": "People nowadays seem to be lazy. They're unwilling to listen carefully to instructions, which results in misunderstandings.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Criticizes lack of adherence to structured rules and instructions, reflecting a preference for methodical and scheduled behavior."
+                },
+                {
+                    "text_segment": "I truly hope things settle down soon. Right now, everyone seems stressed out. Nobody feels safe anymore.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses tender-hearted concern for the emotional state of the community, matching the compassionate and accepting keywords."
+                },
+                {
+                    "text_segment": "I also believe that everybody needs to do whatever they can to help slow the spread of diseases. Wearing masks isn't much trouble compared to staying home forever.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on practical, concrete actions in the present situation, matching the practical and present-oriented keywords."
+                },
+                {
+                    "text_segment": "When there aren't as many patients needing treatment simultaneously, medical professionals can focus on each individual case separately. This way, doctors will be able to provide quality healthcare services faster than usual.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Presents a logical, systematic analysis of healthcare efficiency, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "Only united, can we defeat evil.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Uses emotionally charged, values-based language about unity and collective good, matching the subjective and tender-hearted keywords."
+                },
+                {
+                    "text_segment": "By supporting one another, we create stronger communities capable of surviving disasters. Without unity among citizens, governments cannot function effectively.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes communal support and collective wellbeing, matching the empathetic and accommodating keywords."
+                },
+                {
+                    "text_segment": "it's important to support leaders who make sound decisions based on facts rather than emotions.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Explicitly values fact-based, logical decision-making over emotional reasoning, matching the logical and objective keywords."
+                },
+                {
+                    "text_segment": "That's precisely reason why democracy exists\u2014to ensure that majority rule prevails without compromising freedoms enjoyed individually by members comprising entire population.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Engages in abstract, principled reasoning about governance and individual rights, matching the logical and objective keywords."
+                },
+                {
+                    "text_segment": "North Korea has strict control over its populace, yet it suffers economically due to isolationist policies implemented decades ago. South Korea, however, thrives thanks largely to economic liberalization allowing free trade agreements beneficial to global markets.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Uses conceptual, theoretical comparisons between political systems to make a broader abstract point, matching the conceptual and theoretical keywords."
+                },
+                {
+                    "text_segment": "excessive government interference tends discourage entrepreneurship essential for prosperity.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Makes a reasoned, objective argument about economic policy, matching the logical and reasonable keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A consistently focuses on concrete, practical realities, follows rules and guidelines in a methodical way, and makes critical objective judgments about others' behavior, suggesting S, T, and J preferences. The engagement in open dialogue suggests mild Extraversion."
+                },
+                "person_B": {
+                    "type": "xNFT",
+                    "type (best guess)": "ENFJ",
+                    "summary": "Person B shows a blend of empathetic concern for community wellbeing (F) and logical, fact-based reasoning (T), with occasional abstract/conceptual thinking (N). The warm, community-oriented tone and expressive engagement lean toward F and E."
+                }
+            }
+        },
+        {
+            "global_id": 14,
+            "codings": [
+                {
+                    "text_segment": "I didn't know that. But why do we have to? What's wrong if I take my mask off for just one second? It isn't like anyone will notice!",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Resists rules and prefers a casual, open-ended approach to compliance, matching the casual and spontaneous keywords."
+                },
+                {
+                    "text_segment": "I've been here all day long without having anything happen to me. This virus has only affected a small number of people anyway. I doubt it'll come around here.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Relies on direct personal experience and present observable facts to dismiss risk, matching the experiential and present-oriented keywords."
+                },
+                {
+                    "text_segment": "Nobody knows if this virus even exists at all. We probably won't ever catch something anyway. So relax! Don't worry about little things!",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Attempts a skeptical, questioning dismissal of the threat based on perceived lack of evidence, matching the questioning and critical keywords."
+                },
+                {
+                    "text_segment": "I noticed you took your mask off, sir. I hope you're aware of how dangerous viruses can spread easily without wearing masks. They can travel up to three feet away from someone who is infected...",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Cites factual, logical information about virus transmission to make a reasoned argument, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "You think you shouldn't bother putting on a mask because maybe some random person out there somewhere may or may not be carrying an invisible virus that can kill them? Seriously? You're not being responsible!",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses critical, questioning language to challenge Person A's reasoning, matching the critical and questioning keywords."
+                },
+                {
+                    "text_segment": "I'm going to call security! You're acting ridiculous!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Responds with loud, action-oriented, expressive outburst directed outward, matching the expressive and action-oriented keywords."
+                },
+                {
+                    "text_segment": "I demand an apology. Tell me where you stand. Apologize or I swear I'll beat you up!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Highly expressive, confrontational, and action-oriented behavior directed outward, matching the expressive and active keywords."
+                },
+                {
+                    "text_segment": "You know what? Forget it. I quit. Let's go.",
+                    "speaker": "Person B",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Withdraws from the confrontation, choosing to disengage rather than escalate, matching the contained and quiet keywords."
+                },
+                {
+                    "text_segment": "I'm done talking to you. I'm gonna leave.",
+                    "speaker": "Person B",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Chooses to withdraw and disengage from the social conflict, matching the contained and private keywords."
+                },
+                {
+                    "text_segment": "You haven't heard everything yet! I still haven't finished what I wanted to say! You're not getting rid of me that easy!",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Insists on continued verbal engagement and expression, matching the expressive and active keywords."
+                },
+                {
+                    "text_segment": "Shut up, man. You sound crazy. I don't want to hear anymore. I'm gone.",
+                    "speaker": "Person B",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Repeatedly seeks to disengage and withdraw from the interaction, matching the contained and quiet keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESxP",
+                    "type (best guess)": "ESTP",
+                    "summary": "Person A is highly expressive, action-oriented, and confrontational (E), relies on present personal experience (S), and shows a casual disregard for rules (P), suggesting an ESTP profile."
+                },
+                "person_B": {
+                    "type": "IxTx",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person B starts with logical, fact-based arguments (T) and consistently withdraws from conflict, preferring to disengage (I), suggesting an introverted, thinking-oriented type like ISTJ."
+                }
+            }
+        },
+        {
+            "global_id": 15,
+            "codings": [
+                {
+                    "text_segment": "I just think that if we're going to go out into the world anyway, then there's no point to wearing masks. Besides, they make me feel like I can't breathe!",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on immediate, concrete physical discomfort and present practical reality, matching the present and experiential keywords."
+                },
+                {
+                    "text_segment": "my doctor told me that I have to do everything possible to prevent myself from catching anything right now. And for me, that means wearing a mask.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Relies on concrete, practical medical advice for present action, matching the practical and present-oriented keywords."
+                },
+                {
+                    "text_segment": "I know it doesn't seem important to you, but it does matter to me. Can you at least...",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Appeals to personal feelings and subjective importance, matching the subjective and accommodating keywords."
+                },
+                {
+                    "text_segment": "Sorry, man. That wasn't very nice of me. Here's mine. Put yours on, will ya? We gotta look out for each other during these times.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Shows empathy and concern for mutual wellbeing, matching the empathetic and compassionate keywords."
+                },
+                {
+                    "text_segment": "Personally, I'd rather take care of myself than worry about what others might decide to do. I try hard never to judge anyone unless I absolutely have to. Most folks aren't bad guys. I believe most people are actually pretty decent once you talk to them.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses an accepting, non-judgmental, tender-hearted view of others, matching the accepting and compassionate keywords."
+                },
+                {
+                    "text_segment": "We evolved over millions of years to survive and thrive together. If we didn't trust one another, humanity wouldn't exist anymore. It's just human nature to help each other out whenever we can.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Uses abstract, theoretical reasoning about human evolution and nature to make a conceptual point, matching the abstract and theoretical keywords."
+                },
+                {
+                    "text_segment": "Maybe they just don't realize how dangerous it is. Or maybe they're not aware that they're breaking the rules. Either way, it still makes me uncomfortable.",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses subjective discomfort and empathetic consideration of others' possible ignorance, matching the subjective and empathetic keywords."
+                },
+                {
+                    "text_segment": "When we first moved next door to each other, we both kept to ourselves because neither of us knew exactly what to expect from the other person. I remember feeling kind of wary of her.",
+                    "speaker": "Person B",
+                    "category": "Introversion",
+                    "indicator": "I",
+                    "reasoning": "Describes an initial tendency to keep to oneself and be cautious in new social situations, matching the private and contained keywords."
+                },
+                {
+                    "text_segment": "I think we're only starting to become friends now. It takes time sometimes, but eventually, we'll figure it out. We have to learn to let people be themselves. We shouldn't jump to conclusions based on stereotypes.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Advocates for an open-ended, emergent approach to relationships without rushing to judgment, matching the open-ended and casual keywords."
+                },
+                {
+                    "text_segment": "I wish I had the courage to ask her out sometime soon. It would be fun having two people interested in me. I wonder how many other people have feelings for me, but haven't asked me out yet.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Expresses enthusiasm about social connections and being desired by multiple people, matching the gregarious and enthusiastic keywords."
+                },
+                {
+                    "text_segment": "It's amazing how alike we are. No wonder we hit it off so quickly. Maybe it's karma or destiny or something. It sure feels like fate brought us together somehow.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Engages in abstract, imaginative thinking about fate and destiny, matching the abstract and imaginative keywords."
+                },
+                {
+                    "text_segment": "I love this place! Did you grow up near here? I used to visit all the time growing up. My parents loved to bring me to the beach. It reminds me of home every time I walk past the ocean.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Expresses enthusiastic, open engagement with the environment and social sharing of personal memories, matching the expressive and enthusiastic keywords."
+                },
+                {
+                    "text_segment": "This area looks different to me now that I'm older. Back then, it looked completely different. Everything seemed bigger, brighter, and fuller of life.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Reflects on concrete, experiential memories of a specific place, matching the experiential and concrete keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xFxP",
+                    "type (best guess)": "INFP",
+                    "summary": "Person A shows strong Feeling preferences through empathy and non-judgmental acceptance of others, a Perceiving tendency in open-ended relationship building, and occasional Intuitive thinking about fate, suggesting INFP."
+                },
+                "person_B": {
+                    "type": "ExFx",
+                    "type (best guess)": "ENFP",
+                    "summary": "Person B is enthusiastic and socially expressive (E), uses abstract theoretical reasoning (N), and shows warm concern for others' feelings (F), suggesting an ENFP profile."
+                }
+            }
+        },
+        {
+            "global_id": 16,
+            "codings": [
+                {
+                    "text_segment": "I'm just worried about my health. I have asthma. If something bad happens here, I'll probably die. And then there will be no one left to take care of you. So... can we please go back home?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses subjective fear and concern for both self and the other person, matching the subjective and empathetic keywords."
+                },
+                {
+                    "text_segment": "Well, alright, let's do whatever you want. Just get outta here.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Shows a casual, spontaneous willingness to change plans without resistance, matching the casual and spontaneous keywords."
+                },
+                {
+                    "text_segment": "I swear! You're gonna have to take them off before I even give you a hug. That's how much I hate these things! It's like they're trying to kill us, man. They're suffocating me.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Expresses feelings loudly and dramatically in an outward, expressive manner, matching the expressive and enthusiastic keywords."
+                },
+                {
+                    "text_segment": "Maybe we could find someplace outside where people aren't wearing masks anymore.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Suggests an open-ended, spontaneous alternative plan, matching the spontaneous and options-oriented keywords."
+                },
+                {
+                    "text_segment": "Did anything happen between you and your wife recently? Or maybe she found out about your secret life and decided to break up with you?",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Openly and directly probes into personal matters without hesitation, matching the expressive and open keywords."
+                },
+                {
+                    "text_segment": "She seems really sweet and nice most of the time. But sometimes I catch her staring at another guy.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, observable behaviors in the present, matching the concrete and experiential keywords."
+                },
+                {
+                    "text_segment": "She's lying again. And she knows very well that I'm suspicious. But instead of talking to me honestly, she keeps pretending everything is okay. It makes me mad because I love her too much.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses strong emotional reactions driven by love and subjective hurt, matching the subjective and tender-hearted keywords."
+                },
+                {
+                    "text_segment": "What kind of person would do such a thing?! And why didn't she ever mention anything to me before? Does she even consider me as part of her life?",
+                    "speaker": "Person A",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses emotional hurt and subjective sense of exclusion, matching the subjective and empathetic keywords."
+                },
+                {
+                    "text_segment": "She wouldn't do something like that unless she had a really solid reason for it. Believe me. I'd never ask her to do something that would hurt others.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Defends the other person's actions based on emotional loyalty and concern for not hurting others, matching the empathetic and compassionate keywords."
+                },
+                {
+                    "text_segment": "she shouldn't make decisions based only on feelings. She needs to think logically. Especially when it involves her kids. If she leaves, she's abandoning them.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Explicitly advocates for logical, objective decision-making over emotional reasoning, matching the logical and objective keywords."
+                },
+                {
+                    "text_segment": "They deserve stability.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values structured, stable environments for children, matching the systematic and methodical keywords."
+                },
+                {
+                    "text_segment": "She believes that being with me is worth risking it. She thinks it'll help bring her family closer together eventually.",
+                    "speaker": "Person B",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Focuses on future possibilities and hoped-for outcomes rather than present realities, matching the future and conceptual keywords."
+                },
+                {
+                    "text_segment": "I need honesty and transparency. Otherwise, I'll lose faith in her completely.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Values clear, structured expectations and closure in relationships, matching the closure and methodical keywords."
+                },
+                {
+                    "text_segment": "I'll try my best to convince her to open up to you again. I'll remind her how important it is for friends to communicate openly. I'll encourage her to share her problems with you rather than keeping quiet about them.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Takes an accommodating, empathetic mediating role focused on emotional communication, matching the empathetic and accommodating keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xTJx",
+                    "type (best guess)": "ISTJ",
+                    "summary": "Person A values logical decision-making, stability, and transparency (T, J), while also showing emotional vulnerability (F). The overall pattern of seeking structure, logical reasoning, and concrete observation points to ISTJ."
+                },
+                "person_B": {
+                    "type": "ExFP",
+                    "type (best guess)": "ENFP",
+                    "summary": "Person B is expressive and open (E), focuses on future possibilities and hoped-for outcomes (N), and is driven by emotional loyalty and empathy (F), with a casual, spontaneous approach to plans (P), suggesting ENFP."
+                }
+            }
+        },
+        {
+            "global_id": 17,
+            "codings": [
+                {
+                    "text_segment": "I wouldn't have a job anymore, man! I'd lose my pay check for sure. So please, just do us both a...",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on concrete, practical consequences in the present (losing a job, paycheck), matching the practical and present-oriented keywords."
+                },
+                {
+                    "text_segment": "I've been wearing masks forever and ever since I could remember. This one just feels too tight around here. Can't breathe. It's suffocating.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on immediate, concrete physical sensations and experiential discomfort, matching the experiential and present-oriented keywords."
+                },
+                {
+                    "text_segment": "Just put that damn thing back over your face before someone gets sick off of you. We can't let this spread further than necessary. That's why they made this rule in the first place.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Insists on following established rules and systematic safety measures, matching the systematic and methodical keywords."
+                },
+                {
+                    "text_segment": "I'll try them on. If I still feel uncomfortable afterwards, then okay, I will comply. But otherwise, I'm sticking with this one.",
+                    "speaker": "Person B",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Takes a casual, open-ended, pressure-prompted approach to compliance rather than a planful one, matching the casual and open-ended keywords."
+                },
+                {
+                    "text_segment": "Just make sure nobody catches anything from you while you're at it. Otherwise, you might have to call in sick again.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Makes a logical, practical warning about consequences, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "if I just got over an illness recently and already recovered, then chances are pretty slim that I would pass anything along.",
+                    "speaker": "Person B",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses logical reasoning about probability and medical facts to assess risk, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "I think it'd actually be better to just stick with this one instead of getting a different kind. Because if you change your mind halfway through, then you may never get used to whatever alternative version.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Advocates for consistency and sticking to a plan rather than switching options, matching the systematic and closure-oriented keywords."
+                },
+                {
+                    "text_segment": "I suppose you're right. If I want to continue living comfortably, without having to worry about catching colds constantly, then I need to suck it up and deal with things.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on practical, present-oriented comfort and realistic acceptance of the situation, matching the practical and realistic keywords."
+                },
+                {
+                    "text_segment": "who wants to spend their whole life being a germaphobe anyway? Not me. Nobody likes dealing with sicknesses. Even if sometimes it's unavoidable... I think that's part of what makes humanity so resilient as a species. We learn from past mistakes and use that knowledge to avoid making similar errors in the future.",
+                    "speaker": "Person A",
+                    "category": "Intuition",
+                    "indicator": "N",
+                    "reasoning": "Moves from a concrete topic to an abstract, conceptual reflection on human resilience and learning, matching the abstract and conceptual keywords."
+                },
+                {
+                    "text_segment": "thanks for reminding me. It definitely helps remind myself to practice good hygiene habits. Like washing hands regularly and covering mouths when sneezing or coughing.",
+                    "speaker": "Person B",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Returns to concrete, practical hygiene behaviors, matching the concrete and practical keywords."
+                },
+                {
+                    "text_segment": "isn't that the whole reason behind social distancing measures like quarantining ourselves indoors whenever possible? To prevent the spread of germs among crowds of people?",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Applies logical, systematic reasoning to justify public health measures, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "I believe you proved once-and-for-all that it's important to listen to other perspectives and respect differences between individuals. After all, everyone responds differently to external stimuli, especially when faced with unfamiliar situations like pandemic.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Emphasizes the value of respecting individual differences and listening to others, matching the accepting and empathetic keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "xSTJ",
+                    "type (best guess)": "ESTJ",
+                    "summary": "Person A consistently enforces rules and structured safety measures (J), uses logical reasoning (T), and focuses on practical present consequences (S), with an outwardly directive communication style suggesting Extraversion."
+                },
+                "person_B": {
+                    "type": "xSxP",
+                    "type (best guess)": "ISFP",
+                    "summary": "Person B focuses on concrete physical sensations and practical realities (S), takes a casual, open-ended approach to compliance (P), and ultimately values respecting individual differences (F), suggesting ISFP."
+                }
+            }
+        },
+        {
+            "global_id": 18,
+            "codings": [
+                {
+                    "text_segment": "I'm not really feeling well today. I think I've caught something from one of my coworkers. I just wanted to come out for some fresh air.",
+                    "speaker": "Person A",
+                    "category": "Sensing",
+                    "indicator": "S",
+                    "reasoning": "Focuses on immediate, concrete physical sensations and present circumstances, matching the present and experiential keywords."
+                },
+                {
+                    "text_segment": "masks aren't that great. They're uncomfortable and they make talking difficult. I'd rather take my chances without them.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Takes a casual, spontaneous approach to risk rather than following structured safety guidelines, matching the casual and spontaneous keywords."
+                },
+                {
+                    "text_segment": "I know how you feel! I hate wearing those things too... It's hard enough to talk when we have a face full of food.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Immediately empathizes with Person A's discomfort, matching the empathetic and accommodating keywords."
+                },
+                {
+                    "text_segment": "do you want me to call an ambulance? Or maybe we could go get you checked up at our local hospital? We shouldn't ignore signs of illness. That would be unwise.",
+                    "speaker": "Person B",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes systematic, planful action in response to a health concern, matching the systematic and methodical keywords."
+                },
+                {
+                    "text_segment": "I can wait until tomorrow before going to see the doctor if necessary. I doubt anything serious will happen unless there's already been an epidemic where I work.",
+                    "speaker": "Person A",
+                    "category": "Perceiving",
+                    "indicator": "P",
+                    "reasoning": "Delays action and takes a pressure-prompted, open-ended approach to health care, matching the pressure-prompted and casual keywords."
+                },
+                {
+                    "text_segment": "most people who catch colds only stay sick for three or four days tops. That's why I thought it might be okay to skip masking.",
+                    "speaker": "Person A",
+                    "category": "Thinking",
+                    "indicator": "T",
+                    "reasoning": "Uses logical, statistical reasoning to justify a decision, matching the logical and reasonable keywords."
+                },
+                {
+                    "text_segment": "What did you bring with you today? Anything delicious? I heard the smell of baked goods wafting over into my direction earlier. Did someone buy cookies again? Oh, I love cookies.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Enthusiastically engages in open, gregarious conversation about sensory pleasures, matching the enthusiastic and expressive keywords."
+                },
+                {
+                    "text_segment": "I brought a couple of packages of cookies along with me as usual. I got some chocolate chip ones and some oatmeal raisin ones. Both are pretty good treats. Why don't you grab yourself some while I finish paying for these groceries?",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Openly shares and invites social interaction, matching the open and gregarious keywords."
+                },
+                {
+                    "text_segment": "I'm sorry for being such a burden to you during the whole trip. I guess it wasn't worth bringing me along since you've already done so much for me already. I promise to be less trouble next time.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Expresses guilt and concern about being a burden to others, showing empathetic and tender-hearted self-reflection, matching the empathetic and compassionate keywords."
+                },
+                {
+                    "text_segment": "I enjoy having company while I shop around here. It keeps me awake and alert. Plus, we both like cookies so we usually end up eating quite a bit of them together.",
+                    "speaker": "Person A",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Explicitly values having company and social interaction while doing activities, matching the gregarious and active keywords."
+                },
+                {
+                    "text_segment": "I really appreciate you saying that. I know you mean it sincerely. It means a lot to hear that kind of encouragement from others. You made my day.",
+                    "speaker": "Person B",
+                    "category": "Feeling",
+                    "indicator": "F",
+                    "reasoning": "Responds warmly and emotionally to encouragement, showing tender-hearted appreciation, matching the tender-hearted and accepting keywords."
+                },
+                {
+                    "text_segment": "Now that I know you care, I won't hesitate to ask you for favors whenever I run short on cash or if I ever get hungry.",
+                    "speaker": "Person B",
+                    "category": "Extraversion",
+                    "indicator": "E",
+                    "reasoning": "Openly expresses willingness to seek social support and connection, matching the open and gregarious keywords."
+                },
+                {
+                    "text_segment": "Just tell me anytime you'd like to join me. We'll share whatever we bought between us and split the bill 50/50.",
+                    "speaker": "Person A",
+                    "category": "Judging",
+                    "indicator": "J",
+                    "reasoning": "Proposes a clear, structured arrangement for future interactions, matching the systematic and scheduled keywords."
+                }
+            ],
+            "final_conclusion": {
+                "person_A": {
+                    "type": "ESTx",
+                    "type (best guess)": "ESTP",
+                    "summary": "Person A is socially open and enjoys company (E), focuses on concrete present realities and physical sensations (S), uses logical reasoning to justify decisions (T), and takes a casual, delay-prone approach to health concerns (P), suggesting ESTP."
+                },
+                "person_B": {
+                    "type": "ExFJ",
+                    "type (best guess)": "ESFJ",
+                    "summary": "Person B is enthusiastic and socially expressive (E), shows strong empathy and concern for others' feelings (F), and takes a planful, action-oriented approach to problems (J), suggesting ESFJ."
+                }
+            }
+        }
+    ]
+}
