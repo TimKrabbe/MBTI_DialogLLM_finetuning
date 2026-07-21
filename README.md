@@ -1,3 +1,5 @@
+# Grade: A
+____________________________________________________________________________________________
 # Master thesis project: Personality-Aware LLM-based Dialogue Simulation for Pedestrians
 
 The goal is to fine-tune an LLM for personality-based dialogue generation for social simulation purposes. 
@@ -32,4 +34,4 @@ Model: [Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)
 Fine-tuning was done on the Alvis HPC cluster from Chalmers as part of the National Academic Infrastructure for Super­computing in Sweden ([NAISS](https://www.naiss.se/))
 
 ### Results
-Work in progress!
+Will be updated soon!
